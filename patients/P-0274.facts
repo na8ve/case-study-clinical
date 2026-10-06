@@ -1,0 +1,9 @@
+# Synthetic patient P-0274.
+P-0274 | presents_with | Recurrent fatigue | Patient P-0274 presents with recurrent fatigue.
+P-0274 | presents_with | Low mood | Patient P-0274 presents with low mood.
+P-0274 | presents_with | Insomnia | Patient P-0274 presents with insomnia.
+P-0274 | presents_with | Weight change | Patient P-0274 presents with weight change.
+P-0274 | presents_with | Palpitations | Patient P-0274 also reports palpitations.
+P-0274 | underwent | PHQ-9 screening | Patient P-0274 underwent PHQ-9 screening.
+P-0274 | diagnosed_with | Major depressive disorder | Patient P-0274 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0274 | treated_with | Psychotherapy | Patient P-0274 is treated with psychotherapy.

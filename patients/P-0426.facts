@@ -1,0 +1,9 @@
+# Synthetic patient P-0426.
+P-0426 | presents_with | Recurrent fatigue | Patient P-0426 presents with recurrent fatigue.
+P-0426 | presents_with | Pallor | Patient P-0426 presents with pallor.
+P-0426 | presents_with | Dark urine | Patient P-0426 presents with dark urine.
+P-0426 | has_lab | Low hemoglobin | Patient P-0426 has low hemoglobin (hemoglobin 9.9 g/dL).
+P-0426 | has_lab | Elevated bilirubin | Patient P-0426 has elevated bilirubin (bilirubin 4.0 mg/dL).
+P-0426 | underwent | Coombs test | Patient P-0426 underwent Coombs test.
+P-0426 | diagnosed_with | Hemolytic anemia | Patient P-0426 was diagnosed with hemolytic anemia after Coombs test.
+P-0426 | treated_with | Corticosteroids | Patient P-0426 is treated with corticosteroids.

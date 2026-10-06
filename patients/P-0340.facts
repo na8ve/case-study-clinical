@@ -1,0 +1,6 @@
+# Synthetic patient P-0340.
+P-0340 | presents_with | Shortness of breath | Patient P-0340 presents with shortness of breath.
+P-0340 | presents_with | Dry skin | Patient P-0340 also reports dry skin.
+P-0340 | underwent | Echocardiogram | Patient P-0340 underwent Echocardiogram.
+P-0340 | diagnosed_with | Heart failure | Patient P-0340 was diagnosed with heart failure after Echocardiogram.
+P-0340 | treated_with | ACE inhibitor therapy | Patient P-0340 is treated with ace inhibitor therapy.

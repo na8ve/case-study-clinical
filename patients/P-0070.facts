@@ -1,0 +1,10 @@
+# Synthetic patient P-0070.
+P-0070 | presents_with | Recurrent fatigue | Patient P-0070 presents with recurrent fatigue.
+P-0070 | presents_with | Pallor | Patient P-0070 presents with pallor.
+P-0070 | presents_with | Shortness of breath | Patient P-0070 presents with shortness of breath.
+P-0070 | presents_with | Brittle nails | Patient P-0070 presents with brittle nails.
+P-0070 | presents_with | Low mood | Patient P-0070 also reports low mood.
+P-0070 | has_lab | Low serum ferritin | Patient P-0070 has low serum ferritin (ferritin 12 ng/mL).
+P-0070 | underwent | Complete blood count | Patient P-0070 underwent Complete blood count.
+P-0070 | diagnosed_with | Iron deficiency anemia | Patient P-0070 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0070 | treated_with | Oral iron supplementation | Patient P-0070 is treated with oral iron supplementation.

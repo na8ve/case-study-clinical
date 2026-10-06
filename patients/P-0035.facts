@@ -1,0 +1,6 @@
+# Synthetic patient P-0035.
+P-0035 | presents_with | Joint pain | Patient P-0035 presents with joint pain.
+P-0035 | presents_with | Morning stiffness | Patient P-0035 presents with morning stiffness.
+P-0035 | underwent | Joint X-ray | Patient P-0035 underwent Joint X-ray.
+P-0035 | diagnosed_with | Osteoarthritis | Patient P-0035 was diagnosed with osteoarthritis after Joint X-ray.
+P-0035 | treated_with | Physical therapy | Patient P-0035 is treated with physical therapy.

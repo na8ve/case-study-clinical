@@ -1,0 +1,9 @@
+# Synthetic patient P-0218.
+P-0218 | presents_with | Recurrent fatigue | Patient P-0218 presents with recurrent fatigue.
+P-0218 | presents_with | Bronze skin | Patient P-0218 presents with bronze skin.
+P-0218 | presents_with | Abdominal pain | Patient P-0218 presents with abdominal pain.
+P-0218 | presents_with | Dry skin | Patient P-0218 also reports dry skin.
+P-0218 | has_lab | High serum ferritin | Patient P-0218 has high serum ferritin (ferritin 819 ng/mL).
+P-0218 | underwent | HFE gene test | Patient P-0218 underwent HFE gene test.
+P-0218 | diagnosed_with | Hereditary hemochromatosis | Patient P-0218 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0218 | treated_with | Therapeutic phlebotomy | Patient P-0218 is treated with therapeutic phlebotomy.

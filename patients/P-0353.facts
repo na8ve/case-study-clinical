@@ -1,0 +1,7 @@
+# Synthetic patient P-0353.
+P-0353 | presents_with | Daytime sleepiness | Patient P-0353 presents with daytime sleepiness.
+P-0353 | presents_with | Snoring | Patient P-0353 presents with snoring.
+P-0353 | has_risk | Obesity | Patient P-0353 has a risk factor: obesity.
+P-0353 | underwent | Polysomnography | Patient P-0353 underwent Polysomnography.
+P-0353 | diagnosed_with | Obstructive sleep apnea | Patient P-0353 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0353 | treated_with | CPAP therapy | Patient P-0353 is treated with cpap therapy.

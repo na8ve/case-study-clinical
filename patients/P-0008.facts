@@ -1,0 +1,6 @@
+# Synthetic patient P-0008.
+P-0008 | presents_with | Shortness of breath | Patient P-0008 presents with shortness of breath.
+P-0008 | presents_with | Leg swelling | Patient P-0008 presents with leg swelling.
+P-0008 | underwent | Echocardiogram | Patient P-0008 underwent Echocardiogram.
+P-0008 | diagnosed_with | Heart failure | Patient P-0008 was diagnosed with heart failure after Echocardiogram.
+P-0008 | treated_with | ACE inhibitor therapy | Patient P-0008 is treated with ace inhibitor therapy.

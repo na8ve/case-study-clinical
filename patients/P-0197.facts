@@ -1,0 +1,13 @@
+# Synthetic patient P-0197.
+P-0197 | presents_with | Recurrent fatigue | Patient P-0197 presents with recurrent fatigue.
+P-0197 | presents_with | Bronze skin | Patient P-0197 presents with bronze skin.
+P-0197 | presents_with | Joint pain | Patient P-0197 presents with joint pain.
+P-0197 | presents_with | Abdominal pain | Patient P-0197 presents with abdominal pain.
+P-0197 | presents_with | Low mood | Patient P-0197 also reports low mood.
+P-0197 | has_lab | High serum ferritin | Patient P-0197 has high serum ferritin (ferritin 1304 ng/mL).
+P-0197 | has_lab | High transferrin saturation | Patient P-0197 has high transferrin saturation (transferrin saturation 86%).
+P-0197 | has_risk | Family history of hemochromatosis | Patient P-0197 has a risk factor: family history of hemochromatosis.
+P-0197 | underwent | HFE gene test | Patient P-0197 underwent HFE gene test.
+P-0197 | diagnosed_with | Hereditary hemochromatosis | Patient P-0197 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0197 | treated_with | Therapeutic phlebotomy | Patient P-0197 is treated with therapeutic phlebotomy.
+P-0197 | responding_to | Therapeutic phlebotomy | Patient P-0197 is responding to therapeutic phlebotomy at follow-up.

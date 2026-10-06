@@ -1,0 +1,5 @@
+# Synthetic patient P-0336.
+P-0336 | presents_with | Recurrent fatigue | Patient P-0336 presents with recurrent fatigue.
+P-0336 | presents_with | Frequent urination | Patient P-0336 presents with frequent urination.
+P-0336 | presents_with | Dry skin | Patient P-0336 also reports dry skin.
+P-0336 | has_lab | Elevated creatinine | Patient P-0336 has elevated creatinine (creatinine 3.7 mg/dL).

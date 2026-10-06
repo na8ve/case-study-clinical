@@ -1,0 +1,7 @@
+# Synthetic patient P-0369.
+P-0369 | presents_with | Fever | Patient P-0369 presents with fever.
+P-0369 | presents_with | Bloating | Patient P-0369 also reports bloating.
+P-0369 | has_lab | High serum ferritin | Patient P-0369 has high serum ferritin (ferritin 759 ng/mL).
+P-0369 | underwent | Blood culture | Patient P-0369 underwent Blood culture.
+P-0369 | diagnosed_with | Acute infection | Patient P-0369 was diagnosed with acute infection after Blood culture.
+P-0369 | treated_with | Antibiotic therapy | Patient P-0369 is treated with antibiotic therapy.

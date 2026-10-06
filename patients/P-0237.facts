@@ -1,0 +1,7 @@
+# Synthetic patient P-0237.
+P-0237 | presents_with | Weight loss | Patient P-0237 presents with weight loss.
+P-0237 | presents_with | Palpitations | Patient P-0237 presents with palpitations.
+P-0237 | has_lab | Low TSH | Patient P-0237 has low tsh (TSH 0.13 mIU/L).
+P-0237 | underwent | Thyroid function panel | Patient P-0237 underwent Thyroid function panel.
+P-0237 | diagnosed_with | Hyperthyroidism | Patient P-0237 was diagnosed with hyperthyroidism after Thyroid function panel.
+P-0237 | treated_with | Methimazole | Patient P-0237 is treated with methimazole.

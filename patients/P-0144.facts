@@ -1,0 +1,11 @@
+# Synthetic patient P-0144.
+P-0144 | presents_with | Frequent urination | Patient P-0144 presents with frequent urination.
+P-0144 | presents_with | Excessive thirst | Patient P-0144 presents with excessive thirst.
+P-0144 | presents_with | Recurrent fatigue | Patient P-0144 presents with recurrent fatigue.
+P-0144 | has_lab | High HbA1c | Patient P-0144 has high hba1c (HbA1c 9.1%).
+P-0144 | has_lab | High fasting glucose | Patient P-0144 has high fasting glucose (fasting glucose 147 mg/dL).
+P-0144 | has_risk | Obesity | Patient P-0144 has a risk factor: obesity.
+P-0144 | underwent | Oral glucose tolerance test | Patient P-0144 underwent Oral glucose tolerance test.
+P-0144 | diagnosed_with | Type 2 diabetes | Patient P-0144 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0144 | treated_with | Metformin | Patient P-0144 is treated with metformin.
+P-0144 | responding_to | Metformin | Patient P-0144 is responding to metformin at follow-up.

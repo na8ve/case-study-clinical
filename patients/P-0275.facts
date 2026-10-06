@@ -1,0 +1,11 @@
+# Synthetic patient P-0275.
+P-0275 | presents_with | Recurrent fatigue | Patient P-0275 presents with recurrent fatigue.
+P-0275 | presents_with | Jaundice | Patient P-0275 presents with jaundice.
+P-0275 | presents_with | Pallor | Patient P-0275 presents with pallor.
+P-0275 | presents_with | Dark urine | Patient P-0275 presents with dark urine.
+P-0275 | presents_with | Palpitations | Patient P-0275 also reports palpitations.
+P-0275 | has_lab | Low hemoglobin | Patient P-0275 has low hemoglobin (hemoglobin 9.0 g/dL).
+P-0275 | has_lab | Elevated bilirubin | Patient P-0275 has elevated bilirubin (bilirubin 2.6 mg/dL).
+P-0275 | underwent | Coombs test | Patient P-0275 underwent Coombs test.
+P-0275 | diagnosed_with | Hemolytic anemia | Patient P-0275 was diagnosed with hemolytic anemia after Coombs test.
+P-0275 | treated_with | Corticosteroids | Patient P-0275 is treated with corticosteroids.

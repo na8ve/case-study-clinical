@@ -1,0 +1,9 @@
+# Synthetic patient P-0043.
+P-0043 | presents_with | Shortness of breath | Patient P-0043 presents with shortness of breath.
+P-0043 | presents_with | Leg swelling | Patient P-0043 presents with leg swelling.
+P-0043 | presents_with | Recurrent fatigue | Patient P-0043 presents with recurrent fatigue.
+P-0043 | has_lab | Elevated BNP | Patient P-0043 has elevated bnp (BNP 1275 pg/mL).
+P-0043 | underwent | Echocardiogram | Patient P-0043 underwent Echocardiogram.
+P-0043 | diagnosed_with | Heart failure | Patient P-0043 was diagnosed with heart failure after Echocardiogram.
+P-0043 | treated_with | ACE inhibitor therapy | Patient P-0043 is treated with ace inhibitor therapy.
+P-0043 | responding_to | ACE inhibitor therapy | Patient P-0043 is responding to ace inhibitor therapy at follow-up.

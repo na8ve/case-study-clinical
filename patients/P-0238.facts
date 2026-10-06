@@ -1,0 +1,8 @@
+# Synthetic patient P-0238.
+P-0238 | presents_with | Recurrent fatigue | Patient P-0238 presents with recurrent fatigue.
+P-0238 | presents_with | Jaundice | Patient P-0238 presents with jaundice.
+P-0238 | has_lab | Elevated liver enzymes | Patient P-0238 has elevated liver enzymes (ALT 98 U/L).
+P-0238 | underwent | HCV RNA test | Patient P-0238 underwent HCV RNA test.
+P-0238 | diagnosed_with | Hepatitis C | Patient P-0238 was diagnosed with hepatitis c after HCV RNA test.
+P-0238 | treated_with | Direct-acting antivirals | Patient P-0238 is treated with direct-acting antivirals.
+P-0238 | responding_to | Direct-acting antivirals | Patient P-0238 is responding to direct-acting antivirals at follow-up.

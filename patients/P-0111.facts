@@ -1,0 +1,9 @@
+# Synthetic patient P-0111.
+P-0111 | presents_with | Daytime sleepiness | Patient P-0111 presents with daytime sleepiness.
+P-0111 | presents_with | Snoring | Patient P-0111 presents with snoring.
+P-0111 | presents_with | Recurrent fatigue | Patient P-0111 presents with recurrent fatigue.
+P-0111 | has_risk | Obesity | Patient P-0111 has a risk factor: obesity.
+P-0111 | underwent | Polysomnography | Patient P-0111 underwent Polysomnography.
+P-0111 | diagnosed_with | Obstructive sleep apnea | Patient P-0111 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0111 | treated_with | CPAP therapy | Patient P-0111 is treated with cpap therapy.
+P-0111 | responding_to | CPAP therapy | Patient P-0111 is responding to cpap therapy at follow-up.

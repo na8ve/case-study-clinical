@@ -1,0 +1,10 @@
+# Synthetic patient P-0267.
+P-0267 | presents_with | Recurrent fatigue | Patient P-0267 presents with recurrent fatigue.
+P-0267 | presents_with | Jaundice | Patient P-0267 presents with jaundice.
+P-0267 | presents_with | Abdominal pain | Patient P-0267 presents with abdominal pain.
+P-0267 | presents_with | Bloating | Patient P-0267 also reports bloating.
+P-0267 | has_lab | Elevated liver enzymes | Patient P-0267 has elevated liver enzymes (ALT 101 U/L).
+P-0267 | underwent | HCV RNA test | Patient P-0267 underwent HCV RNA test.
+P-0267 | diagnosed_with | Hepatitis C | Patient P-0267 was diagnosed with hepatitis c after HCV RNA test.
+P-0267 | treated_with | Direct-acting antivirals | Patient P-0267 is treated with direct-acting antivirals.
+P-0267 | responding_to | Direct-acting antivirals | Patient P-0267 is responding to direct-acting antivirals at follow-up.

@@ -1,0 +1,9 @@
+# Synthetic patient P-0078.
+P-0078 | presents_with | Recurrent fatigue | Patient P-0078 presents with recurrent fatigue.
+P-0078 | presents_with | Pallor | Patient P-0078 presents with pallor.
+P-0078 | presents_with | Bronze skin | Patient P-0078 presents with bronze skin.
+P-0078 | has_lab | Low MCV | Patient P-0078 has low mcv (MCV 61 fL).
+P-0078 | underwent | Hemoglobin electrophoresis | Patient P-0078 underwent Hemoglobin electrophoresis.
+P-0078 | diagnosed_with | Beta thalassemia | Patient P-0078 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0078 | treated_with | Iron chelation therapy | Patient P-0078 is treated with iron chelation therapy.
+P-0078 | responding_to | Iron chelation therapy | Patient P-0078 is responding to iron chelation therapy at follow-up.

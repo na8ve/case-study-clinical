@@ -1,0 +1,4 @@
+# Synthetic patient P-0129.
+P-0129 | presents_with | Fever | Patient P-0129 presents with fever.
+P-0129 | has_lab | High serum ferritin | Patient P-0129 has high serum ferritin (ferritin 676 ng/mL).
+P-0129 | has_lab | Elevated CRP | Patient P-0129 has elevated crp (CRP 38 mg/L).

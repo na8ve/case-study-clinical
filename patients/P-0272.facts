@@ -1,0 +1,9 @@
+# Synthetic patient P-0272.
+P-0272 | presents_with | Diarrhea | Patient P-0272 presents with diarrhea.
+P-0272 | presents_with | Bloating | Patient P-0272 presents with bloating.
+P-0272 | presents_with | Recurrent fatigue | Patient P-0272 presents with recurrent fatigue.
+P-0272 | presents_with | Weight loss | Patient P-0272 presents with weight loss.
+P-0272 | has_lab | Low hemoglobin | Patient P-0272 has low hemoglobin (hemoglobin 9.3 g/dL).
+P-0272 | underwent | tTG antibody test | Patient P-0272 underwent tTG antibody test.
+P-0272 | diagnosed_with | Celiac disease | Patient P-0272 was diagnosed with celiac disease after tTG antibody test.
+P-0272 | treated_with | Gluten-free diet | Patient P-0272 is treated with gluten-free diet.

@@ -1,0 +1,7 @@
+# Synthetic patient P-0029.
+P-0029 | presents_with | Recurrent fatigue | Patient P-0029 presents with recurrent fatigue.
+P-0029 | presents_with | Post-exertional malaise | Patient P-0029 presents with post-exertional malaise.
+P-0029 | presents_with | Unrefreshing sleep | Patient P-0029 presents with unrefreshing sleep.
+P-0029 | underwent | Exclusion workup | Patient P-0029 underwent Exclusion workup.
+P-0029 | diagnosed_with | Chronic fatigue syndrome | Patient P-0029 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0029 | treated_with | Activity pacing | Patient P-0029 is treated with activity pacing.

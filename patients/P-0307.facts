@@ -1,0 +1,8 @@
+# Synthetic patient P-0307.
+P-0307 | presents_with | Joint pain | Patient P-0307 presents with joint pain.
+P-0307 | presents_with | Morning stiffness | Patient P-0307 presents with morning stiffness.
+P-0307 | presents_with | Back pain | Patient P-0307 also reports back pain.
+P-0307 | underwent | Joint X-ray | Patient P-0307 underwent Joint X-ray.
+P-0307 | diagnosed_with | Osteoarthritis | Patient P-0307 was diagnosed with osteoarthritis after Joint X-ray.
+P-0307 | treated_with | Physical therapy | Patient P-0307 is treated with physical therapy.
+P-0307 | responding_to | Physical therapy | Patient P-0307 is responding to physical therapy at follow-up.

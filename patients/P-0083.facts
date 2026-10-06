@@ -1,0 +1,7 @@
+# Synthetic patient P-0083.
+P-0083 | presents_with | Weight loss | Patient P-0083 presents with weight loss.
+P-0083 | presents_with | Palpitations | Patient P-0083 presents with palpitations.
+P-0083 | presents_with | Heat intolerance | Patient P-0083 presents with heat intolerance.
+P-0083 | underwent | Thyroid function panel | Patient P-0083 underwent Thyroid function panel.
+P-0083 | diagnosed_with | Hyperthyroidism | Patient P-0083 was diagnosed with hyperthyroidism after Thyroid function panel.
+P-0083 | treated_with | Methimazole | Patient P-0083 is treated with methimazole.

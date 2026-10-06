@@ -1,0 +1,10 @@
+# Synthetic patient P-0125.
+P-0125 | presents_with | Recurrent fatigue | Patient P-0125 presents with recurrent fatigue.
+P-0125 | presents_with | Bronze skin | Patient P-0125 presents with bronze skin.
+P-0125 | presents_with | Weight loss | Patient P-0125 presents with weight loss.
+P-0125 | presents_with | Low blood pressure | Patient P-0125 presents with low blood pressure.
+P-0125 | has_lab | High potassium | Patient P-0125 has high potassium (potassium 5.5 mmol/L).
+P-0125 | underwent | ACTH stimulation test | Patient P-0125 underwent ACTH stimulation test.
+P-0125 | diagnosed_with | Addison's disease | Patient P-0125 was diagnosed with addison's disease after ACTH stimulation test.
+P-0125 | treated_with | Hydrocortisone replacement | Patient P-0125 is treated with hydrocortisone replacement.
+P-0125 | responding_to | Hydrocortisone replacement | Patient P-0125 is responding to hydrocortisone replacement at follow-up.

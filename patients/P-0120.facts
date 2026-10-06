@@ -1,0 +1,7 @@
+# Synthetic patient P-0120.
+P-0120 | presents_with | Recurrent fatigue | Patient P-0120 presents with recurrent fatigue.
+P-0120 | presents_with | Bronze skin | Patient P-0120 presents with bronze skin.
+P-0120 | presents_with | Joint pain | Patient P-0120 presents with joint pain.
+P-0120 | presents_with | Abdominal pain | Patient P-0120 presents with abdominal pain.
+P-0120 | has_lab | High serum ferritin | Patient P-0120 has high serum ferritin (ferritin 1116 ng/mL).
+P-0120 | has_lab | High transferrin saturation | Patient P-0120 has high transferrin saturation (transferrin saturation 63%).

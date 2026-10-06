@@ -1,0 +1,8 @@
+# Synthetic patient P-0305.
+P-0305 | presents_with | Recurrent fatigue | Patient P-0305 presents with recurrent fatigue.
+P-0305 | presents_with | Jaundice | Patient P-0305 presents with jaundice.
+P-0305 | presents_with | Abdominal pain | Patient P-0305 presents with abdominal pain.
+P-0305 | has_lab | Elevated liver enzymes | Patient P-0305 has elevated liver enzymes (ALT 167 U/L).
+P-0305 | underwent | HCV RNA test | Patient P-0305 underwent HCV RNA test.
+P-0305 | diagnosed_with | Hepatitis C | Patient P-0305 was diagnosed with hepatitis c after HCV RNA test.
+P-0305 | treated_with | Direct-acting antivirals | Patient P-0305 is treated with direct-acting antivirals.

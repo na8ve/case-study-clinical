@@ -1,0 +1,11 @@
+# Synthetic patient P-0384.
+P-0384 | presents_with | Frequent urination | Patient P-0384 presents with frequent urination.
+P-0384 | presents_with | Excessive thirst | Patient P-0384 presents with excessive thirst.
+P-0384 | presents_with | Recurrent fatigue | Patient P-0384 presents with recurrent fatigue.
+P-0384 | presents_with | Blurred vision | Patient P-0384 presents with blurred vision.
+P-0384 | presents_with | Back pain | Patient P-0384 also reports back pain.
+P-0384 | has_lab | High HbA1c | Patient P-0384 has high hba1c (HbA1c 7.7%).
+P-0384 | has_risk | Obesity | Patient P-0384 has a risk factor: obesity.
+P-0384 | underwent | Oral glucose tolerance test | Patient P-0384 underwent Oral glucose tolerance test.
+P-0384 | diagnosed_with | Type 2 diabetes | Patient P-0384 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0384 | treated_with | Metformin | Patient P-0384 is treated with metformin.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0004.
+P-0004 | presents_with | Recurrent fatigue | Patient P-0004 presents with recurrent fatigue.
+P-0004 | presents_with | Bronze skin | Patient P-0004 presents with bronze skin.
+P-0004 | presents_with | Weight loss | Patient P-0004 presents with weight loss.
+P-0004 | presents_with | Low blood pressure | Patient P-0004 presents with low blood pressure.
+P-0004 | has_lab | Low sodium | Patient P-0004 has low sodium (sodium 129 mmol/L).
+P-0004 | has_lab | High potassium | Patient P-0004 has high potassium (potassium 6.0 mmol/L).
+P-0004 | underwent | ACTH stimulation test | Patient P-0004 underwent ACTH stimulation test.
+P-0004 | diagnosed_with | Addison's disease | Patient P-0004 was diagnosed with addison's disease after ACTH stimulation test.
+P-0004 | treated_with | Hydrocortisone replacement | Patient P-0004 is treated with hydrocortisone replacement.

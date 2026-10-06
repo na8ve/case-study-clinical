@@ -1,0 +1,10 @@
+# Synthetic patient P-0379.
+P-0379 | presents_with | Recurrent fatigue | Patient P-0379 presents with recurrent fatigue.
+P-0379 | presents_with | Joint pain | Patient P-0379 presents with joint pain.
+P-0379 | presents_with | Abdominal pain | Patient P-0379 presents with abdominal pain.
+P-0379 | presents_with | Weight gain | Patient P-0379 also reports weight gain.
+P-0379 | has_lab | High serum ferritin | Patient P-0379 has high serum ferritin (ferritin 937 ng/mL).
+P-0379 | has_lab | High transferrin saturation | Patient P-0379 has high transferrin saturation (transferrin saturation 74%).
+P-0379 | underwent | HFE gene test | Patient P-0379 underwent HFE gene test.
+P-0379 | diagnosed_with | Hereditary hemochromatosis | Patient P-0379 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0379 | treated_with | Therapeutic phlebotomy | Patient P-0379 is treated with therapeutic phlebotomy.

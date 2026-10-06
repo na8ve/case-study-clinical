@@ -1,0 +1,6 @@
+# Synthetic patient P-0187.
+P-0187 | presents_with | Joint pain | Patient P-0187 presents with joint pain.
+P-0187 | presents_with | Headache | Patient P-0187 also reports headache.
+P-0187 | underwent | Joint X-ray | Patient P-0187 underwent Joint X-ray.
+P-0187 | diagnosed_with | Osteoarthritis | Patient P-0187 was diagnosed with osteoarthritis after Joint X-ray.
+P-0187 | treated_with | Physical therapy | Patient P-0187 is treated with physical therapy.

@@ -1,0 +1,7 @@
+# Synthetic patient P-0124.
+P-0124 | presents_with | Joint pain | Patient P-0124 presents with joint pain.
+P-0124 | presents_with | Insomnia | Patient P-0124 also reports insomnia.
+P-0124 | underwent | Joint X-ray | Patient P-0124 underwent Joint X-ray.
+P-0124 | diagnosed_with | Osteoarthritis | Patient P-0124 was diagnosed with osteoarthritis after Joint X-ray.
+P-0124 | treated_with | Physical therapy | Patient P-0124 is treated with physical therapy.
+P-0124 | responding_to | Physical therapy | Patient P-0124 is responding to physical therapy at follow-up.

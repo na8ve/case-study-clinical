@@ -1,0 +1,10 @@
+# Synthetic patient P-0365.
+P-0365 | presents_with | Recurrent fatigue | Patient P-0365 presents with recurrent fatigue.
+P-0365 | presents_with | Leg swelling | Patient P-0365 presents with leg swelling.
+P-0365 | presents_with | Frequent urination | Patient P-0365 presents with frequent urination.
+P-0365 | presents_with | Headache | Patient P-0365 also reports headache.
+P-0365 | has_lab | Elevated creatinine | Patient P-0365 has elevated creatinine (creatinine 3.9 mg/dL).
+P-0365 | underwent | Kidney function panel | Patient P-0365 underwent Kidney function panel.
+P-0365 | diagnosed_with | Chronic kidney disease | Patient P-0365 was diagnosed with chronic kidney disease after Kidney function panel.
+P-0365 | treated_with | Nephrology referral | Patient P-0365 is treated with nephrology referral.
+P-0365 | responding_to | Nephrology referral | Patient P-0365 is responding to nephrology referral at follow-up.

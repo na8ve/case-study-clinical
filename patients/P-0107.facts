@@ -1,0 +1,9 @@
+# Synthetic patient P-0107.
+P-0107 | presents_with | Recurrent fatigue | Patient P-0107 presents with recurrent fatigue.
+P-0107 | presents_with | Weight gain | Patient P-0107 presents with weight gain.
+P-0107 | presents_with | Dry skin | Patient P-0107 presents with dry skin.
+P-0107 | has_lab | High TSH | Patient P-0107 has high tsh (TSH 16.7 mIU/L).
+P-0107 | underwent | Thyroid function panel | Patient P-0107 underwent Thyroid function panel.
+P-0107 | diagnosed_with | Hypothyroidism | Patient P-0107 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0107 | treated_with | Levothyroxine | Patient P-0107 is treated with levothyroxine.
+P-0107 | responding_to | Levothyroxine | Patient P-0107 is responding to levothyroxine at follow-up.

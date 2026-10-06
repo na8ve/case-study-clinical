@@ -1,0 +1,6 @@
+# Synthetic patient P-0312.
+P-0312 | presents_with | Shortness of breath | Patient P-0312 presents with shortness of breath.
+P-0312 | presents_with | Leg swelling | Patient P-0312 presents with leg swelling.
+P-0312 | presents_with | Recurrent fatigue | Patient P-0312 presents with recurrent fatigue.
+P-0312 | presents_with | Back pain | Patient P-0312 also reports back pain.
+P-0312 | has_lab | Elevated BNP | Patient P-0312 has elevated bnp (BNP 997 pg/mL).

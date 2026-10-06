@@ -1,0 +1,9 @@
+# Synthetic patient P-0217.
+P-0217 | presents_with | Bone pain | Patient P-0217 presents with bone pain.
+P-0217 | presents_with | Recurrent fatigue | Patient P-0217 presents with recurrent fatigue.
+P-0217 | has_lab | Low hemoglobin | Patient P-0217 has low hemoglobin (hemoglobin 8.8 g/dL).
+P-0217 | has_lab | High calcium | Patient P-0217 has high calcium (calcium 13.0 mg/dL).
+P-0217 | underwent | Serum protein electrophoresis | Patient P-0217 underwent Serum protein electrophoresis.
+P-0217 | diagnosed_with | Multiple myeloma | Patient P-0217 was diagnosed with multiple myeloma after Serum protein electrophoresis.
+P-0217 | treated_with | Oncology referral | Patient P-0217 is treated with oncology referral.
+P-0217 | responding_to | Oncology referral | Patient P-0217 is responding to oncology referral at follow-up.

@@ -1,0 +1,11 @@
+# Synthetic patient P-0178.
+P-0178 | presents_with | Recurrent fatigue | Patient P-0178 presents with recurrent fatigue.
+P-0178 | presents_with | Joint pain | Patient P-0178 presents with joint pain.
+P-0178 | presents_with | Abdominal pain | Patient P-0178 presents with abdominal pain.
+P-0178 | has_lab | High serum ferritin | Patient P-0178 has high serum ferritin (ferritin 990 ng/mL).
+P-0178 | has_lab | High transferrin saturation | Patient P-0178 has high transferrin saturation (transferrin saturation 72%).
+P-0178 | has_risk | Family history of hemochromatosis | Patient P-0178 has a risk factor: family history of hemochromatosis.
+P-0178 | underwent | Liver MRI iron quantification | Patient P-0178 underwent Liver MRI iron quantification.
+P-0178 | diagnosed_with | Hereditary hemochromatosis | Patient P-0178 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0178 | treated_with | Therapeutic phlebotomy | Patient P-0178 is treated with therapeutic phlebotomy.
+P-0178 | responding_to | Therapeutic phlebotomy | Patient P-0178 is responding to therapeutic phlebotomy at follow-up.

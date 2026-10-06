@@ -1,0 +1,5 @@
+# Synthetic patient P-0446.
+P-0446 | presents_with | Recurrent fatigue | Patient P-0446 presents with recurrent fatigue.
+P-0446 | presents_with | Numbness | Patient P-0446 presents with numbness.
+P-0446 | presents_with | Pallor | Patient P-0446 presents with pallor.
+P-0446 | has_lab | Low hemoglobin | Patient P-0446 has low hemoglobin (hemoglobin 9.3 g/dL).

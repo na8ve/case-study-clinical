@@ -1,0 +1,9 @@
+# Synthetic patient P-0327.
+P-0327 | presents_with | Recurrent fatigue | Patient P-0327 presents with recurrent fatigue.
+P-0327 | presents_with | Low mood | Patient P-0327 also reports low mood.
+P-0327 | has_lab | Elevated liver enzymes | Patient P-0327 has elevated liver enzymes (ALT 54 U/L).
+P-0327 | has_lab | High serum ferritin | Patient P-0327 has high serum ferritin (ferritin 643 ng/mL).
+P-0327 | underwent | Liver ultrasound | Patient P-0327 underwent Liver ultrasound.
+P-0327 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0327 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0327 | treated_with | Lifestyle modification | Patient P-0327 is treated with lifestyle modification.
+P-0327 | responding_to | Lifestyle modification | Patient P-0327 is responding to lifestyle modification at follow-up.

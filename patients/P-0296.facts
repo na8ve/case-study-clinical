@@ -1,0 +1,7 @@
+# Synthetic patient P-0296.
+P-0296 | presents_with | Shortness of breath | Patient P-0296 presents with shortness of breath.
+P-0296 | presents_with | Skin lesions | Patient P-0296 presents with skin lesions.
+P-0296 | has_lab | High calcium | Patient P-0296 has high calcium (calcium 10.9 mg/dL).
+P-0296 | underwent | Chest CT | Patient P-0296 underwent Chest CT.
+P-0296 | diagnosed_with | Sarcoidosis | Patient P-0296 was diagnosed with sarcoidosis after Chest CT.
+P-0296 | treated_with | Corticosteroids | Patient P-0296 is treated with corticosteroids.

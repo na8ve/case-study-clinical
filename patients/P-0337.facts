@@ -1,0 +1,8 @@
+# Synthetic patient P-0337.
+P-0337 | presents_with | Shortness of breath | Patient P-0337 presents with shortness of breath.
+P-0337 | presents_with | Recurrent fatigue | Patient P-0337 presents with recurrent fatigue.
+P-0337 | has_lab | Elevated BNP | Patient P-0337 has elevated bnp (BNP 278 pg/mL).
+P-0337 | underwent | Echocardiogram | Patient P-0337 underwent Echocardiogram.
+P-0337 | diagnosed_with | Heart failure | Patient P-0337 was diagnosed with heart failure after Echocardiogram.
+P-0337 | treated_with | ACE inhibitor therapy | Patient P-0337 is treated with ace inhibitor therapy.
+P-0337 | responding_to | ACE inhibitor therapy | Patient P-0337 is responding to ace inhibitor therapy at follow-up.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0425.
+P-0425 | presents_with | Recurrent fatigue | Patient P-0425 presents with recurrent fatigue.
+P-0425 | presents_with | Leg swelling | Patient P-0425 presents with leg swelling.
+P-0425 | has_lab | Elevated creatinine | Patient P-0425 has elevated creatinine (creatinine 3.5 mg/dL).
+P-0425 | underwent | Kidney function panel | Patient P-0425 underwent Kidney function panel.
+P-0425 | diagnosed_with | Chronic kidney disease | Patient P-0425 was diagnosed with chronic kidney disease after Kidney function panel.
+P-0425 | treated_with | Nephrology referral | Patient P-0425 is treated with nephrology referral.
+P-0425 | responding_to | Nephrology referral | Patient P-0425 is responding to nephrology referral at follow-up.

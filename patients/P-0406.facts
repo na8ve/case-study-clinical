@@ -1,0 +1,8 @@
+# Synthetic patient P-0406.
+P-0406 | presents_with | Fever | Patient P-0406 presents with fever.
+P-0406 | presents_with | Sore throat | Patient P-0406 presents with sore throat.
+P-0406 | presents_with | Recurrent fatigue | Patient P-0406 presents with recurrent fatigue.
+P-0406 | presents_with | Swollen lymph nodes | Patient P-0406 presents with swollen lymph nodes.
+P-0406 | underwent | Monospot test | Patient P-0406 underwent Monospot test.
+P-0406 | diagnosed_with | Infectious mononucleosis | Patient P-0406 was diagnosed with infectious mononucleosis after Monospot test.
+P-0406 | treated_with | Supportive care | Patient P-0406 is treated with supportive care.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0026.
+P-0026 | presents_with | Jaundice | Patient P-0026 presents with jaundice.
+P-0026 | presents_with | Recurrent fatigue | Patient P-0026 presents with recurrent fatigue.
+P-0026 | presents_with | Low mood | Patient P-0026 also reports low mood.
+P-0026 | has_lab | Elevated liver enzymes | Patient P-0026 has elevated liver enzymes (AST 141 U/L).
+P-0026 | has_risk | Heavy alcohol use | Patient P-0026 has a risk factor: heavy alcohol use.
+P-0026 | underwent | Liver elastography | Patient P-0026 underwent Liver elastography.
+P-0026 | diagnosed_with | Cirrhosis | Patient P-0026 was diagnosed with cirrhosis after Liver elastography.
+P-0026 | treated_with | Hepatology referral | Patient P-0026 is treated with hepatology referral.
+P-0026 | responding_to | Hepatology referral | Patient P-0026 is responding to hepatology referral at follow-up.

@@ -1,0 +1,5 @@
+# Synthetic patient P-0285.
+P-0285 | presents_with | Joint pain | Patient P-0285 presents with joint pain.
+P-0285 | underwent | Joint X-ray | Patient P-0285 underwent Joint X-ray.
+P-0285 | diagnosed_with | Osteoarthritis | Patient P-0285 was diagnosed with osteoarthritis after Joint X-ray.
+P-0285 | treated_with | Physical therapy | Patient P-0285 is treated with physical therapy.

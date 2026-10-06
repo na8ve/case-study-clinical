@@ -1,0 +1,10 @@
+# Synthetic patient P-0134.
+P-0134 | presents_with | Recurrent fatigue | Patient P-0134 presents with recurrent fatigue.
+P-0134 | presents_with | Low mood | Patient P-0134 presents with low mood.
+P-0134 | presents_with | Insomnia | Patient P-0134 presents with insomnia.
+P-0134 | presents_with | Weight change | Patient P-0134 presents with weight change.
+P-0134 | presents_with | Headache | Patient P-0134 also reports headache.
+P-0134 | underwent | PHQ-9 screening | Patient P-0134 underwent PHQ-9 screening.
+P-0134 | diagnosed_with | Major depressive disorder | Patient P-0134 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0134 | treated_with | Psychotherapy | Patient P-0134 is treated with psychotherapy.
+P-0134 | responding_to | Psychotherapy | Patient P-0134 is responding to psychotherapy at follow-up.

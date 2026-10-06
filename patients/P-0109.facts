@@ -1,0 +1,7 @@
+# Synthetic patient P-0109.
+P-0109 | presents_with | Recurrent fatigue | Patient P-0109 presents with recurrent fatigue.
+P-0109 | presents_with | Bronze skin | Patient P-0109 presents with bronze skin.
+P-0109 | presents_with | Joint pain | Patient P-0109 presents with joint pain.
+P-0109 | has_lab | High serum ferritin | Patient P-0109 has high serum ferritin (ferritin 737 ng/mL).
+P-0109 | has_lab | High transferrin saturation | Patient P-0109 has high transferrin saturation (transferrin saturation 88%).
+P-0109 | has_risk | Family history of hemochromatosis | Patient P-0109 has a risk factor: family history of hemochromatosis.

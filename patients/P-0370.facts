@@ -1,0 +1,8 @@
+# Synthetic patient P-0370.
+P-0370 | presents_with | Recurrent fatigue | Patient P-0370 presents with recurrent fatigue.
+P-0370 | presents_with | Weight gain | Patient P-0370 presents with weight gain.
+P-0370 | presents_with | Cold intolerance | Patient P-0370 presents with cold intolerance.
+P-0370 | has_lab | High TSH | Patient P-0370 has high tsh (TSH 19.7 mIU/L).
+P-0370 | underwent | Thyroid function panel | Patient P-0370 underwent Thyroid function panel.
+P-0370 | diagnosed_with | Hypothyroidism | Patient P-0370 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0370 | treated_with | Levothyroxine | Patient P-0370 is treated with levothyroxine.

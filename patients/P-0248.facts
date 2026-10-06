@@ -1,0 +1,9 @@
+# Synthetic patient P-0248.
+P-0248 | presents_with | Fever | Patient P-0248 presents with fever.
+P-0248 | presents_with | Recurrent fatigue | Patient P-0248 presents with recurrent fatigue.
+P-0248 | has_lab | High serum ferritin | Patient P-0248 has high serum ferritin (ferritin 552 ng/mL).
+P-0248 | has_lab | Elevated CRP | Patient P-0248 has elevated crp (CRP 94 mg/L).
+P-0248 | underwent | Blood culture | Patient P-0248 underwent Blood culture.
+P-0248 | diagnosed_with | Acute infection | Patient P-0248 was diagnosed with acute infection after Blood culture.
+P-0248 | treated_with | Antibiotic therapy | Patient P-0248 is treated with antibiotic therapy.
+P-0248 | responding_to | Antibiotic therapy | Patient P-0248 is responding to antibiotic therapy at follow-up.

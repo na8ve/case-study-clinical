@@ -1,0 +1,13 @@
+# Synthetic patient P-0398.
+P-0398 | presents_with | Recurrent fatigue | Patient P-0398 presents with recurrent fatigue.
+P-0398 | presents_with | Bronze skin | Patient P-0398 presents with bronze skin.
+P-0398 | presents_with | Joint pain | Patient P-0398 presents with joint pain.
+P-0398 | presents_with | Abdominal pain | Patient P-0398 presents with abdominal pain.
+P-0398 | presents_with | Insomnia | Patient P-0398 also reports insomnia.
+P-0398 | has_lab | High serum ferritin | Patient P-0398 has high serum ferritin (ferritin 940 ng/mL).
+P-0398 | has_lab | High transferrin saturation | Patient P-0398 has high transferrin saturation (transferrin saturation 74%).
+P-0398 | has_risk | Family history of hemochromatosis | Patient P-0398 has a risk factor: family history of hemochromatosis.
+P-0398 | underwent | Liver MRI iron quantification | Patient P-0398 underwent Liver MRI iron quantification.
+P-0398 | diagnosed_with | Hereditary hemochromatosis | Patient P-0398 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0398 | treated_with | Therapeutic phlebotomy | Patient P-0398 is treated with therapeutic phlebotomy.
+P-0398 | responding_to | Therapeutic phlebotomy | Patient P-0398 is responding to therapeutic phlebotomy at follow-up.

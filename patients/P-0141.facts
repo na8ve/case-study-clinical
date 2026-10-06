@@ -1,0 +1,9 @@
+# Synthetic patient P-0141.
+P-0141 | presents_with | Recurrent fatigue | Patient P-0141 presents with recurrent fatigue.
+P-0141 | presents_with | Jaundice | Patient P-0141 presents with jaundice.
+P-0141 | presents_with | Dry skin | Patient P-0141 also reports dry skin.
+P-0141 | has_lab | Elevated liver enzymes | Patient P-0141 has elevated liver enzymes (ALT 101 U/L).
+P-0141 | underwent | HCV RNA test | Patient P-0141 underwent HCV RNA test.
+P-0141 | diagnosed_with | Hepatitis C | Patient P-0141 was diagnosed with hepatitis c after HCV RNA test.
+P-0141 | treated_with | Direct-acting antivirals | Patient P-0141 is treated with direct-acting antivirals.
+P-0141 | responding_to | Direct-acting antivirals | Patient P-0141 is responding to direct-acting antivirals at follow-up.

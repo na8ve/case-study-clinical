@@ -1,0 +1,7 @@
+# Synthetic patient P-0266.
+P-0266 | presents_with | Joint pain | Patient P-0266 presents with joint pain.
+P-0266 | presents_with | Morning stiffness | Patient P-0266 presents with morning stiffness.
+P-0266 | underwent | Joint X-ray | Patient P-0266 underwent Joint X-ray.
+P-0266 | diagnosed_with | Osteoarthritis | Patient P-0266 was diagnosed with osteoarthritis after Joint X-ray.
+P-0266 | treated_with | Physical therapy | Patient P-0266 is treated with physical therapy.
+P-0266 | responding_to | Physical therapy | Patient P-0266 is responding to physical therapy at follow-up.

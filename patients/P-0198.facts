@@ -1,0 +1,8 @@
+# Synthetic patient P-0198.
+P-0198 | presents_with | Joint pain | Patient P-0198 presents with joint pain.
+P-0198 | has_lab | Elevated CRP | Patient P-0198 has elevated crp (CRP 14 mg/L).
+P-0198 | has_lab | Positive rheumatoid factor | Patient P-0198 has positive rheumatoid factor (rheumatoid factor positive).
+P-0198 | underwent | Anti-CCP antibody test | Patient P-0198 underwent Anti-CCP antibody test.
+P-0198 | diagnosed_with | Rheumatoid arthritis | Patient P-0198 was diagnosed with rheumatoid arthritis after Anti-CCP antibody test.
+P-0198 | treated_with | Methotrexate | Patient P-0198 is treated with methotrexate.
+P-0198 | responding_to | Methotrexate | Patient P-0198 is responding to methotrexate at follow-up.

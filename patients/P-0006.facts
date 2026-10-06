@@ -1,0 +1,6 @@
+# Synthetic patient P-0006.
+P-0006 | presents_with | Widespread pain | Patient P-0006 presents with widespread pain.
+P-0006 | presents_with | Recurrent fatigue | Patient P-0006 presents with recurrent fatigue.
+P-0006 | underwent | Clinical assessment | Patient P-0006 underwent Clinical assessment.
+P-0006 | diagnosed_with | Fibromyalgia | Patient P-0006 was diagnosed with fibromyalgia after Clinical assessment.
+P-0006 | treated_with | Graded exercise | Patient P-0006 is treated with graded exercise.

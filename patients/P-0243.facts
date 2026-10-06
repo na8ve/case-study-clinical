@@ -1,0 +1,9 @@
+# Synthetic patient P-0243.
+P-0243 | presents_with | Recurrent fatigue | Patient P-0243 presents with recurrent fatigue.
+P-0243 | presents_with | Jaundice | Patient P-0243 presents with jaundice.
+P-0243 | presents_with | Abdominal pain | Patient P-0243 presents with abdominal pain.
+P-0243 | has_lab | High serum ferritin | Patient P-0243 has high serum ferritin (ferritin 437 ng/mL).
+P-0243 | underwent | Liver ultrasound | Patient P-0243 underwent Liver ultrasound.
+P-0243 | diagnosed_with | Alcoholic liver disease | Patient P-0243 was diagnosed with alcoholic liver disease after Liver ultrasound.
+P-0243 | treated_with | Alcohol cessation | Patient P-0243 is treated with alcohol cessation.
+P-0243 | responding_to | Alcohol cessation | Patient P-0243 is responding to alcohol cessation at follow-up.

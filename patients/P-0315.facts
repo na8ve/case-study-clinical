@@ -1,0 +1,10 @@
+# Synthetic patient P-0315.
+P-0315 | presents_with | Jaundice | Patient P-0315 presents with jaundice.
+P-0315 | presents_with | Abdominal swelling | Patient P-0315 presents with abdominal swelling.
+P-0315 | presents_with | Recurrent fatigue | Patient P-0315 presents with recurrent fatigue.
+P-0315 | presents_with | Back pain | Patient P-0315 also reports back pain.
+P-0315 | has_lab | Elevated liver enzymes | Patient P-0315 has elevated liver enzymes (AST 109 U/L).
+P-0315 | underwent | Liver elastography | Patient P-0315 underwent Liver elastography.
+P-0315 | diagnosed_with | Cirrhosis | Patient P-0315 was diagnosed with cirrhosis after Liver elastography.
+P-0315 | treated_with | Hepatology referral | Patient P-0315 is treated with hepatology referral.
+P-0315 | responding_to | Hepatology referral | Patient P-0315 is responding to hepatology referral at follow-up.

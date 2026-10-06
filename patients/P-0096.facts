@@ -1,0 +1,8 @@
+# Synthetic patient P-0096.
+P-0096 | presents_with | Joint pain | Patient P-0096 presents with joint pain.
+P-0096 | presents_with | Morning stiffness | Patient P-0096 presents with morning stiffness.
+P-0096 | presents_with | Back pain | Patient P-0096 also reports back pain.
+P-0096 | underwent | Joint X-ray | Patient P-0096 underwent Joint X-ray.
+P-0096 | diagnosed_with | Osteoarthritis | Patient P-0096 was diagnosed with osteoarthritis after Joint X-ray.
+P-0096 | treated_with | Physical therapy | Patient P-0096 is treated with physical therapy.
+P-0096 | responding_to | Physical therapy | Patient P-0096 is responding to physical therapy at follow-up.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0351.
+P-0351 | presents_with | Tremor | Patient P-0351 presents with tremor.
+P-0351 | presents_with | Jaundice | Patient P-0351 presents with jaundice.
+P-0351 | has_lab | Low ceruloplasmin | Patient P-0351 has low ceruloplasmin (ceruloplasmin 10 mg/dL).
+P-0351 | underwent | 24-hour urine copper | Patient P-0351 underwent 24-hour urine copper.
+P-0351 | diagnosed_with | Wilson disease | Patient P-0351 was diagnosed with wilson disease after 24-hour urine copper.
+P-0351 | treated_with | Chelation therapy | Patient P-0351 is treated with chelation therapy.
+P-0351 | responding_to | Chelation therapy | Patient P-0351 is responding to chelation therapy at follow-up.

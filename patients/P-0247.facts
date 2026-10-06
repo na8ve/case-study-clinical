@@ -1,0 +1,6 @@
+# Synthetic patient P-0247.
+P-0247 | presents_with | Fever | Patient P-0247 presents with fever.
+P-0247 | has_lab | High serum ferritin | Patient P-0247 has high serum ferritin (ferritin 583 ng/mL).
+P-0247 | underwent | Blood culture | Patient P-0247 underwent Blood culture.
+P-0247 | diagnosed_with | Acute infection | Patient P-0247 was diagnosed with acute infection after Blood culture.
+P-0247 | treated_with | Antibiotic therapy | Patient P-0247 is treated with antibiotic therapy.

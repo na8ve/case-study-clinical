@@ -1,0 +1,6 @@
+# Synthetic patient P-0397.
+P-0397 | presents_with | Joint pain | Patient P-0397 presents with joint pain.
+P-0397 | underwent | Joint X-ray | Patient P-0397 underwent Joint X-ray.
+P-0397 | diagnosed_with | Osteoarthritis | Patient P-0397 was diagnosed with osteoarthritis after Joint X-ray.
+P-0397 | treated_with | Physical therapy | Patient P-0397 is treated with physical therapy.
+P-0397 | responding_to | Physical therapy | Patient P-0397 is responding to physical therapy at follow-up.

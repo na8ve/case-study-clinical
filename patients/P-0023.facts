@@ -1,0 +1,9 @@
+# Synthetic patient P-0023.
+P-0023 | presents_with | Recurrent fatigue | Patient P-0023 presents with recurrent fatigue.
+P-0023 | presents_with | Weight gain | Patient P-0023 presents with weight gain.
+P-0023 | presents_with | Dry skin | Patient P-0023 presents with dry skin.
+P-0023 | has_lab | High TSH | Patient P-0023 has high tsh (TSH 16.5 mIU/L).
+P-0023 | underwent | Thyroid function panel | Patient P-0023 underwent Thyroid function panel.
+P-0023 | diagnosed_with | Hypothyroidism | Patient P-0023 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0023 | treated_with | Levothyroxine | Patient P-0023 is treated with levothyroxine.
+P-0023 | responding_to | Levothyroxine | Patient P-0023 is responding to levothyroxine at follow-up.

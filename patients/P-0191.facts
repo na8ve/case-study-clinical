@@ -1,0 +1,10 @@
+# Synthetic patient P-0191.
+P-0191 | presents_with | Joint pain | Patient P-0191 presents with joint pain.
+P-0191 | presents_with | Morning stiffness | Patient P-0191 presents with morning stiffness.
+P-0191 | presents_with | Recurrent fatigue | Patient P-0191 presents with recurrent fatigue.
+P-0191 | has_lab | Elevated CRP | Patient P-0191 has elevated crp (CRP 21 mg/L).
+P-0191 | has_lab | Positive rheumatoid factor | Patient P-0191 has positive rheumatoid factor (rheumatoid factor positive).
+P-0191 | underwent | Anti-CCP antibody test | Patient P-0191 underwent Anti-CCP antibody test.
+P-0191 | diagnosed_with | Rheumatoid arthritis | Patient P-0191 was diagnosed with rheumatoid arthritis after Anti-CCP antibody test.
+P-0191 | treated_with | Methotrexate | Patient P-0191 is treated with methotrexate.
+P-0191 | responding_to | Methotrexate | Patient P-0191 is responding to methotrexate at follow-up.

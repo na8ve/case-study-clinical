@@ -1,0 +1,4 @@
+# Synthetic patient P-0100.
+P-0100 | presents_with | Shortness of breath | Patient P-0100 presents with shortness of breath.
+P-0100 | presents_with | Recurrent fatigue | Patient P-0100 presents with recurrent fatigue.
+P-0100 | has_lab | Elevated BNP | Patient P-0100 has elevated bnp (BNP 980 pg/mL).

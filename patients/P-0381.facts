@@ -1,0 +1,7 @@
+# Synthetic patient P-0381.
+P-0381 | presents_with | Recurrent fatigue | Patient P-0381 presents with recurrent fatigue.
+P-0381 | presents_with | Jaundice | Patient P-0381 presents with jaundice.
+P-0381 | underwent | HCV RNA test | Patient P-0381 underwent HCV RNA test.
+P-0381 | diagnosed_with | Hepatitis C | Patient P-0381 was diagnosed with hepatitis c after HCV RNA test.
+P-0381 | treated_with | Direct-acting antivirals | Patient P-0381 is treated with direct-acting antivirals.
+P-0381 | responding_to | Direct-acting antivirals | Patient P-0381 is responding to direct-acting antivirals at follow-up.

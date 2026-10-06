@@ -1,0 +1,8 @@
+# Synthetic patient P-0020.
+P-0020 | presents_with | Bone pain | Patient P-0020 presents with bone pain.
+P-0020 | has_lab | Low hemoglobin | Patient P-0020 has low hemoglobin (hemoglobin 10.1 g/dL).
+P-0020 | has_lab | High calcium | Patient P-0020 has high calcium (calcium 12.0 mg/dL).
+P-0020 | underwent | Serum protein electrophoresis | Patient P-0020 underwent Serum protein electrophoresis.
+P-0020 | diagnosed_with | Multiple myeloma | Patient P-0020 was diagnosed with multiple myeloma after Serum protein electrophoresis.
+P-0020 | treated_with | Oncology referral | Patient P-0020 is treated with oncology referral.
+P-0020 | responding_to | Oncology referral | Patient P-0020 is responding to oncology referral at follow-up.

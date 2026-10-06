@@ -1,0 +1,9 @@
+# Synthetic patient P-0441.
+P-0441 | presents_with | Shortness of breath | Patient P-0441 presents with shortness of breath.
+P-0441 | presents_with | Recurrent fatigue | Patient P-0441 presents with recurrent fatigue.
+P-0441 | presents_with | Dry skin | Patient P-0441 also reports dry skin.
+P-0441 | has_lab | Elevated BNP | Patient P-0441 has elevated bnp (BNP 927 pg/mL).
+P-0441 | underwent | Echocardiogram | Patient P-0441 underwent Echocardiogram.
+P-0441 | diagnosed_with | Heart failure | Patient P-0441 was diagnosed with heart failure after Echocardiogram.
+P-0441 | treated_with | ACE inhibitor therapy | Patient P-0441 is treated with ace inhibitor therapy.
+P-0441 | responding_to | ACE inhibitor therapy | Patient P-0441 is responding to ace inhibitor therapy at follow-up.

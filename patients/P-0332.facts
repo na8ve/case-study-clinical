@@ -1,0 +1,9 @@
+# Synthetic patient P-0332.
+P-0332 | presents_with | Shortness of breath | Patient P-0332 presents with shortness of breath.
+P-0332 | presents_with | Leg swelling | Patient P-0332 presents with leg swelling.
+P-0332 | presents_with | Headache | Patient P-0332 also reports headache.
+P-0332 | has_lab | Elevated BNP | Patient P-0332 has elevated bnp (BNP 768 pg/mL).
+P-0332 | underwent | Echocardiogram | Patient P-0332 underwent Echocardiogram.
+P-0332 | diagnosed_with | Heart failure | Patient P-0332 was diagnosed with heart failure after Echocardiogram.
+P-0332 | treated_with | ACE inhibitor therapy | Patient P-0332 is treated with ace inhibitor therapy.
+P-0332 | responding_to | ACE inhibitor therapy | Patient P-0332 is responding to ace inhibitor therapy at follow-up.

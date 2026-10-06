@@ -1,0 +1,7 @@
+# Synthetic patient P-0346.
+P-0346 | presents_with | Recurrent fatigue | Patient P-0346 presents with recurrent fatigue.
+P-0346 | presents_with | Pallor | Patient P-0346 presents with pallor.
+P-0346 | has_lab | Low serum ferritin | Patient P-0346 has low serum ferritin (ferritin 11 ng/mL).
+P-0346 | underwent | Complete blood count | Patient P-0346 underwent Complete blood count.
+P-0346 | diagnosed_with | Iron deficiency anemia | Patient P-0346 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0346 | treated_with | Oral iron supplementation | Patient P-0346 is treated with oral iron supplementation.

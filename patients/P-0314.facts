@@ -1,0 +1,8 @@
+# Synthetic patient P-0314.
+P-0314 | presents_with | Recurrent fatigue | Patient P-0314 presents with recurrent fatigue.
+P-0314 | presents_with | Jaundice | Patient P-0314 presents with jaundice.
+P-0314 | presents_with | Abdominal pain | Patient P-0314 presents with abdominal pain.
+P-0314 | has_lab | Elevated liver enzymes | Patient P-0314 has elevated liver enzymes (ALT 179 U/L).
+P-0314 | underwent | HCV RNA test | Patient P-0314 underwent HCV RNA test.
+P-0314 | diagnosed_with | Hepatitis C | Patient P-0314 was diagnosed with hepatitis c after HCV RNA test.
+P-0314 | treated_with | Direct-acting antivirals | Patient P-0314 is treated with direct-acting antivirals.

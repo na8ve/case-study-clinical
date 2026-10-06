@@ -1,0 +1,11 @@
+# Synthetic patient P-0063.
+P-0063 | presents_with | Recurrent fatigue | Patient P-0063 presents with recurrent fatigue.
+P-0063 | presents_with | Bronze skin | Patient P-0063 presents with bronze skin.
+P-0063 | presents_with | Abdominal pain | Patient P-0063 presents with abdominal pain.
+P-0063 | presents_with | Weight gain | Patient P-0063 also reports weight gain.
+P-0063 | has_lab | High serum ferritin | Patient P-0063 has high serum ferritin (ferritin 675 ng/mL).
+P-0063 | has_lab | High transferrin saturation | Patient P-0063 has high transferrin saturation (transferrin saturation 82%).
+P-0063 | underwent | Liver MRI iron quantification | Patient P-0063 underwent Liver MRI iron quantification.
+P-0063 | diagnosed_with | Hereditary hemochromatosis | Patient P-0063 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0063 | treated_with | Therapeutic phlebotomy | Patient P-0063 is treated with therapeutic phlebotomy.
+P-0063 | responding_to | Therapeutic phlebotomy | Patient P-0063 is responding to therapeutic phlebotomy at follow-up.

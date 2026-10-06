@@ -1,0 +1,8 @@
+# Synthetic patient P-0193.
+P-0193 | presents_with | Fever | Patient P-0193 presents with fever.
+P-0193 | presents_with | Recurrent fatigue | Patient P-0193 presents with recurrent fatigue.
+P-0193 | presents_with | Bloating | Patient P-0193 also reports bloating.
+P-0193 | underwent | Monospot test | Patient P-0193 underwent Monospot test.
+P-0193 | diagnosed_with | Infectious mononucleosis | Patient P-0193 was diagnosed with infectious mononucleosis after Monospot test.
+P-0193 | treated_with | Supportive care | Patient P-0193 is treated with supportive care.
+P-0193 | responding_to | Supportive care | Patient P-0193 is responding to supportive care at follow-up.

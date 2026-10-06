@@ -1,0 +1,9 @@
+# Synthetic patient P-0352.
+P-0352 | presents_with | Recurrent fatigue | Patient P-0352 presents with recurrent fatigue.
+P-0352 | presents_with | Abdominal pain | Patient P-0352 presents with abdominal pain.
+P-0352 | has_lab | High serum ferritin | Patient P-0352 has high serum ferritin (ferritin 835 ng/mL).
+P-0352 | has_lab | High transferrin saturation | Patient P-0352 has high transferrin saturation (transferrin saturation 65%).
+P-0352 | underwent | Liver MRI iron quantification | Patient P-0352 underwent Liver MRI iron quantification.
+P-0352 | diagnosed_with | Hereditary hemochromatosis | Patient P-0352 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0352 | treated_with | Therapeutic phlebotomy | Patient P-0352 is treated with therapeutic phlebotomy.
+P-0352 | responding_to | Therapeutic phlebotomy | Patient P-0352 is responding to therapeutic phlebotomy at follow-up.

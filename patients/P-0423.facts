@@ -1,0 +1,6 @@
+# Synthetic patient P-0423.
+P-0423 | presents_with | Joint pain | Patient P-0423 presents with joint pain.
+P-0423 | presents_with | Insomnia | Patient P-0423 also reports insomnia.
+P-0423 | underwent | Joint X-ray | Patient P-0423 underwent Joint X-ray.
+P-0423 | diagnosed_with | Osteoarthritis | Patient P-0423 was diagnosed with osteoarthritis after Joint X-ray.
+P-0423 | treated_with | Physical therapy | Patient P-0423 is treated with physical therapy.

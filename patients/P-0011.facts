@@ -1,0 +1,9 @@
+# Synthetic patient P-0011.
+P-0011 | presents_with | Fever | Patient P-0011 presents with fever.
+P-0011 | presents_with | Recurrent fatigue | Patient P-0011 presents with recurrent fatigue.
+P-0011 | has_lab | High serum ferritin | Patient P-0011 has high serum ferritin (ferritin 639 ng/mL).
+P-0011 | has_lab | Elevated CRP | Patient P-0011 has elevated crp (CRP 139 mg/L).
+P-0011 | underwent | Blood culture | Patient P-0011 underwent Blood culture.
+P-0011 | diagnosed_with | Acute infection | Patient P-0011 was diagnosed with acute infection after Blood culture.
+P-0011 | treated_with | Antibiotic therapy | Patient P-0011 is treated with antibiotic therapy.
+P-0011 | responding_to | Antibiotic therapy | Patient P-0011 is responding to antibiotic therapy at follow-up.

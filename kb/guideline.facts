@@ -1,0 +1,150 @@
+# Synthetic clinical knowledge base (guideline.facts). Not medical advice.
+Recurrent fatigue | suggests | Hereditary hemochromatosis | In suspected hereditary hemochromatosis, recurrent fatigue is commonly reported.
+Bronze skin | suggests | Hereditary hemochromatosis | In suspected hereditary hemochromatosis, bronze skin is commonly reported.
+Joint pain | suggests | Hereditary hemochromatosis | In suspected hereditary hemochromatosis, joint pain is commonly reported.
+Abdominal pain | suggests | Hereditary hemochromatosis | In suspected hereditary hemochromatosis, abdominal pain is commonly reported.
+High serum ferritin | suggests | Hereditary hemochromatosis | Guidelines list high serum ferritin among the findings of hereditary hemochromatosis.
+High transferrin saturation | suggests | Hereditary hemochromatosis | Guidelines list high transferrin saturation among the findings of hereditary hemochromatosis.
+Hereditary hemochromatosis | confirmed_by | HFE gene test | Guidelines recommend HFE gene test to confirm hereditary hemochromatosis.
+Hereditary hemochromatosis | confirmed_by | Liver MRI iron quantification | Guidelines recommend Liver MRI iron quantification to confirm hereditary hemochromatosis.
+Hereditary hemochromatosis | treated_with | Therapeutic phlebotomy | First-line management of hereditary hemochromatosis is therapeutic phlebotomy.
+Pallor | suggests | Iron deficiency anemia | In suspected iron deficiency anemia, pallor is commonly reported.
+Brittle nails | suggests | Iron deficiency anemia | In suspected iron deficiency anemia, brittle nails is commonly reported.
+Low serum ferritin | suggests | Iron deficiency anemia | Guidelines list low serum ferritin among the findings of iron deficiency anemia.
+Iron deficiency anemia | confirmed_by | Complete blood count | Guidelines recommend Complete blood count to confirm iron deficiency anemia.
+Iron deficiency anemia | treated_with | Oral iron supplementation | First-line management of iron deficiency anemia is oral iron supplementation.
+Recurrent fatigue | suggests | Major depressive disorder | In suspected major depressive disorder, recurrent fatigue is commonly reported.
+Major depressive disorder | confirmed_by | PHQ-9 screening | Guidelines recommend PHQ-9 screening to confirm major depressive disorder.
+Major depressive disorder | treated_with | SSRI therapy | First-line management of major depressive disorder is ssri therapy.
+Major depressive disorder | treated_with | Psychotherapy | First-line management of major depressive disorder is psychotherapy.
+Recurrent fatigue | suggests | Alcoholic liver disease | In suspected alcoholic liver disease, recurrent fatigue is commonly reported.
+Jaundice | suggests | Alcoholic liver disease | In suspected alcoholic liver disease, jaundice is commonly reported.
+Abdominal pain | suggests | Alcoholic liver disease | In suspected alcoholic liver disease, abdominal pain is commonly reported.
+Alcoholic liver disease | confirmed_by | Liver ultrasound | Guidelines recommend Liver ultrasound to confirm alcoholic liver disease.
+Alcoholic liver disease | treated_with | Alcohol cessation | First-line management of alcoholic liver disease is alcohol cessation.
+Recurrent fatigue | suggests | Acute infection | In suspected acute infection, recurrent fatigue is commonly reported.
+Elevated CRP | suggests | Acute infection | Guidelines list elevated crp among the findings of acute infection.
+Acute infection | confirmed_by | Blood culture | Guidelines recommend Blood culture to confirm acute infection.
+Acute infection | treated_with | Antibiotic therapy | First-line management of acute infection is antibiotic therapy.
+Recurrent fatigue | suggests | Addison's disease | In suspected addison's disease, recurrent fatigue is commonly reported.
+Bronze skin | suggests | Addison's disease | In suspected addison's disease, bronze skin is commonly reported.
+Weight loss | suggests | Addison's disease | In suspected addison's disease, weight loss is commonly reported.
+Low blood pressure | suggests | Addison's disease | In suspected addison's disease, low blood pressure is commonly reported.
+Low sodium | suggests | Addison's disease | Guidelines list low sodium among the findings of addison's disease.
+High potassium | suggests | Addison's disease | Guidelines list high potassium among the findings of addison's disease.
+Addison's disease | confirmed_by | ACTH stimulation test | Guidelines recommend ACTH stimulation test to confirm addison's disease.
+Addison's disease | treated_with | Hydrocortisone replacement | First-line management of addison's disease is hydrocortisone replacement.
+Recurrent fatigue | suggests | Hypothyroidism | In suspected hypothyroidism, recurrent fatigue is commonly reported.
+Weight gain | suggests | Hypothyroidism | In suspected hypothyroidism, weight gain is commonly reported.
+Cold intolerance | suggests | Hypothyroidism | In suspected hypothyroidism, cold intolerance is commonly reported.
+Dry skin | suggests | Hypothyroidism | In suspected hypothyroidism, dry skin is commonly reported.
+High TSH | suggests | Hypothyroidism | Guidelines list high tsh among the findings of hypothyroidism.
+Hypothyroidism | confirmed_by | Thyroid function panel | Guidelines recommend Thyroid function panel to confirm hypothyroidism.
+Hypothyroidism | treated_with | Levothyroxine | First-line management of hypothyroidism is levothyroxine.
+Recurrent fatigue | suggests | Type 2 diabetes | In suspected type 2 diabetes, recurrent fatigue is commonly reported.
+Type 2 diabetes | confirmed_by | Oral glucose tolerance test | Guidelines recommend Oral glucose tolerance test to confirm type 2 diabetes.
+Type 2 diabetes | treated_with | Metformin | First-line management of type 2 diabetes is metformin.
+Post-exertional malaise | suggests | Chronic fatigue syndrome | In suspected chronic fatigue syndrome, post-exertional malaise is commonly reported.
+Chronic fatigue syndrome | confirmed_by | Exclusion workup | Guidelines recommend Exclusion workup to confirm chronic fatigue syndrome.
+Chronic fatigue syndrome | treated_with | Activity pacing | First-line management of chronic fatigue syndrome is activity pacing.
+Blistering skin | suggests | Porphyria cutanea tarda | In suspected porphyria cutanea tarda, blistering skin is commonly reported.
+Bronze skin | suggests | Porphyria cutanea tarda | In suspected porphyria cutanea tarda, bronze skin is commonly reported.
+Dark urine | suggests | Porphyria cutanea tarda | In suspected porphyria cutanea tarda, dark urine is commonly reported.
+High serum ferritin | suggests | Porphyria cutanea tarda | Guidelines list high serum ferritin among the findings of porphyria cutanea tarda.
+Elevated urine porphyrins | suggests | Porphyria cutanea tarda | Guidelines list elevated urine porphyrins among the findings of porphyria cutanea tarda.
+Porphyria cutanea tarda | confirmed_by | Urine porphyrin test | Guidelines recommend Urine porphyrin test to confirm porphyria cutanea tarda.
+Porphyria cutanea tarda | treated_with | Therapeutic phlebotomy | First-line management of porphyria cutanea tarda is therapeutic phlebotomy.
+Jaundice | suggests | Hepatitis C | In suspected hepatitis c, jaundice is commonly reported.
+Abdominal pain | suggests | Hepatitis C | In suspected hepatitis c, abdominal pain is commonly reported.
+Hepatitis C | confirmed_by | HCV RNA test | Guidelines recommend HCV RNA test to confirm hepatitis c.
+Hepatitis C | treated_with | Direct-acting antivirals | First-line management of hepatitis c is direct-acting antivirals.
+Diarrhea | suggests | Celiac disease | In suspected celiac disease, diarrhea is commonly reported.
+Bloating | suggests | Celiac disease | In suspected celiac disease, bloating is commonly reported.
+Recurrent fatigue | suggests | Celiac disease | In suspected celiac disease, recurrent fatigue is commonly reported.
+Weight loss | suggests | Celiac disease | In suspected celiac disease, weight loss is commonly reported.
+Low hemoglobin | suggests | Celiac disease | Guidelines list low hemoglobin among the findings of celiac disease.
+Celiac disease | confirmed_by | tTG antibody test | Guidelines recommend tTG antibody test to confirm celiac disease.
+Celiac disease | treated_with | Gluten-free diet | First-line management of celiac disease is gluten-free diet.
+Morning stiffness | suggests | Rheumatoid arthritis | In suspected rheumatoid arthritis, morning stiffness is commonly reported.
+Recurrent fatigue | suggests | Rheumatoid arthritis | In suspected rheumatoid arthritis, recurrent fatigue is commonly reported.
+Elevated CRP | suggests | Rheumatoid arthritis | Guidelines list elevated crp among the findings of rheumatoid arthritis.
+Positive rheumatoid factor | suggests | Rheumatoid arthritis | Guidelines list positive rheumatoid factor among the findings of rheumatoid arthritis.
+Rheumatoid arthritis | confirmed_by | Anti-CCP antibody test | Guidelines recommend Anti-CCP antibody test to confirm rheumatoid arthritis.
+Rheumatoid arthritis | treated_with | Methotrexate | First-line management of rheumatoid arthritis is methotrexate.
+Joint pain | suggests | Systemic lupus erythematosus | In suspected systemic lupus erythematosus, joint pain is commonly reported.
+Recurrent fatigue | suggests | Systemic lupus erythematosus | In suspected systemic lupus erythematosus, recurrent fatigue is commonly reported.
+Positive ANA | suggests | Systemic lupus erythematosus | Guidelines list positive ana among the findings of systemic lupus erythematosus.
+Systemic lupus erythematosus | confirmed_by | Anti-dsDNA test | Guidelines recommend Anti-dsDNA test to confirm systemic lupus erythematosus.
+Systemic lupus erythematosus | treated_with | Hydroxychloroquine | First-line management of systemic lupus erythematosus is hydroxychloroquine.
+Leg swelling | suggests | Heart failure | In suspected heart failure, leg swelling is commonly reported.
+Recurrent fatigue | suggests | Heart failure | In suspected heart failure, recurrent fatigue is commonly reported.
+Elevated BNP | suggests | Heart failure | Guidelines list elevated bnp among the findings of heart failure.
+Heart failure | confirmed_by | Echocardiogram | Guidelines recommend Echocardiogram to confirm heart failure.
+Heart failure | treated_with | ACE inhibitor therapy | First-line management of heart failure is ace inhibitor therapy.
+Daytime sleepiness | suggests | Obstructive sleep apnea | In suspected obstructive sleep apnea, daytime sleepiness is commonly reported.
+Snoring | suggests | Obstructive sleep apnea | In suspected obstructive sleep apnea, snoring is commonly reported.
+Obstructive sleep apnea | confirmed_by | Polysomnography | Guidelines recommend Polysomnography to confirm obstructive sleep apnea.
+Obstructive sleep apnea | treated_with | CPAP therapy | First-line management of obstructive sleep apnea is cpap therapy.
+Recurrent fatigue | suggests | Vitamin B12 deficiency | In suspected vitamin b12 deficiency, recurrent fatigue is commonly reported.
+Numbness | suggests | Vitamin B12 deficiency | In suspected vitamin b12 deficiency, numbness is commonly reported.
+Low vitamin B12 | suggests | Vitamin B12 deficiency | Guidelines list low vitamin b12 among the findings of vitamin b12 deficiency.
+Vitamin B12 deficiency | confirmed_by | Serum B12 test | Guidelines recommend Serum B12 test to confirm vitamin b12 deficiency.
+Vitamin B12 deficiency | treated_with | B12 injections | First-line management of vitamin b12 deficiency is b12 injections.
+Abdominal swelling | suggests | Cirrhosis | In suspected cirrhosis, abdominal swelling is commonly reported.
+Elevated liver enzymes | suggests | Cirrhosis | Guidelines list elevated liver enzymes among the findings of cirrhosis.
+Cirrhosis | confirmed_by | Liver elastography | Guidelines recommend Liver elastography to confirm cirrhosis.
+Cirrhosis | treated_with | Hepatology referral | First-line management of cirrhosis is hepatology referral.
+Tremor | suggests | Wilson disease | In suspected wilson disease, tremor is commonly reported.
+Jaundice | suggests | Wilson disease | In suspected wilson disease, jaundice is commonly reported.
+Low ceruloplasmin | suggests | Wilson disease | Guidelines list low ceruloplasmin among the findings of wilson disease.
+Wilson disease | confirmed_by | 24-hour urine copper | Guidelines recommend 24-hour urine copper to confirm wilson disease.
+Wilson disease | treated_with | Chelation therapy | First-line management of wilson disease is chelation therapy.
+Palpitations | suggests | Hyperthyroidism | In suspected hyperthyroidism, palpitations is commonly reported.
+Heat intolerance | suggests | Hyperthyroidism | In suspected hyperthyroidism, heat intolerance is commonly reported.
+Low TSH | suggests | Hyperthyroidism | Guidelines list low tsh among the findings of hyperthyroidism.
+Hyperthyroidism | confirmed_by | Thyroid function panel | Guidelines recommend Thyroid function panel to confirm hyperthyroidism.
+Hyperthyroidism | treated_with | Methimazole | First-line management of hyperthyroidism is methimazole.
+Recurrent fatigue | suggests | Chronic kidney disease | In suspected chronic kidney disease, recurrent fatigue is commonly reported.
+Leg swelling | suggests | Chronic kidney disease | In suspected chronic kidney disease, leg swelling is commonly reported.
+Frequent urination | suggests | Chronic kidney disease | In suspected chronic kidney disease, frequent urination is commonly reported.
+Elevated creatinine | suggests | Chronic kidney disease | Guidelines list elevated creatinine among the findings of chronic kidney disease.
+Chronic kidney disease | confirmed_by | Kidney function panel | Guidelines recommend Kidney function panel to confirm chronic kidney disease.
+Chronic kidney disease | treated_with | Nephrology referral | First-line management of chronic kidney disease is nephrology referral.
+Expanding rash | suggests | Lyme disease | In suspected lyme disease, expanding rash is commonly reported.
+Fever | suggests | Lyme disease | In suspected lyme disease, fever is commonly reported.
+Lyme disease | confirmed_by | Lyme serology | Guidelines recommend Lyme serology to confirm lyme disease.
+Lyme disease | treated_with | Doxycycline | First-line management of lyme disease is doxycycline.
+Low hemoglobin | suggests | Multiple myeloma | Guidelines list low hemoglobin among the findings of multiple myeloma.
+High calcium | suggests | Multiple myeloma | Guidelines list high calcium among the findings of multiple myeloma.
+Multiple myeloma | confirmed_by | Serum protein electrophoresis | Guidelines recommend Serum protein electrophoresis to confirm multiple myeloma.
+Multiple myeloma | treated_with | Oncology referral | First-line management of multiple myeloma is oncology referral.
+Recurrent fatigue | suggests | Hemolytic anemia | In suspected hemolytic anemia, recurrent fatigue is commonly reported.
+Pallor | suggests | Hemolytic anemia | In suspected hemolytic anemia, pallor is commonly reported.
+Elevated bilirubin | suggests | Hemolytic anemia | Guidelines list elevated bilirubin among the findings of hemolytic anemia.
+Hemolytic anemia | confirmed_by | Coombs test | Guidelines recommend Coombs test to confirm hemolytic anemia.
+Hemolytic anemia | treated_with | Corticosteroids | First-line management of hemolytic anemia is corticosteroids.
+Recurrent fatigue | suggests | Sarcoidosis | In suspected sarcoidosis, recurrent fatigue is commonly reported.
+Sarcoidosis | confirmed_by | Chest CT | Guidelines recommend Chest CT to confirm sarcoidosis.
+Sarcoidosis | treated_with | Corticosteroids | First-line management of sarcoidosis is corticosteroids.
+Pallor | suggests | Beta thalassemia | In suspected beta thalassemia, pallor is commonly reported.
+Bronze skin | suggests | Beta thalassemia | In suspected beta thalassemia, bronze skin is commonly reported.
+High serum ferritin | suggests | Beta thalassemia | Guidelines list high serum ferritin among the findings of beta thalassemia.
+Beta thalassemia | confirmed_by | Hemoglobin electrophoresis | Guidelines recommend Hemoglobin electrophoresis to confirm beta thalassemia.
+Beta thalassemia | treated_with | Iron chelation therapy | First-line management of beta thalassemia is iron chelation therapy.
+Recurrent fatigue | suggests | Fibromyalgia | In suspected fibromyalgia, recurrent fatigue is commonly reported.
+Unrefreshing sleep | suggests | Fibromyalgia | In suspected fibromyalgia, unrefreshing sleep is commonly reported.
+Fibromyalgia | confirmed_by | Clinical assessment | Guidelines recommend Clinical assessment to confirm fibromyalgia.
+Fibromyalgia | treated_with | Graded exercise | First-line management of fibromyalgia is graded exercise.
+Fever | suggests | Infectious mononucleosis | In suspected infectious mononucleosis, fever is commonly reported.
+Sore throat | suggests | Infectious mononucleosis | In suspected infectious mononucleosis, sore throat is commonly reported.
+Recurrent fatigue | suggests | Infectious mononucleosis | In suspected infectious mononucleosis, recurrent fatigue is commonly reported.
+Infectious mononucleosis | confirmed_by | Monospot test | Guidelines recommend Monospot test to confirm infectious mononucleosis.
+Infectious mononucleosis | treated_with | Supportive care | First-line management of infectious mononucleosis is supportive care.
+Recurrent fatigue | suggests | Nonalcoholic fatty liver disease | In suspected nonalcoholic fatty liver disease, recurrent fatigue is commonly reported.
+Elevated liver enzymes | suggests | Nonalcoholic fatty liver disease | Guidelines list elevated liver enzymes among the findings of nonalcoholic fatty liver disease.
+Nonalcoholic fatty liver disease | confirmed_by | Liver ultrasound | Guidelines recommend Liver ultrasound to confirm nonalcoholic fatty liver disease.
+Nonalcoholic fatty liver disease | treated_with | Lifestyle modification | First-line management of nonalcoholic fatty liver disease is lifestyle modification.
+Joint pain | suggests | Osteoarthritis | In suspected osteoarthritis, joint pain is commonly reported.
+Morning stiffness | suggests | Osteoarthritis | In suspected osteoarthritis, morning stiffness is commonly reported.
+Osteoarthritis | confirmed_by | Joint X-ray | Guidelines recommend Joint X-ray to confirm osteoarthritis.
+Osteoarthritis | treated_with | Physical therapy | First-line management of osteoarthritis is physical therapy.

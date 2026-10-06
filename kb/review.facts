@@ -1,0 +1,39 @@
+# Synthetic clinical knowledge base (review.facts). Not medical advice.
+High serum ferritin | suggests | Hereditary hemochromatosis | Reviews associate high serum ferritin with hereditary hemochromatosis.
+High transferrin saturation | suggests | Hereditary hemochromatosis | Reviews associate high transferrin saturation with hereditary hemochromatosis.
+Hereditary hemochromatosis | confirmed_by | HFE gene test | HFE gene test is the confirmatory test reviews cite for hereditary hemochromatosis.
+Hereditary hemochromatosis | confirmed_by | Liver MRI iron quantification | Liver MRI iron quantification is the confirmatory test reviews cite for hereditary hemochromatosis.
+Hereditary hemochromatosis | treated_with | Therapeutic phlebotomy | Reviews describe therapeutic phlebotomy as standard for hereditary hemochromatosis.
+Low serum ferritin | suggests | Iron deficiency anemia | Reviews associate low serum ferritin with iron deficiency anemia.
+Iron deficiency anemia | treated_with | Oral iron supplementation | Reviews describe oral iron supplementation as standard for iron deficiency anemia.
+Major depressive disorder | confirmed_by | PHQ-9 screening | PHQ-9 screening is the confirmatory test reviews cite for major depressive disorder.
+Major depressive disorder | treated_with | Psychotherapy | Reviews describe psychotherapy as standard for major depressive disorder.
+Alcoholic liver disease | confirmed_by | Liver ultrasound | Liver ultrasound is the confirmatory test reviews cite for alcoholic liver disease.
+High serum ferritin | suggests | Acute infection | Reviews associate high serum ferritin with acute infection.
+Acute infection | treated_with | Antibiotic therapy | Reviews describe antibiotic therapy as standard for acute infection.
+Addison's disease | treated_with | Hydrocortisone replacement | Reviews describe hydrocortisone replacement as standard for addison's disease.
+Hypothyroidism | confirmed_by | Thyroid function panel | Thyroid function panel is the confirmatory test reviews cite for hypothyroidism.
+Elevated urine porphyrins | suggests | Porphyria cutanea tarda | Reviews associate elevated urine porphyrins with porphyria cutanea tarda.
+Celiac disease | treated_with | Gluten-free diet | Reviews describe gluten-free diet as standard for celiac disease.
+Systemic lupus erythematosus | confirmed_by | Anti-dsDNA test | Anti-dsDNA test is the confirmatory test reviews cite for systemic lupus erythematosus.
+Systemic lupus erythematosus | treated_with | Hydroxychloroquine | Reviews describe hydroxychloroquine as standard for systemic lupus erythematosus.
+Heart failure | confirmed_by | Echocardiogram | Echocardiogram is the confirmatory test reviews cite for heart failure.
+Obstructive sleep apnea | confirmed_by | Polysomnography | Polysomnography is the confirmatory test reviews cite for obstructive sleep apnea.
+Low hemoglobin | suggests | Vitamin B12 deficiency | Reviews associate low hemoglobin with vitamin b12 deficiency.
+Vitamin B12 deficiency | confirmed_by | Serum B12 test | Serum B12 test is the confirmatory test reviews cite for vitamin b12 deficiency.
+Wilson disease | treated_with | Chelation therapy | Reviews describe chelation therapy as standard for wilson disease.
+Hyperthyroidism | treated_with | Methimazole | Reviews describe methimazole as standard for hyperthyroidism.
+Lyme disease | confirmed_by | Lyme serology | Lyme serology is the confirmatory test reviews cite for lyme disease.
+Lyme disease | treated_with | Doxycycline | Reviews describe doxycycline as standard for lyme disease.
+Low hemoglobin | suggests | Multiple myeloma | Reviews associate low hemoglobin with multiple myeloma.
+High calcium | suggests | Multiple myeloma | Reviews associate high calcium with multiple myeloma.
+Multiple myeloma | confirmed_by | Serum protein electrophoresis | Serum protein electrophoresis is the confirmatory test reviews cite for multiple myeloma.
+Multiple myeloma | treated_with | Oncology referral | Reviews describe oncology referral as standard for multiple myeloma.
+Sarcoidosis | confirmed_by | Chest CT | Chest CT is the confirmatory test reviews cite for sarcoidosis.
+Beta thalassemia | treated_with | Iron chelation therapy | Reviews describe iron chelation therapy as standard for beta thalassemia.
+Fibromyalgia | treated_with | Graded exercise | Reviews describe graded exercise as standard for fibromyalgia.
+Infectious mononucleosis | confirmed_by | Monospot test | Monospot test is the confirmatory test reviews cite for infectious mononucleosis.
+High serum ferritin | suggests | Nonalcoholic fatty liver disease | Reviews associate high serum ferritin with nonalcoholic fatty liver disease.
+Nonalcoholic fatty liver disease | treated_with | Lifestyle modification | Reviews describe lifestyle modification as standard for nonalcoholic fatty liver disease.
+Osteoarthritis | confirmed_by | Joint X-ray | Joint X-ray is the confirmatory test reviews cite for osteoarthritis.
+Osteoarthritis | treated_with | Physical therapy | Reviews describe physical therapy as standard for osteoarthritis.

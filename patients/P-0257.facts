@@ -1,0 +1,7 @@
+# Synthetic patient P-0257.
+P-0257 | presents_with | Recurrent fatigue | Patient P-0257 presents with recurrent fatigue.
+P-0257 | presents_with | Pallor | Patient P-0257 presents with pallor.
+P-0257 | presents_with | Shortness of breath | Patient P-0257 presents with shortness of breath.
+P-0257 | presents_with | Brittle nails | Patient P-0257 presents with brittle nails.
+P-0257 | has_lab | Low serum ferritin | Patient P-0257 has low serum ferritin (ferritin 12 ng/mL).
+P-0257 | has_lab | Low hemoglobin | Patient P-0257 has low hemoglobin (hemoglobin 10.9 g/dL).

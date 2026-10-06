@@ -1,0 +1,11 @@
+# Synthetic patient P-0126.
+P-0126 | presents_with | Recurrent fatigue | Patient P-0126 presents with recurrent fatigue.
+P-0126 | presents_with | Pallor | Patient P-0126 presents with pallor.
+P-0126 | presents_with | Brittle nails | Patient P-0126 presents with brittle nails.
+P-0126 | presents_with | Palpitations | Patient P-0126 also reports palpitations.
+P-0126 | has_lab | Low serum ferritin | Patient P-0126 has low serum ferritin (ferritin 12 ng/mL).
+P-0126 | has_lab | Low hemoglobin | Patient P-0126 has low hemoglobin (hemoglobin 10.2 g/dL).
+P-0126 | underwent | Complete blood count | Patient P-0126 underwent Complete blood count.
+P-0126 | diagnosed_with | Iron deficiency anemia | Patient P-0126 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0126 | treated_with | Oral iron supplementation | Patient P-0126 is treated with oral iron supplementation.
+P-0126 | responding_to | Oral iron supplementation | Patient P-0126 is responding to oral iron supplementation at follow-up.

@@ -1,0 +1,7 @@
+# Synthetic patient P-0034.
+P-0034 | presents_with | Shortness of breath | Patient P-0034 presents with shortness of breath.
+P-0034 | presents_with | Recurrent fatigue | Patient P-0034 presents with recurrent fatigue.
+P-0034 | has_lab | Elevated BNP | Patient P-0034 has elevated bnp (BNP 1014 pg/mL).
+P-0034 | underwent | Echocardiogram | Patient P-0034 underwent Echocardiogram.
+P-0034 | diagnosed_with | Heart failure | Patient P-0034 was diagnosed with heart failure after Echocardiogram.
+P-0034 | treated_with | ACE inhibitor therapy | Patient P-0034 is treated with ace inhibitor therapy.

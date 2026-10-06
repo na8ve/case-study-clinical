@@ -1,0 +1,7 @@
+# Synthetic patient P-0172.
+P-0172 | presents_with | Fever | Patient P-0172 presents with fever.
+P-0172 | presents_with | Sore throat | Patient P-0172 presents with sore throat.
+P-0172 | presents_with | Swollen lymph nodes | Patient P-0172 presents with swollen lymph nodes.
+P-0172 | underwent | Monospot test | Patient P-0172 underwent Monospot test.
+P-0172 | diagnosed_with | Infectious mononucleosis | Patient P-0172 was diagnosed with infectious mononucleosis after Monospot test.
+P-0172 | treated_with | Supportive care | Patient P-0172 is treated with supportive care.

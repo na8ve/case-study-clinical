@@ -1,0 +1,8 @@
+# Synthetic patient P-0003.
+P-0003 | presents_with | Recurrent fatigue | Patient P-0003 presents with recurrent fatigue.
+P-0003 | presents_with | Bloating | Patient P-0003 also reports bloating.
+P-0003 | has_lab | Low MCV | Patient P-0003 has low mcv (MCV 59 fL).
+P-0003 | has_lab | High serum ferritin | Patient P-0003 has high serum ferritin (ferritin 1523 ng/mL).
+P-0003 | underwent | Hemoglobin electrophoresis | Patient P-0003 underwent Hemoglobin electrophoresis.
+P-0003 | diagnosed_with | Beta thalassemia | Patient P-0003 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0003 | treated_with | Iron chelation therapy | Patient P-0003 is treated with iron chelation therapy.

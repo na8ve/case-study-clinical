@@ -1,0 +1,7 @@
+# Synthetic patient P-0355.
+P-0355 | presents_with | Joint pain | Patient P-0355 presents with joint pain.
+P-0355 | presents_with | Morning stiffness | Patient P-0355 presents with morning stiffness.
+P-0355 | underwent | Joint X-ray | Patient P-0355 underwent Joint X-ray.
+P-0355 | diagnosed_with | Osteoarthritis | Patient P-0355 was diagnosed with osteoarthritis after Joint X-ray.
+P-0355 | treated_with | Physical therapy | Patient P-0355 is treated with physical therapy.
+P-0355 | responding_to | Physical therapy | Patient P-0355 is responding to physical therapy at follow-up.

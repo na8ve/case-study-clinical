@@ -1,0 +1,11 @@
+# Synthetic patient P-0396.
+P-0396 | presents_with | Recurrent fatigue | Patient P-0396 presents with recurrent fatigue.
+P-0396 | presents_with | Bronze skin | Patient P-0396 presents with bronze skin.
+P-0396 | presents_with | Joint pain | Patient P-0396 presents with joint pain.
+P-0396 | presents_with | Abdominal pain | Patient P-0396 presents with abdominal pain.
+P-0396 | has_lab | High serum ferritin | Patient P-0396 has high serum ferritin (ferritin 1163 ng/mL).
+P-0396 | has_lab | High transferrin saturation | Patient P-0396 has high transferrin saturation (transferrin saturation 62%).
+P-0396 | has_risk | Family history of hemochromatosis | Patient P-0396 has a risk factor: family history of hemochromatosis.
+P-0396 | underwent | HFE gene test | Patient P-0396 underwent HFE gene test.
+P-0396 | diagnosed_with | Hereditary hemochromatosis | Patient P-0396 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0396 | treated_with | Therapeutic phlebotomy | Patient P-0396 is treated with therapeutic phlebotomy.

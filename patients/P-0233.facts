@@ -1,0 +1,8 @@
+# Synthetic patient P-0233.
+P-0233 | presents_with | Fever | Patient P-0233 presents with fever.
+P-0233 | presents_with | Sore throat | Patient P-0233 presents with sore throat.
+P-0233 | presents_with | Swollen lymph nodes | Patient P-0233 presents with swollen lymph nodes.
+P-0233 | underwent | Monospot test | Patient P-0233 underwent Monospot test.
+P-0233 | diagnosed_with | Infectious mononucleosis | Patient P-0233 was diagnosed with infectious mononucleosis after Monospot test.
+P-0233 | treated_with | Supportive care | Patient P-0233 is treated with supportive care.
+P-0233 | responding_to | Supportive care | Patient P-0233 is responding to supportive care at follow-up.

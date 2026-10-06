@@ -1,0 +1,8 @@
+# Synthetic patient P-0145.
+P-0145 | presents_with | Weight loss | Patient P-0145 presents with weight loss.
+P-0145 | presents_with | Palpitations | Patient P-0145 presents with palpitations.
+P-0145 | presents_with | Heat intolerance | Patient P-0145 presents with heat intolerance.
+P-0145 | has_lab | Low TSH | Patient P-0145 has low tsh (TSH 0.04 mIU/L).
+P-0145 | underwent | Thyroid function panel | Patient P-0145 underwent Thyroid function panel.
+P-0145 | diagnosed_with | Hyperthyroidism | Patient P-0145 was diagnosed with hyperthyroidism after Thyroid function panel.
+P-0145 | treated_with | Methimazole | Patient P-0145 is treated with methimazole.

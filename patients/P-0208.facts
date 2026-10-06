@@ -1,0 +1,8 @@
+# Synthetic patient P-0208.
+P-0208 | presents_with | Jaundice | Patient P-0208 presents with jaundice.
+P-0208 | presents_with | Abdominal swelling | Patient P-0208 presents with abdominal swelling.
+P-0208 | presents_with | Recurrent fatigue | Patient P-0208 presents with recurrent fatigue.
+P-0208 | has_lab | Low albumin | Patient P-0208 has low albumin (albumin 3.1 g/dL).
+P-0208 | underwent | Liver elastography | Patient P-0208 underwent Liver elastography.
+P-0208 | diagnosed_with | Cirrhosis | Patient P-0208 was diagnosed with cirrhosis after Liver elastography.
+P-0208 | treated_with | Hepatology referral | Patient P-0208 is treated with hepatology referral.

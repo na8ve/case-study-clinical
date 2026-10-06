@@ -1,0 +1,8 @@
+# Synthetic patient P-0301.
+P-0301 | presents_with | Joint pain | Patient P-0301 presents with joint pain.
+P-0301 | presents_with | Recurrent fatigue | Patient P-0301 presents with recurrent fatigue.
+P-0301 | presents_with | Fever | Patient P-0301 presents with fever.
+P-0301 | has_lab | Positive ANA | Patient P-0301 has positive ana (ANA 1:640 homogeneous).
+P-0301 | underwent | Anti-dsDNA test | Patient P-0301 underwent Anti-dsDNA test.
+P-0301 | diagnosed_with | Systemic lupus erythematosus | Patient P-0301 was diagnosed with systemic lupus erythematosus after Anti-dsDNA test.
+P-0301 | treated_with | Hydroxychloroquine | Patient P-0301 is treated with hydroxychloroquine.

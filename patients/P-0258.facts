@@ -1,0 +1,9 @@
+# Synthetic patient P-0258.
+P-0258 | presents_with | Fever | Patient P-0258 presents with fever.
+P-0258 | presents_with | Recurrent fatigue | Patient P-0258 presents with recurrent fatigue.
+P-0258 | presents_with | Swollen lymph nodes | Patient P-0258 presents with swollen lymph nodes.
+P-0258 | presents_with | Back pain | Patient P-0258 also reports back pain.
+P-0258 | underwent | Monospot test | Patient P-0258 underwent Monospot test.
+P-0258 | diagnosed_with | Infectious mononucleosis | Patient P-0258 was diagnosed with infectious mononucleosis after Monospot test.
+P-0258 | treated_with | Supportive care | Patient P-0258 is treated with supportive care.
+P-0258 | responding_to | Supportive care | Patient P-0258 is responding to supportive care at follow-up.

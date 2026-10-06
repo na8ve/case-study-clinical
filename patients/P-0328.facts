@@ -1,0 +1,8 @@
+# Synthetic patient P-0328.
+P-0328 | presents_with | Joint pain | Patient P-0328 presents with joint pain.
+P-0328 | presents_with | Morning stiffness | Patient P-0328 presents with morning stiffness.
+P-0328 | presents_with | Recurrent fatigue | Patient P-0328 presents with recurrent fatigue.
+P-0328 | has_lab | Elevated CRP | Patient P-0328 has elevated crp (CRP 25 mg/L).
+P-0328 | underwent | Anti-CCP antibody test | Patient P-0328 underwent Anti-CCP antibody test.
+P-0328 | diagnosed_with | Rheumatoid arthritis | Patient P-0328 was diagnosed with rheumatoid arthritis after Anti-CCP antibody test.
+P-0328 | treated_with | Methotrexate | Patient P-0328 is treated with methotrexate.

@@ -1,0 +1,9 @@
+# Synthetic patient P-0457.
+P-0457 | presents_with | Fever | Patient P-0457 presents with fever.
+P-0457 | presents_with | Sore throat | Patient P-0457 presents with sore throat.
+P-0457 | presents_with | Swollen lymph nodes | Patient P-0457 presents with swollen lymph nodes.
+P-0457 | presents_with | Bloating | Patient P-0457 also reports bloating.
+P-0457 | underwent | Monospot test | Patient P-0457 underwent Monospot test.
+P-0457 | diagnosed_with | Infectious mononucleosis | Patient P-0457 was diagnosed with infectious mononucleosis after Monospot test.
+P-0457 | treated_with | Supportive care | Patient P-0457 is treated with supportive care.
+P-0457 | responding_to | Supportive care | Patient P-0457 is responding to supportive care at follow-up.

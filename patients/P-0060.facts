@@ -1,0 +1,6 @@
+# Synthetic patient P-0060.
+P-0060 | presents_with | Recurrent fatigue | Patient P-0060 presents with recurrent fatigue.
+P-0060 | presents_with | Pallor | Patient P-0060 presents with pallor.
+P-0060 | presents_with | Shortness of breath | Patient P-0060 presents with shortness of breath.
+P-0060 | presents_with | Brittle nails | Patient P-0060 presents with brittle nails.
+P-0060 | has_lab | Low hemoglobin | Patient P-0060 has low hemoglobin (hemoglobin 8.2 g/dL).

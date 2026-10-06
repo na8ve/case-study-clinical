@@ -1,0 +1,10 @@
+# Synthetic patient P-0094.
+P-0094 | presents_with | Fever | Patient P-0094 presents with fever.
+P-0094 | presents_with | Sore throat | Patient P-0094 presents with sore throat.
+P-0094 | presents_with | Recurrent fatigue | Patient P-0094 presents with recurrent fatigue.
+P-0094 | presents_with | Swollen lymph nodes | Patient P-0094 presents with swollen lymph nodes.
+P-0094 | presents_with | Back pain | Patient P-0094 also reports back pain.
+P-0094 | underwent | Monospot test | Patient P-0094 underwent Monospot test.
+P-0094 | diagnosed_with | Infectious mononucleosis | Patient P-0094 was diagnosed with infectious mononucleosis after Monospot test.
+P-0094 | treated_with | Supportive care | Patient P-0094 is treated with supportive care.
+P-0094 | responding_to | Supportive care | Patient P-0094 is responding to supportive care at follow-up.

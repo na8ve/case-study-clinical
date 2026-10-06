@@ -1,0 +1,10 @@
+# Synthetic patient P-0165.
+P-0165 | presents_with | Jaundice | Patient P-0165 presents with jaundice.
+P-0165 | presents_with | Abdominal swelling | Patient P-0165 presents with abdominal swelling.
+P-0165 | presents_with | Recurrent fatigue | Patient P-0165 presents with recurrent fatigue.
+P-0165 | presents_with | Insomnia | Patient P-0165 also reports insomnia.
+P-0165 | has_lab | Elevated liver enzymes | Patient P-0165 has elevated liver enzymes (AST 139 U/L).
+P-0165 | has_lab | Low albumin | Patient P-0165 has low albumin (albumin 2.5 g/dL).
+P-0165 | underwent | Liver elastography | Patient P-0165 underwent Liver elastography.
+P-0165 | diagnosed_with | Cirrhosis | Patient P-0165 was diagnosed with cirrhosis after Liver elastography.
+P-0165 | treated_with | Hepatology referral | Patient P-0165 is treated with hepatology referral.

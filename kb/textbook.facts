@@ -1,0 +1,232 @@
+# Synthetic clinical knowledge base (textbook.facts). Not medical advice.
+Hereditary hemochromatosis | is_a | Iron overload disorder | Hereditary hemochromatosis is a iron overload disorder.
+Recurrent fatigue | suggests | Hereditary hemochromatosis | Recurrent fatigue is a presenting feature of hereditary hemochromatosis.
+Bronze skin | suggests | Hereditary hemochromatosis | Bronze skin is a presenting feature of hereditary hemochromatosis.
+Joint pain | suggests | Hereditary hemochromatosis | Joint pain is a presenting feature of hereditary hemochromatosis.
+Abdominal pain | suggests | Hereditary hemochromatosis | Abdominal pain is a presenting feature of hereditary hemochromatosis.
+High serum ferritin | suggests | Hereditary hemochromatosis | High serum ferritin is a laboratory finding in hereditary hemochromatosis.
+High transferrin saturation | suggests | Hereditary hemochromatosis | High transferrin saturation is a laboratory finding in hereditary hemochromatosis.
+Hereditary hemochromatosis | confirmed_by | HFE gene test | Hereditary hemochromatosis is confirmed by HFE gene test.
+Hereditary hemochromatosis | confirmed_by | Liver MRI iron quantification | Hereditary hemochromatosis is confirmed by Liver MRI iron quantification.
+Hereditary hemochromatosis | treated_with | Therapeutic phlebotomy | Hereditary hemochromatosis is treated with therapeutic phlebotomy.
+Family history of hemochromatosis | increases_risk_of | Hereditary hemochromatosis | Family history of hemochromatosis increases the risk of hereditary hemochromatosis.
+Iron deficiency anemia | is_a | Anemia | Iron deficiency anemia is a anemia.
+Recurrent fatigue | suggests | Iron deficiency anemia | Recurrent fatigue is a presenting feature of iron deficiency anemia.
+Pallor | suggests | Iron deficiency anemia | Pallor is a presenting feature of iron deficiency anemia.
+Shortness of breath | suggests | Iron deficiency anemia | Shortness of breath is a presenting feature of iron deficiency anemia.
+Brittle nails | suggests | Iron deficiency anemia | Brittle nails is a presenting feature of iron deficiency anemia.
+Low serum ferritin | suggests | Iron deficiency anemia | Low serum ferritin is a laboratory finding in iron deficiency anemia.
+Low hemoglobin | suggests | Iron deficiency anemia | Low hemoglobin is a laboratory finding in iron deficiency anemia.
+Iron deficiency anemia | confirmed_by | Complete blood count | Iron deficiency anemia is confirmed by Complete blood count.
+Iron deficiency anemia | treated_with | Oral iron supplementation | Iron deficiency anemia is treated with oral iron supplementation.
+Major depressive disorder | is_a | Mood disorder | Major depressive disorder is a mood disorder.
+Recurrent fatigue | suggests | Major depressive disorder | Recurrent fatigue is a presenting feature of major depressive disorder.
+Low mood | suggests | Major depressive disorder | Low mood is a presenting feature of major depressive disorder.
+Insomnia | suggests | Major depressive disorder | Insomnia is a presenting feature of major depressive disorder.
+Weight change | suggests | Major depressive disorder | Weight change is a presenting feature of major depressive disorder.
+Major depressive disorder | confirmed_by | PHQ-9 screening | Major depressive disorder is confirmed by PHQ-9 screening.
+Major depressive disorder | treated_with | SSRI therapy | Major depressive disorder is treated with ssri therapy.
+Major depressive disorder | treated_with | Psychotherapy | Major depressive disorder is treated with psychotherapy.
+Alcoholic liver disease | is_a | Liver disease | Alcoholic liver disease is a liver disease.
+Recurrent fatigue | suggests | Alcoholic liver disease | Recurrent fatigue is a presenting feature of alcoholic liver disease.
+Jaundice | suggests | Alcoholic liver disease | Jaundice is a presenting feature of alcoholic liver disease.
+Abdominal pain | suggests | Alcoholic liver disease | Abdominal pain is a presenting feature of alcoholic liver disease.
+High serum ferritin | suggests | Alcoholic liver disease | High serum ferritin is a laboratory finding in alcoholic liver disease.
+Elevated liver enzymes | suggests | Alcoholic liver disease | Elevated liver enzymes is a laboratory finding in alcoholic liver disease.
+Alcoholic liver disease | confirmed_by | Liver ultrasound | Alcoholic liver disease is confirmed by Liver ultrasound.
+Alcoholic liver disease | treated_with | Alcohol cessation | Alcoholic liver disease is treated with alcohol cessation.
+Heavy alcohol use | increases_risk_of | Alcoholic liver disease | Heavy alcohol use increases the risk of alcoholic liver disease.
+Acute infection | is_a | Inflammatory state | Acute infection is a inflammatory state.
+Fever | suggests | Acute infection | Fever is a presenting feature of acute infection.
+Recurrent fatigue | suggests | Acute infection | Recurrent fatigue is a presenting feature of acute infection.
+High serum ferritin | suggests | Acute infection | High serum ferritin is a laboratory finding in acute infection.
+Elevated CRP | suggests | Acute infection | Elevated CRP is a laboratory finding in acute infection.
+Acute infection | confirmed_by | Blood culture | Acute infection is confirmed by Blood culture.
+Acute infection | treated_with | Antibiotic therapy | Acute infection is treated with antibiotic therapy.
+Addison's disease | is_a | Adrenal insufficiency | Addison's disease is a adrenal insufficiency.
+Recurrent fatigue | suggests | Addison's disease | Recurrent fatigue is a presenting feature of addison's disease.
+Bronze skin | suggests | Addison's disease | Bronze skin is a presenting feature of addison's disease.
+Weight loss | suggests | Addison's disease | Weight loss is a presenting feature of addison's disease.
+Low blood pressure | suggests | Addison's disease | Low blood pressure is a presenting feature of addison's disease.
+Low sodium | suggests | Addison's disease | Low sodium is a laboratory finding in addison's disease.
+High potassium | suggests | Addison's disease | High potassium is a laboratory finding in addison's disease.
+Addison's disease | confirmed_by | ACTH stimulation test | Addison's disease is confirmed by ACTH stimulation test.
+Addison's disease | treated_with | Hydrocortisone replacement | Addison's disease is treated with hydrocortisone replacement.
+Hypothyroidism | is_a | Thyroid disorder | Hypothyroidism is a thyroid disorder.
+Recurrent fatigue | suggests | Hypothyroidism | Recurrent fatigue is a presenting feature of hypothyroidism.
+Weight gain | suggests | Hypothyroidism | Weight gain is a presenting feature of hypothyroidism.
+Cold intolerance | suggests | Hypothyroidism | Cold intolerance is a presenting feature of hypothyroidism.
+Dry skin | suggests | Hypothyroidism | Dry skin is a presenting feature of hypothyroidism.
+High TSH | suggests | Hypothyroidism | High TSH is a laboratory finding in hypothyroidism.
+Hypothyroidism | confirmed_by | Thyroid function panel | Hypothyroidism is confirmed by Thyroid function panel.
+Hypothyroidism | treated_with | Levothyroxine | Hypothyroidism is treated with levothyroxine.
+Type 2 diabetes | is_a | Metabolic disorder | Type 2 diabetes is a metabolic disorder.
+Frequent urination | suggests | Type 2 diabetes | Frequent urination is a presenting feature of type 2 diabetes.
+Excessive thirst | suggests | Type 2 diabetes | Excessive thirst is a presenting feature of type 2 diabetes.
+Recurrent fatigue | suggests | Type 2 diabetes | Recurrent fatigue is a presenting feature of type 2 diabetes.
+Blurred vision | suggests | Type 2 diabetes | Blurred vision is a presenting feature of type 2 diabetes.
+High HbA1c | suggests | Type 2 diabetes | High HbA1c is a laboratory finding in type 2 diabetes.
+High fasting glucose | suggests | Type 2 diabetes | High fasting glucose is a laboratory finding in type 2 diabetes.
+Type 2 diabetes | confirmed_by | Oral glucose tolerance test | Type 2 diabetes is confirmed by Oral glucose tolerance test.
+Type 2 diabetes | treated_with | Metformin | Type 2 diabetes is treated with metformin.
+Obesity | increases_risk_of | Type 2 diabetes | Obesity increases the risk of type 2 diabetes.
+Chronic fatigue syndrome | is_a | Fatigue syndrome | Chronic fatigue syndrome is a fatigue syndrome.
+Recurrent fatigue | suggests | Chronic fatigue syndrome | Recurrent fatigue is a presenting feature of chronic fatigue syndrome.
+Post-exertional malaise | suggests | Chronic fatigue syndrome | Post-exertional malaise is a presenting feature of chronic fatigue syndrome.
+Unrefreshing sleep | suggests | Chronic fatigue syndrome | Unrefreshing sleep is a presenting feature of chronic fatigue syndrome.
+Chronic fatigue syndrome | confirmed_by | Exclusion workup | Chronic fatigue syndrome is confirmed by Exclusion workup.
+Chronic fatigue syndrome | treated_with | Activity pacing | Chronic fatigue syndrome is treated with activity pacing.
+Porphyria cutanea tarda | is_a | Porphyria | Porphyria cutanea tarda is a porphyria.
+Blistering skin | suggests | Porphyria cutanea tarda | Blistering skin is a presenting feature of porphyria cutanea tarda.
+Bronze skin | suggests | Porphyria cutanea tarda | Bronze skin is a presenting feature of porphyria cutanea tarda.
+Dark urine | suggests | Porphyria cutanea tarda | Dark urine is a presenting feature of porphyria cutanea tarda.
+High serum ferritin | suggests | Porphyria cutanea tarda | High serum ferritin is a laboratory finding in porphyria cutanea tarda.
+Elevated urine porphyrins | suggests | Porphyria cutanea tarda | Elevated urine porphyrins is a laboratory finding in porphyria cutanea tarda.
+Porphyria cutanea tarda | confirmed_by | Urine porphyrin test | Porphyria cutanea tarda is confirmed by Urine porphyrin test.
+Porphyria cutanea tarda | treated_with | Therapeutic phlebotomy | Porphyria cutanea tarda is treated with therapeutic phlebotomy.
+Hepatitis C | is_a | Liver disease | Hepatitis C is a liver disease.
+Recurrent fatigue | suggests | Hepatitis C | Recurrent fatigue is a presenting feature of hepatitis c.
+Jaundice | suggests | Hepatitis C | Jaundice is a presenting feature of hepatitis c.
+Abdominal pain | suggests | Hepatitis C | Abdominal pain is a presenting feature of hepatitis c.
+Elevated liver enzymes | suggests | Hepatitis C | Elevated liver enzymes is a laboratory finding in hepatitis c.
+Hepatitis C | confirmed_by | HCV RNA test | Hepatitis C is confirmed by HCV RNA test.
+Hepatitis C | treated_with | Direct-acting antivirals | Hepatitis C is treated with direct-acting antivirals.
+Celiac disease | is_a | Autoimmune enteropathy | Celiac disease is a autoimmune enteropathy.
+Diarrhea | suggests | Celiac disease | Diarrhea is a presenting feature of celiac disease.
+Bloating | suggests | Celiac disease | Bloating is a presenting feature of celiac disease.
+Recurrent fatigue | suggests | Celiac disease | Recurrent fatigue is a presenting feature of celiac disease.
+Weight loss | suggests | Celiac disease | Weight loss is a presenting feature of celiac disease.
+Low hemoglobin | suggests | Celiac disease | Low hemoglobin is a laboratory finding in celiac disease.
+Celiac disease | confirmed_by | tTG antibody test | Celiac disease is confirmed by tTG antibody test.
+Celiac disease | treated_with | Gluten-free diet | Celiac disease is treated with gluten-free diet.
+Rheumatoid arthritis | is_a | Autoimmune arthritis | Rheumatoid arthritis is a autoimmune arthritis.
+Joint pain | suggests | Rheumatoid arthritis | Joint pain is a presenting feature of rheumatoid arthritis.
+Morning stiffness | suggests | Rheumatoid arthritis | Morning stiffness is a presenting feature of rheumatoid arthritis.
+Recurrent fatigue | suggests | Rheumatoid arthritis | Recurrent fatigue is a presenting feature of rheumatoid arthritis.
+Elevated CRP | suggests | Rheumatoid arthritis | Elevated CRP is a laboratory finding in rheumatoid arthritis.
+Positive rheumatoid factor | suggests | Rheumatoid arthritis | Positive rheumatoid factor is a laboratory finding in rheumatoid arthritis.
+Rheumatoid arthritis | confirmed_by | Anti-CCP antibody test | Rheumatoid arthritis is confirmed by Anti-CCP antibody test.
+Rheumatoid arthritis | treated_with | Methotrexate | Rheumatoid arthritis is treated with methotrexate.
+Systemic lupus erythematosus | is_a | Autoimmune disease | Systemic lupus erythematosus is a autoimmune disease.
+Joint pain | suggests | Systemic lupus erythematosus | Joint pain is a presenting feature of systemic lupus erythematosus.
+Facial rash | suggests | Systemic lupus erythematosus | Facial rash is a presenting feature of systemic lupus erythematosus.
+Recurrent fatigue | suggests | Systemic lupus erythematosus | Recurrent fatigue is a presenting feature of systemic lupus erythematosus.
+Fever | suggests | Systemic lupus erythematosus | Fever is a presenting feature of systemic lupus erythematosus.
+Positive ANA | suggests | Systemic lupus erythematosus | Positive ANA is a laboratory finding in systemic lupus erythematosus.
+Systemic lupus erythematosus | confirmed_by | Anti-dsDNA test | Systemic lupus erythematosus is confirmed by Anti-dsDNA test.
+Systemic lupus erythematosus | treated_with | Hydroxychloroquine | Systemic lupus erythematosus is treated with hydroxychloroquine.
+Heart failure | is_a | Cardiovascular disease | Heart failure is a cardiovascular disease.
+Shortness of breath | suggests | Heart failure | Shortness of breath is a presenting feature of heart failure.
+Leg swelling | suggests | Heart failure | Leg swelling is a presenting feature of heart failure.
+Recurrent fatigue | suggests | Heart failure | Recurrent fatigue is a presenting feature of heart failure.
+Elevated BNP | suggests | Heart failure | Elevated BNP is a laboratory finding in heart failure.
+Heart failure | confirmed_by | Echocardiogram | Heart failure is confirmed by Echocardiogram.
+Heart failure | treated_with | ACE inhibitor therapy | Heart failure is treated with ace inhibitor therapy.
+Obstructive sleep apnea | is_a | Sleep disorder | Obstructive sleep apnea is a sleep disorder.
+Daytime sleepiness | suggests | Obstructive sleep apnea | Daytime sleepiness is a presenting feature of obstructive sleep apnea.
+Snoring | suggests | Obstructive sleep apnea | Snoring is a presenting feature of obstructive sleep apnea.
+Recurrent fatigue | suggests | Obstructive sleep apnea | Recurrent fatigue is a presenting feature of obstructive sleep apnea.
+Obstructive sleep apnea | confirmed_by | Polysomnography | Obstructive sleep apnea is confirmed by Polysomnography.
+Obstructive sleep apnea | treated_with | CPAP therapy | Obstructive sleep apnea is treated with cpap therapy.
+Obesity | increases_risk_of | Obstructive sleep apnea | Obesity increases the risk of obstructive sleep apnea.
+Vitamin B12 deficiency | is_a | Nutritional deficiency | Vitamin B12 deficiency is a nutritional deficiency.
+Recurrent fatigue | suggests | Vitamin B12 deficiency | Recurrent fatigue is a presenting feature of vitamin b12 deficiency.
+Numbness | suggests | Vitamin B12 deficiency | Numbness is a presenting feature of vitamin b12 deficiency.
+Pallor | suggests | Vitamin B12 deficiency | Pallor is a presenting feature of vitamin b12 deficiency.
+Low vitamin B12 | suggests | Vitamin B12 deficiency | Low vitamin B12 is a laboratory finding in vitamin b12 deficiency.
+Low hemoglobin | suggests | Vitamin B12 deficiency | Low hemoglobin is a laboratory finding in vitamin b12 deficiency.
+Vitamin B12 deficiency | confirmed_by | Serum B12 test | Vitamin B12 deficiency is confirmed by Serum B12 test.
+Vitamin B12 deficiency | treated_with | B12 injections | Vitamin B12 deficiency is treated with b12 injections.
+Cirrhosis | is_a | Liver disease | Cirrhosis is a liver disease.
+Jaundice | suggests | Cirrhosis | Jaundice is a presenting feature of cirrhosis.
+Abdominal swelling | suggests | Cirrhosis | Abdominal swelling is a presenting feature of cirrhosis.
+Recurrent fatigue | suggests | Cirrhosis | Recurrent fatigue is a presenting feature of cirrhosis.
+Elevated liver enzymes | suggests | Cirrhosis | Elevated liver enzymes is a laboratory finding in cirrhosis.
+Low albumin | suggests | Cirrhosis | Low albumin is a laboratory finding in cirrhosis.
+Cirrhosis | confirmed_by | Liver elastography | Cirrhosis is confirmed by Liver elastography.
+Cirrhosis | treated_with | Hepatology referral | Cirrhosis is treated with hepatology referral.
+Heavy alcohol use | increases_risk_of | Cirrhosis | Heavy alcohol use increases the risk of cirrhosis.
+Wilson disease | is_a | Copper metabolism disorder | Wilson disease is a copper metabolism disorder.
+Tremor | suggests | Wilson disease | Tremor is a presenting feature of wilson disease.
+Jaundice | suggests | Wilson disease | Jaundice is a presenting feature of wilson disease.
+Low ceruloplasmin | suggests | Wilson disease | Low ceruloplasmin is a laboratory finding in wilson disease.
+Wilson disease | confirmed_by | 24-hour urine copper | Wilson disease is confirmed by 24-hour urine copper.
+Wilson disease | treated_with | Chelation therapy | Wilson disease is treated with chelation therapy.
+Hyperthyroidism | is_a | Thyroid disorder | Hyperthyroidism is a thyroid disorder.
+Weight loss | suggests | Hyperthyroidism | Weight loss is a presenting feature of hyperthyroidism.
+Palpitations | suggests | Hyperthyroidism | Palpitations is a presenting feature of hyperthyroidism.
+Heat intolerance | suggests | Hyperthyroidism | Heat intolerance is a presenting feature of hyperthyroidism.
+Low TSH | suggests | Hyperthyroidism | Low TSH is a laboratory finding in hyperthyroidism.
+Hyperthyroidism | confirmed_by | Thyroid function panel | Hyperthyroidism is confirmed by Thyroid function panel.
+Hyperthyroidism | treated_with | Methimazole | Hyperthyroidism is treated with methimazole.
+Chronic kidney disease | is_a | Kidney disease | Chronic kidney disease is a kidney disease.
+Recurrent fatigue | suggests | Chronic kidney disease | Recurrent fatigue is a presenting feature of chronic kidney disease.
+Leg swelling | suggests | Chronic kidney disease | Leg swelling is a presenting feature of chronic kidney disease.
+Frequent urination | suggests | Chronic kidney disease | Frequent urination is a presenting feature of chronic kidney disease.
+Elevated creatinine | suggests | Chronic kidney disease | Elevated creatinine is a laboratory finding in chronic kidney disease.
+Chronic kidney disease | confirmed_by | Kidney function panel | Chronic kidney disease is confirmed by Kidney function panel.
+Chronic kidney disease | treated_with | Nephrology referral | Chronic kidney disease is treated with nephrology referral.
+Lyme disease | is_a | Tick-borne infection | Lyme disease is a tick-borne infection.
+Recurrent fatigue | suggests | Lyme disease | Recurrent fatigue is a presenting feature of lyme disease.
+Joint pain | suggests | Lyme disease | Joint pain is a presenting feature of lyme disease.
+Expanding rash | suggests | Lyme disease | Expanding rash is a presenting feature of lyme disease.
+Fever | suggests | Lyme disease | Fever is a presenting feature of lyme disease.
+Lyme disease | confirmed_by | Lyme serology | Lyme disease is confirmed by Lyme serology.
+Lyme disease | treated_with | Doxycycline | Lyme disease is treated with doxycycline.
+Multiple myeloma | is_a | Blood cancer | Multiple myeloma is a blood cancer.
+Bone pain | suggests | Multiple myeloma | Bone pain is a presenting feature of multiple myeloma.
+Recurrent fatigue | suggests | Multiple myeloma | Recurrent fatigue is a presenting feature of multiple myeloma.
+Low hemoglobin | suggests | Multiple myeloma | Low hemoglobin is a laboratory finding in multiple myeloma.
+High calcium | suggests | Multiple myeloma | High calcium is a laboratory finding in multiple myeloma.
+Multiple myeloma | confirmed_by | Serum protein electrophoresis | Multiple myeloma is confirmed by Serum protein electrophoresis.
+Multiple myeloma | treated_with | Oncology referral | Multiple myeloma is treated with oncology referral.
+Hemolytic anemia | is_a | Anemia | Hemolytic anemia is a anemia.
+Recurrent fatigue | suggests | Hemolytic anemia | Recurrent fatigue is a presenting feature of hemolytic anemia.
+Jaundice | suggests | Hemolytic anemia | Jaundice is a presenting feature of hemolytic anemia.
+Pallor | suggests | Hemolytic anemia | Pallor is a presenting feature of hemolytic anemia.
+Dark urine | suggests | Hemolytic anemia | Dark urine is a presenting feature of hemolytic anemia.
+Low hemoglobin | suggests | Hemolytic anemia | Low hemoglobin is a laboratory finding in hemolytic anemia.
+Elevated bilirubin | suggests | Hemolytic anemia | Elevated bilirubin is a laboratory finding in hemolytic anemia.
+Hemolytic anemia | confirmed_by | Coombs test | Hemolytic anemia is confirmed by Coombs test.
+Hemolytic anemia | treated_with | Corticosteroids | Hemolytic anemia is treated with corticosteroids.
+Sarcoidosis | is_a | Granulomatous disease | Sarcoidosis is a granulomatous disease.
+Shortness of breath | suggests | Sarcoidosis | Shortness of breath is a presenting feature of sarcoidosis.
+Recurrent fatigue | suggests | Sarcoidosis | Recurrent fatigue is a presenting feature of sarcoidosis.
+Skin lesions | suggests | Sarcoidosis | Skin lesions is a presenting feature of sarcoidosis.
+High calcium | suggests | Sarcoidosis | High calcium is a laboratory finding in sarcoidosis.
+Sarcoidosis | confirmed_by | Chest CT | Sarcoidosis is confirmed by Chest CT.
+Sarcoidosis | treated_with | Corticosteroids | Sarcoidosis is treated with corticosteroids.
+Beta thalassemia | is_a | Hemoglobinopathy | Beta thalassemia is a hemoglobinopathy.
+Recurrent fatigue | suggests | Beta thalassemia | Recurrent fatigue is a presenting feature of beta thalassemia.
+Pallor | suggests | Beta thalassemia | Pallor is a presenting feature of beta thalassemia.
+Bronze skin | suggests | Beta thalassemia | Bronze skin is a presenting feature of beta thalassemia.
+Low MCV | suggests | Beta thalassemia | Low MCV is a laboratory finding in beta thalassemia.
+High serum ferritin | suggests | Beta thalassemia | High serum ferritin is a laboratory finding in beta thalassemia.
+Beta thalassemia | confirmed_by | Hemoglobin electrophoresis | Beta thalassemia is confirmed by Hemoglobin electrophoresis.
+Beta thalassemia | treated_with | Iron chelation therapy | Beta thalassemia is treated with iron chelation therapy.
+Fibromyalgia | is_a | Chronic pain syndrome | Fibromyalgia is a chronic pain syndrome.
+Widespread pain | suggests | Fibromyalgia | Widespread pain is a presenting feature of fibromyalgia.
+Recurrent fatigue | suggests | Fibromyalgia | Recurrent fatigue is a presenting feature of fibromyalgia.
+Unrefreshing sleep | suggests | Fibromyalgia | Unrefreshing sleep is a presenting feature of fibromyalgia.
+Fibromyalgia | confirmed_by | Clinical assessment | Fibromyalgia is confirmed by Clinical assessment.
+Fibromyalgia | treated_with | Graded exercise | Fibromyalgia is treated with graded exercise.
+Infectious mononucleosis | is_a | Viral infection | Infectious mononucleosis is a viral infection.
+Fever | suggests | Infectious mononucleosis | Fever is a presenting feature of infectious mononucleosis.
+Sore throat | suggests | Infectious mononucleosis | Sore throat is a presenting feature of infectious mononucleosis.
+Recurrent fatigue | suggests | Infectious mononucleosis | Recurrent fatigue is a presenting feature of infectious mononucleosis.
+Swollen lymph nodes | suggests | Infectious mononucleosis | Swollen lymph nodes is a presenting feature of infectious mononucleosis.
+Infectious mononucleosis | confirmed_by | Monospot test | Infectious mononucleosis is confirmed by Monospot test.
+Infectious mononucleosis | treated_with | Supportive care | Infectious mononucleosis is treated with supportive care.
+Nonalcoholic fatty liver disease | is_a | Liver disease | Nonalcoholic fatty liver disease is a liver disease.
+Recurrent fatigue | suggests | Nonalcoholic fatty liver disease | Recurrent fatigue is a presenting feature of nonalcoholic fatty liver disease.
+Abdominal discomfort | suggests | Nonalcoholic fatty liver disease | Abdominal discomfort is a presenting feature of nonalcoholic fatty liver disease.
+Elevated liver enzymes | suggests | Nonalcoholic fatty liver disease | Elevated liver enzymes is a laboratory finding in nonalcoholic fatty liver disease.
+High serum ferritin | suggests | Nonalcoholic fatty liver disease | High serum ferritin is a laboratory finding in nonalcoholic fatty liver disease.
+Nonalcoholic fatty liver disease | confirmed_by | Liver ultrasound | Nonalcoholic fatty liver disease is confirmed by Liver ultrasound.
+Nonalcoholic fatty liver disease | treated_with | Lifestyle modification | Nonalcoholic fatty liver disease is treated with lifestyle modification.
+Obesity | increases_risk_of | Nonalcoholic fatty liver disease | Obesity increases the risk of nonalcoholic fatty liver disease.
+Osteoarthritis | is_a | Degenerative joint disease | Osteoarthritis is a degenerative joint disease.
+Joint pain | suggests | Osteoarthritis | Joint pain is a presenting feature of osteoarthritis.
+Morning stiffness | suggests | Osteoarthritis | Morning stiffness is a presenting feature of osteoarthritis.
+Osteoarthritis | confirmed_by | Joint X-ray | Osteoarthritis is confirmed by Joint X-ray.
+Osteoarthritis | treated_with | Physical therapy | Osteoarthritis is treated with physical therapy.

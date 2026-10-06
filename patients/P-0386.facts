@@ -1,0 +1,8 @@
+# Synthetic patient P-0386.
+P-0386 | presents_with | Recurrent fatigue | Patient P-0386 presents with recurrent fatigue.
+P-0386 | presents_with | Jaundice | Patient P-0386 presents with jaundice.
+P-0386 | presents_with | Pallor | Patient P-0386 presents with pallor.
+P-0386 | presents_with | Dark urine | Patient P-0386 presents with dark urine.
+P-0386 | presents_with | Weight gain | Patient P-0386 also reports weight gain.
+P-0386 | has_lab | Low hemoglobin | Patient P-0386 has low hemoglobin (hemoglobin 9.3 g/dL).
+P-0386 | has_lab | Elevated bilirubin | Patient P-0386 has elevated bilirubin (bilirubin 2.0 mg/dL).

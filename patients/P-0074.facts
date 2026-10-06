@@ -1,0 +1,7 @@
+# Synthetic patient P-0074.
+P-0074 | presents_with | Recurrent fatigue | Patient P-0074 presents with recurrent fatigue.
+P-0074 | presents_with | Abdominal pain | Patient P-0074 presents with abdominal pain.
+P-0074 | has_lab | Elevated liver enzymes | Patient P-0074 has elevated liver enzymes (ALT 217 U/L).
+P-0074 | underwent | Liver ultrasound | Patient P-0074 underwent Liver ultrasound.
+P-0074 | diagnosed_with | Alcoholic liver disease | Patient P-0074 was diagnosed with alcoholic liver disease after Liver ultrasound.
+P-0074 | treated_with | Alcohol cessation | Patient P-0074 is treated with alcohol cessation.

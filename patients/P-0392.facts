@@ -1,0 +1,9 @@
+# Synthetic patient P-0392.
+P-0392 | presents_with | Daytime sleepiness | Patient P-0392 presents with daytime sleepiness.
+P-0392 | presents_with | Snoring | Patient P-0392 presents with snoring.
+P-0392 | presents_with | Recurrent fatigue | Patient P-0392 presents with recurrent fatigue.
+P-0392 | presents_with | Insomnia | Patient P-0392 also reports insomnia.
+P-0392 | underwent | Polysomnography | Patient P-0392 underwent Polysomnography.
+P-0392 | diagnosed_with | Obstructive sleep apnea | Patient P-0392 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0392 | treated_with | CPAP therapy | Patient P-0392 is treated with cpap therapy.
+P-0392 | responding_to | CPAP therapy | Patient P-0392 is responding to cpap therapy at follow-up.

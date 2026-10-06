@@ -1,0 +1,9 @@
+# Synthetic patient P-0428.
+P-0428 | presents_with | Recurrent fatigue | Patient P-0428 presents with recurrent fatigue.
+P-0428 | presents_with | Numbness | Patient P-0428 presents with numbness.
+P-0428 | presents_with | Pallor | Patient P-0428 presents with pallor.
+P-0428 | has_lab | Low hemoglobin | Patient P-0428 has low hemoglobin (hemoglobin 11.3 g/dL).
+P-0428 | underwent | Serum B12 test | Patient P-0428 underwent Serum B12 test.
+P-0428 | diagnosed_with | Vitamin B12 deficiency | Patient P-0428 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0428 | treated_with | B12 injections | Patient P-0428 is treated with b12 injections.
+P-0428 | responding_to | B12 injections | Patient P-0428 is responding to b12 injections at follow-up.

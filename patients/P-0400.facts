@@ -1,0 +1,10 @@
+# Synthetic patient P-0400.
+P-0400 | presents_with | Recurrent fatigue | Patient P-0400 presents with recurrent fatigue.
+P-0400 | presents_with | Pallor | Patient P-0400 presents with pallor.
+P-0400 | presents_with | Brittle nails | Patient P-0400 presents with brittle nails.
+P-0400 | presents_with | Bloating | Patient P-0400 also reports bloating.
+P-0400 | has_lab | Low serum ferritin | Patient P-0400 has low serum ferritin (ferritin 4 ng/mL).
+P-0400 | has_lab | Low hemoglobin | Patient P-0400 has low hemoglobin (hemoglobin 9.1 g/dL).
+P-0400 | underwent | Complete blood count | Patient P-0400 underwent Complete blood count.
+P-0400 | diagnosed_with | Iron deficiency anemia | Patient P-0400 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0400 | treated_with | Oral iron supplementation | Patient P-0400 is treated with oral iron supplementation.

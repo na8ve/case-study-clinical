@@ -1,0 +1,8 @@
+# Synthetic patient P-0294.
+P-0294 | presents_with | Recurrent fatigue | Patient P-0294 presents with recurrent fatigue.
+P-0294 | presents_with | Abdominal pain | Patient P-0294 presents with abdominal pain.
+P-0294 | has_lab | Elevated liver enzymes | Patient P-0294 has elevated liver enzymes (ALT 154 U/L).
+P-0294 | underwent | HCV RNA test | Patient P-0294 underwent HCV RNA test.
+P-0294 | diagnosed_with | Hepatitis C | Patient P-0294 was diagnosed with hepatitis c after HCV RNA test.
+P-0294 | treated_with | Direct-acting antivirals | Patient P-0294 is treated with direct-acting antivirals.
+P-0294 | responding_to | Direct-acting antivirals | Patient P-0294 is responding to direct-acting antivirals at follow-up.

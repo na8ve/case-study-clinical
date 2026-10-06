@@ -1,0 +1,7 @@
+# Synthetic patient P-0278.
+P-0278 | presents_with | Recurrent fatigue | Patient P-0278 presents with recurrent fatigue.
+P-0278 | presents_with | Palpitations | Patient P-0278 also reports palpitations.
+P-0278 | has_lab | High TSH | Patient P-0278 has high tsh (TSH 23.8 mIU/L).
+P-0278 | underwent | Thyroid function panel | Patient P-0278 underwent Thyroid function panel.
+P-0278 | diagnosed_with | Hypothyroidism | Patient P-0278 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0278 | treated_with | Levothyroxine | Patient P-0278 is treated with levothyroxine.

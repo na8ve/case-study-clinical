@@ -1,0 +1,7 @@
+# Synthetic patient P-0424.
+P-0424 | presents_with | Recurrent fatigue | Patient P-0424 presents with recurrent fatigue.
+P-0424 | presents_with | Low blood pressure | Patient P-0424 presents with low blood pressure.
+P-0424 | has_lab | High potassium | Patient P-0424 has high potassium (potassium 6.3 mmol/L).
+P-0424 | underwent | ACTH stimulation test | Patient P-0424 underwent ACTH stimulation test.
+P-0424 | diagnosed_with | Addison's disease | Patient P-0424 was diagnosed with addison's disease after ACTH stimulation test.
+P-0424 | treated_with | Hydrocortisone replacement | Patient P-0424 is treated with hydrocortisone replacement.

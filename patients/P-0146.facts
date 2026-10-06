@@ -1,0 +1,9 @@
+# Synthetic patient P-0146.
+P-0146 | presents_with | Recurrent fatigue | Patient P-0146 presents with recurrent fatigue.
+P-0146 | presents_with | Bronze skin | Patient P-0146 presents with bronze skin.
+P-0146 | presents_with | Weight loss | Patient P-0146 presents with weight loss.
+P-0146 | presents_with | Low blood pressure | Patient P-0146 presents with low blood pressure.
+P-0146 | has_lab | High potassium | Patient P-0146 has high potassium (potassium 5.7 mmol/L).
+P-0146 | underwent | ACTH stimulation test | Patient P-0146 underwent ACTH stimulation test.
+P-0146 | diagnosed_with | Addison's disease | Patient P-0146 was diagnosed with addison's disease after ACTH stimulation test.
+P-0146 | treated_with | Hydrocortisone replacement | Patient P-0146 is treated with hydrocortisone replacement.

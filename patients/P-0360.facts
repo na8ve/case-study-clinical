@@ -1,0 +1,10 @@
+# Synthetic patient P-0360.
+P-0360 | presents_with | Recurrent fatigue | Patient P-0360 presents with recurrent fatigue.
+P-0360 | presents_with | Joint pain | Patient P-0360 presents with joint pain.
+P-0360 | presents_with | Dry skin | Patient P-0360 also reports dry skin.
+P-0360 | has_lab | High serum ferritin | Patient P-0360 has high serum ferritin (ferritin 1031 ng/mL).
+P-0360 | has_lab | High transferrin saturation | Patient P-0360 has high transferrin saturation (transferrin saturation 85%).
+P-0360 | underwent | Liver MRI iron quantification | Patient P-0360 underwent Liver MRI iron quantification.
+P-0360 | diagnosed_with | Hereditary hemochromatosis | Patient P-0360 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0360 | treated_with | Therapeutic phlebotomy | Patient P-0360 is treated with therapeutic phlebotomy.
+P-0360 | responding_to | Therapeutic phlebotomy | Patient P-0360 is responding to therapeutic phlebotomy at follow-up.

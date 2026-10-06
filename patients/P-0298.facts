@@ -1,0 +1,9 @@
+# Synthetic patient P-0298.
+P-0298 | presents_with | Recurrent fatigue | Patient P-0298 presents with recurrent fatigue.
+P-0298 | presents_with | Joint pain | Patient P-0298 presents with joint pain.
+P-0298 | presents_with | Weight gain | Patient P-0298 also reports weight gain.
+P-0298 | has_lab | High serum ferritin | Patient P-0298 has high serum ferritin (ferritin 942 ng/mL).
+P-0298 | underwent | Liver MRI iron quantification | Patient P-0298 underwent Liver MRI iron quantification.
+P-0298 | diagnosed_with | Hereditary hemochromatosis | Patient P-0298 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0298 | treated_with | Therapeutic phlebotomy | Patient P-0298 is treated with therapeutic phlebotomy.
+P-0298 | responding_to | Therapeutic phlebotomy | Patient P-0298 is responding to therapeutic phlebotomy at follow-up.

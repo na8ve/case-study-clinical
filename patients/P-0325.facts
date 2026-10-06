@@ -1,0 +1,11 @@
+# Synthetic patient P-0325.
+P-0325 | presents_with | Recurrent fatigue | Patient P-0325 presents with recurrent fatigue.
+P-0325 | presents_with | Numbness | Patient P-0325 presents with numbness.
+P-0325 | presents_with | Pallor | Patient P-0325 presents with pallor.
+P-0325 | presents_with | Insomnia | Patient P-0325 also reports insomnia.
+P-0325 | has_lab | Low vitamin B12 | Patient P-0325 has low vitamin b12 (B12 170 pg/mL).
+P-0325 | has_lab | Low hemoglobin | Patient P-0325 has low hemoglobin (hemoglobin 11.3 g/dL).
+P-0325 | underwent | Serum B12 test | Patient P-0325 underwent Serum B12 test.
+P-0325 | diagnosed_with | Vitamin B12 deficiency | Patient P-0325 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0325 | treated_with | B12 injections | Patient P-0325 is treated with b12 injections.
+P-0325 | responding_to | B12 injections | Patient P-0325 is responding to b12 injections at follow-up.

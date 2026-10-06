@@ -1,0 +1,9 @@
+# Synthetic patient P-0434.
+P-0434 | presents_with | Frequent urination | Patient P-0434 presents with frequent urination.
+P-0434 | presents_with | Excessive thirst | Patient P-0434 presents with excessive thirst.
+P-0434 | has_lab | High HbA1c | Patient P-0434 has high hba1c (HbA1c 6.9%).
+P-0434 | has_lab | High fasting glucose | Patient P-0434 has high fasting glucose (fasting glucose 171 mg/dL).
+P-0434 | has_risk | Obesity | Patient P-0434 has a risk factor: obesity.
+P-0434 | underwent | Oral glucose tolerance test | Patient P-0434 underwent Oral glucose tolerance test.
+P-0434 | diagnosed_with | Type 2 diabetes | Patient P-0434 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0434 | treated_with | Metformin | Patient P-0434 is treated with metformin.

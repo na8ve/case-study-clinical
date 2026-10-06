@@ -1,0 +1,10 @@
+# Synthetic patient P-0287.
+P-0287 | presents_with | Shortness of breath | Patient P-0287 presents with shortness of breath.
+P-0287 | presents_with | Leg swelling | Patient P-0287 presents with leg swelling.
+P-0287 | presents_with | Recurrent fatigue | Patient P-0287 presents with recurrent fatigue.
+P-0287 | presents_with | Bloating | Patient P-0287 also reports bloating.
+P-0287 | has_lab | Elevated BNP | Patient P-0287 has elevated bnp (BNP 1017 pg/mL).
+P-0287 | underwent | Echocardiogram | Patient P-0287 underwent Echocardiogram.
+P-0287 | diagnosed_with | Heart failure | Patient P-0287 was diagnosed with heart failure after Echocardiogram.
+P-0287 | treated_with | ACE inhibitor therapy | Patient P-0287 is treated with ace inhibitor therapy.
+P-0287 | responding_to | ACE inhibitor therapy | Patient P-0287 is responding to ace inhibitor therapy at follow-up.

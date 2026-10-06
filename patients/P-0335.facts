@@ -1,0 +1,8 @@
+# Synthetic patient P-0335.
+P-0335 | presents_with | Recurrent fatigue | Patient P-0335 presents with recurrent fatigue.
+P-0335 | has_lab | Low vitamin B12 | Patient P-0335 has low vitamin b12 (B12 126 pg/mL).
+P-0335 | has_lab | Low hemoglobin | Patient P-0335 has low hemoglobin (hemoglobin 9.2 g/dL).
+P-0335 | underwent | Serum B12 test | Patient P-0335 underwent Serum B12 test.
+P-0335 | diagnosed_with | Vitamin B12 deficiency | Patient P-0335 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0335 | treated_with | B12 injections | Patient P-0335 is treated with b12 injections.
+P-0335 | responding_to | B12 injections | Patient P-0335 is responding to b12 injections at follow-up.

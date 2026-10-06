@@ -1,0 +1,10 @@
+# Synthetic patient P-0447.
+P-0447 | presents_with | Diarrhea | Patient P-0447 presents with diarrhea.
+P-0447 | presents_with | Bloating | Patient P-0447 presents with bloating.
+P-0447 | presents_with | Weight loss | Patient P-0447 presents with weight loss.
+P-0447 | presents_with | Palpitations | Patient P-0447 also reports palpitations.
+P-0447 | has_lab | Low hemoglobin | Patient P-0447 has low hemoglobin (hemoglobin 9.9 g/dL).
+P-0447 | underwent | tTG antibody test | Patient P-0447 underwent tTG antibody test.
+P-0447 | diagnosed_with | Celiac disease | Patient P-0447 was diagnosed with celiac disease after tTG antibody test.
+P-0447 | treated_with | Gluten-free diet | Patient P-0447 is treated with gluten-free diet.
+P-0447 | responding_to | Gluten-free diet | Patient P-0447 is responding to gluten-free diet at follow-up.

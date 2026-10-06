@@ -1,0 +1,10 @@
+# Synthetic patient P-0077.
+P-0077 | presents_with | Recurrent fatigue | Patient P-0077 presents with recurrent fatigue.
+P-0077 | presents_with | Pallor | Patient P-0077 presents with pallor.
+P-0077 | presents_with | Shortness of breath | Patient P-0077 presents with shortness of breath.
+P-0077 | presents_with | Brittle nails | Patient P-0077 presents with brittle nails.
+P-0077 | has_lab | Low serum ferritin | Patient P-0077 has low serum ferritin (ferritin 13 ng/mL).
+P-0077 | underwent | Complete blood count | Patient P-0077 underwent Complete blood count.
+P-0077 | diagnosed_with | Iron deficiency anemia | Patient P-0077 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0077 | treated_with | Oral iron supplementation | Patient P-0077 is treated with oral iron supplementation.
+P-0077 | responding_to | Oral iron supplementation | Patient P-0077 is responding to oral iron supplementation at follow-up.

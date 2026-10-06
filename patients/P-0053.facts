@@ -1,0 +1,5 @@
+# Synthetic patient P-0053.
+P-0053 | presents_with | Recurrent fatigue | Patient P-0053 presents with recurrent fatigue.
+P-0053 | presents_with | Leg swelling | Patient P-0053 presents with leg swelling.
+P-0053 | presents_with | Back pain | Patient P-0053 also reports back pain.
+P-0053 | has_lab | Elevated creatinine | Patient P-0053 has elevated creatinine (creatinine 2.7 mg/dL).

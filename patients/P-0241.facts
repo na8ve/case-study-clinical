@@ -1,0 +1,8 @@
+# Synthetic patient P-0241.
+P-0241 | presents_with | Recurrent fatigue | Patient P-0241 presents with recurrent fatigue.
+P-0241 | presents_with | Post-exertional malaise | Patient P-0241 presents with post-exertional malaise.
+P-0241 | presents_with | Headache | Patient P-0241 also reports headache.
+P-0241 | underwent | Exclusion workup | Patient P-0241 underwent Exclusion workup.
+P-0241 | diagnosed_with | Chronic fatigue syndrome | Patient P-0241 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0241 | treated_with | Activity pacing | Patient P-0241 is treated with activity pacing.
+P-0241 | responding_to | Activity pacing | Patient P-0241 is responding to activity pacing at follow-up.

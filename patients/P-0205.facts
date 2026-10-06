@@ -1,0 +1,9 @@
+# Synthetic patient P-0205.
+P-0205 | presents_with | Frequent urination | Patient P-0205 presents with frequent urination.
+P-0205 | presents_with | Excessive thirst | Patient P-0205 presents with excessive thirst.
+P-0205 | presents_with | Recurrent fatigue | Patient P-0205 presents with recurrent fatigue.
+P-0205 | presents_with | Blurred vision | Patient P-0205 presents with blurred vision.
+P-0205 | has_lab | High fasting glucose | Patient P-0205 has high fasting glucose (fasting glucose 202 mg/dL).
+P-0205 | underwent | Oral glucose tolerance test | Patient P-0205 underwent Oral glucose tolerance test.
+P-0205 | diagnosed_with | Type 2 diabetes | Patient P-0205 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0205 | treated_with | Metformin | Patient P-0205 is treated with metformin.

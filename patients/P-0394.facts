@@ -1,0 +1,9 @@
+# Synthetic patient P-0394.
+P-0394 | presents_with | Recurrent fatigue | Patient P-0394 presents with recurrent fatigue.
+P-0394 | presents_with | Numbness | Patient P-0394 presents with numbness.
+P-0394 | presents_with | Pallor | Patient P-0394 presents with pallor.
+P-0394 | has_lab | Low vitamin B12 | Patient P-0394 has low vitamin b12 (B12 156 pg/mL).
+P-0394 | underwent | Serum B12 test | Patient P-0394 underwent Serum B12 test.
+P-0394 | diagnosed_with | Vitamin B12 deficiency | Patient P-0394 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0394 | treated_with | B12 injections | Patient P-0394 is treated with b12 injections.
+P-0394 | responding_to | B12 injections | Patient P-0394 is responding to b12 injections at follow-up.

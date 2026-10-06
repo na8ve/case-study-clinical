@@ -1,0 +1,4 @@
+# Synthetic patient P-0013.
+P-0013 | presents_with | Fever | Patient P-0013 presents with fever.
+P-0013 | has_lab | High serum ferritin | Patient P-0013 has high serum ferritin (ferritin 746 ng/mL).
+P-0013 | has_lab | Elevated CRP | Patient P-0013 has elevated crp (CRP 109 mg/L).

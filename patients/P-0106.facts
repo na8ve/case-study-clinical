@@ -1,0 +1,9 @@
+# Synthetic patient P-0106.
+P-0106 | presents_with | Recurrent fatigue | Patient P-0106 presents with recurrent fatigue.
+P-0106 | presents_with | Weight gain | Patient P-0106 presents with weight gain.
+P-0106 | presents_with | Cold intolerance | Patient P-0106 presents with cold intolerance.
+P-0106 | presents_with | Dry skin | Patient P-0106 presents with dry skin.
+P-0106 | has_lab | High TSH | Patient P-0106 has high tsh (TSH 21.2 mIU/L).
+P-0106 | underwent | Thyroid function panel | Patient P-0106 underwent Thyroid function panel.
+P-0106 | diagnosed_with | Hypothyroidism | Patient P-0106 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0106 | treated_with | Levothyroxine | Patient P-0106 is treated with levothyroxine.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0284.
+P-0284 | presents_with | Daytime sleepiness | Patient P-0284 presents with daytime sleepiness.
+P-0284 | presents_with | Snoring | Patient P-0284 presents with snoring.
+P-0284 | presents_with | Recurrent fatigue | Patient P-0284 presents with recurrent fatigue.
+P-0284 | presents_with | Low mood | Patient P-0284 also reports low mood.
+P-0284 | underwent | Polysomnography | Patient P-0284 underwent Polysomnography.
+P-0284 | diagnosed_with | Obstructive sleep apnea | Patient P-0284 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0284 | treated_with | CPAP therapy | Patient P-0284 is treated with cpap therapy.

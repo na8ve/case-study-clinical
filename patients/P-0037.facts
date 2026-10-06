@@ -1,0 +1,9 @@
+# Synthetic patient P-0037.
+P-0037 | presents_with | Recurrent fatigue | Patient P-0037 presents with recurrent fatigue.
+P-0037 | presents_with | Jaundice | Patient P-0037 presents with jaundice.
+P-0037 | presents_with | Dark urine | Patient P-0037 presents with dark urine.
+P-0037 | has_lab | Low hemoglobin | Patient P-0037 has low hemoglobin (hemoglobin 7.5 g/dL).
+P-0037 | has_lab | Elevated bilirubin | Patient P-0037 has elevated bilirubin (bilirubin 5.9 mg/dL).
+P-0037 | underwent | Coombs test | Patient P-0037 underwent Coombs test.
+P-0037 | diagnosed_with | Hemolytic anemia | Patient P-0037 was diagnosed with hemolytic anemia after Coombs test.
+P-0037 | treated_with | Corticosteroids | Patient P-0037 is treated with corticosteroids.

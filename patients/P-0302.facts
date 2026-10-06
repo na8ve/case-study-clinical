@@ -1,0 +1,10 @@
+# Synthetic patient P-0302.
+P-0302 | presents_with | Recurrent fatigue | Patient P-0302 presents with recurrent fatigue.
+P-0302 | presents_with | Pallor | Patient P-0302 presents with pallor.
+P-0302 | presents_with | Shortness of breath | Patient P-0302 presents with shortness of breath.
+P-0302 | presents_with | Brittle nails | Patient P-0302 presents with brittle nails.
+P-0302 | presents_with | Low mood | Patient P-0302 also reports low mood.
+P-0302 | has_lab | Low hemoglobin | Patient P-0302 has low hemoglobin (hemoglobin 10.9 g/dL).
+P-0302 | underwent | Complete blood count | Patient P-0302 underwent Complete blood count.
+P-0302 | diagnosed_with | Iron deficiency anemia | Patient P-0302 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0302 | treated_with | Oral iron supplementation | Patient P-0302 is treated with oral iron supplementation.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0383.
+P-0383 | presents_with | Recurrent fatigue | Patient P-0383 presents with recurrent fatigue.
+P-0383 | presents_with | Bronze skin | Patient P-0383 presents with bronze skin.
+P-0383 | has_lab | Low MCV | Patient P-0383 has low mcv (MCV 59 fL).
+P-0383 | has_lab | High serum ferritin | Patient P-0383 has high serum ferritin (ferritin 2440 ng/mL).
+P-0383 | underwent | Hemoglobin electrophoresis | Patient P-0383 underwent Hemoglobin electrophoresis.
+P-0383 | diagnosed_with | Beta thalassemia | Patient P-0383 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0383 | treated_with | Iron chelation therapy | Patient P-0383 is treated with iron chelation therapy.

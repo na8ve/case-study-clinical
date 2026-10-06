@@ -1,0 +1,8 @@
+# Synthetic patient P-0150.
+P-0150 | presents_with | Daytime sleepiness | Patient P-0150 presents with daytime sleepiness.
+P-0150 | presents_with | Snoring | Patient P-0150 presents with snoring.
+P-0150 | has_risk | Obesity | Patient P-0150 has a risk factor: obesity.
+P-0150 | underwent | Polysomnography | Patient P-0150 underwent Polysomnography.
+P-0150 | diagnosed_with | Obstructive sleep apnea | Patient P-0150 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0150 | treated_with | CPAP therapy | Patient P-0150 is treated with cpap therapy.
+P-0150 | responding_to | CPAP therapy | Patient P-0150 is responding to cpap therapy at follow-up.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0371.
+P-0371 | presents_with | Shortness of breath | Patient P-0371 presents with shortness of breath.
+P-0371 | presents_with | Leg swelling | Patient P-0371 presents with leg swelling.
+P-0371 | presents_with | Recurrent fatigue | Patient P-0371 presents with recurrent fatigue.
+P-0371 | has_lab | Elevated BNP | Patient P-0371 has elevated bnp (BNP 985 pg/mL).
+P-0371 | underwent | Echocardiogram | Patient P-0371 underwent Echocardiogram.
+P-0371 | diagnosed_with | Heart failure | Patient P-0371 was diagnosed with heart failure after Echocardiogram.
+P-0371 | treated_with | ACE inhibitor therapy | Patient P-0371 is treated with ace inhibitor therapy.

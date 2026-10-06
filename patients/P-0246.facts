@@ -1,0 +1,7 @@
+# Synthetic patient P-0246.
+P-0246 | presents_with | Recurrent fatigue | Patient P-0246 presents with recurrent fatigue.
+P-0246 | presents_with | Shortness of breath | Patient P-0246 presents with shortness of breath.
+P-0246 | has_lab | Low hemoglobin | Patient P-0246 has low hemoglobin (hemoglobin 8.3 g/dL).
+P-0246 | underwent | Complete blood count | Patient P-0246 underwent Complete blood count.
+P-0246 | diagnosed_with | Iron deficiency anemia | Patient P-0246 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0246 | treated_with | Oral iron supplementation | Patient P-0246 is treated with oral iron supplementation.

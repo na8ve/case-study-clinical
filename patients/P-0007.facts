@@ -1,0 +1,7 @@
+# Synthetic patient P-0007.
+P-0007 | presents_with | Recurrent fatigue | Patient P-0007 presents with recurrent fatigue.
+P-0007 | presents_with | Post-exertional malaise | Patient P-0007 presents with post-exertional malaise.
+P-0007 | underwent | Exclusion workup | Patient P-0007 underwent Exclusion workup.
+P-0007 | diagnosed_with | Chronic fatigue syndrome | Patient P-0007 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0007 | treated_with | Activity pacing | Patient P-0007 is treated with activity pacing.
+P-0007 | responding_to | Activity pacing | Patient P-0007 is responding to activity pacing at follow-up.

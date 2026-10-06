@@ -1,0 +1,8 @@
+# Synthetic patient P-0152.
+P-0152 | presents_with | Joint pain | Patient P-0152 presents with joint pain.
+P-0152 | presents_with | Recurrent fatigue | Patient P-0152 presents with recurrent fatigue.
+P-0152 | has_lab | Positive ANA | Patient P-0152 has positive ana (ANA 1:640 homogeneous).
+P-0152 | underwent | Anti-dsDNA test | Patient P-0152 underwent Anti-dsDNA test.
+P-0152 | diagnosed_with | Systemic lupus erythematosus | Patient P-0152 was diagnosed with systemic lupus erythematosus after Anti-dsDNA test.
+P-0152 | treated_with | Hydroxychloroquine | Patient P-0152 is treated with hydroxychloroquine.
+P-0152 | responding_to | Hydroxychloroquine | Patient P-0152 is responding to hydroxychloroquine at follow-up.

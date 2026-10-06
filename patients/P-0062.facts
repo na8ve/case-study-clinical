@@ -1,0 +1,10 @@
+# Synthetic patient P-0062.
+P-0062 | presents_with | Fever | Patient P-0062 presents with fever.
+P-0062 | presents_with | Sore throat | Patient P-0062 presents with sore throat.
+P-0062 | presents_with | Recurrent fatigue | Patient P-0062 presents with recurrent fatigue.
+P-0062 | presents_with | Swollen lymph nodes | Patient P-0062 presents with swollen lymph nodes.
+P-0062 | presents_with | Insomnia | Patient P-0062 also reports insomnia.
+P-0062 | underwent | Monospot test | Patient P-0062 underwent Monospot test.
+P-0062 | diagnosed_with | Infectious mononucleosis | Patient P-0062 was diagnosed with infectious mononucleosis after Monospot test.
+P-0062 | treated_with | Supportive care | Patient P-0062 is treated with supportive care.
+P-0062 | responding_to | Supportive care | Patient P-0062 is responding to supportive care at follow-up.

@@ -1,0 +1,9 @@
+# Synthetic patient P-0161.
+P-0161 | presents_with | Recurrent fatigue | Patient P-0161 presents with recurrent fatigue.
+P-0161 | presents_with | Numbness | Patient P-0161 presents with numbness.
+P-0161 | presents_with | Pallor | Patient P-0161 presents with pallor.
+P-0161 | has_lab | Low vitamin B12 | Patient P-0161 has low vitamin b12 (B12 161 pg/mL).
+P-0161 | underwent | Serum B12 test | Patient P-0161 underwent Serum B12 test.
+P-0161 | diagnosed_with | Vitamin B12 deficiency | Patient P-0161 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0161 | treated_with | B12 injections | Patient P-0161 is treated with b12 injections.
+P-0161 | responding_to | B12 injections | Patient P-0161 is responding to b12 injections at follow-up.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0443.
+P-0443 | presents_with | Recurrent fatigue | Patient P-0443 presents with recurrent fatigue.
+P-0443 | presents_with | Low mood | Patient P-0443 presents with low mood.
+P-0443 | presents_with | Insomnia | Patient P-0443 presents with insomnia.
+P-0443 | presents_with | Weight change | Patient P-0443 presents with weight change.
+P-0443 | presents_with | Weight gain | Patient P-0443 also reports weight gain.
+P-0443 | underwent | PHQ-9 screening | Patient P-0443 underwent PHQ-9 screening.
+P-0443 | diagnosed_with | Major depressive disorder | Patient P-0443 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0443 | treated_with | Psychotherapy | Patient P-0443 is treated with psychotherapy.
+P-0443 | responding_to | Psychotherapy | Patient P-0443 is responding to psychotherapy at follow-up.

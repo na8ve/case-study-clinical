@@ -1,0 +1,8 @@
+# Synthetic patient P-0054.
+P-0054 | presents_with | Joint pain | Patient P-0054 presents with joint pain.
+P-0054 | presents_with | Morning stiffness | Patient P-0054 presents with morning stiffness.
+P-0054 | presents_with | Headache | Patient P-0054 also reports headache.
+P-0054 | underwent | Joint X-ray | Patient P-0054 underwent Joint X-ray.
+P-0054 | diagnosed_with | Osteoarthritis | Patient P-0054 was diagnosed with osteoarthritis after Joint X-ray.
+P-0054 | treated_with | Physical therapy | Patient P-0054 is treated with physical therapy.
+P-0054 | responding_to | Physical therapy | Patient P-0054 is responding to physical therapy at follow-up.

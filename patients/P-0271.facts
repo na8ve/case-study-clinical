@@ -1,0 +1,9 @@
+# Synthetic patient P-0271.
+P-0271 | presents_with | Fever | Patient P-0271 presents with fever.
+P-0271 | presents_with | Recurrent fatigue | Patient P-0271 presents with recurrent fatigue.
+P-0271 | presents_with | Headache | Patient P-0271 also reports headache.
+P-0271 | has_lab | High serum ferritin | Patient P-0271 has high serum ferritin (ferritin 783 ng/mL).
+P-0271 | has_lab | Elevated CRP | Patient P-0271 has elevated crp (CRP 81 mg/L).
+P-0271 | underwent | Blood culture | Patient P-0271 underwent Blood culture.
+P-0271 | diagnosed_with | Acute infection | Patient P-0271 was diagnosed with acute infection after Blood culture.
+P-0271 | treated_with | Antibiotic therapy | Patient P-0271 is treated with antibiotic therapy.

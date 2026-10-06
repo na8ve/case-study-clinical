@@ -1,0 +1,8 @@
+# Synthetic patient P-0143.
+P-0143 | presents_with | Fever | Patient P-0143 presents with fever.
+P-0143 | presents_with | Sore throat | Patient P-0143 presents with sore throat.
+P-0143 | presents_with | Swollen lymph nodes | Patient P-0143 presents with swollen lymph nodes.
+P-0143 | underwent | Monospot test | Patient P-0143 underwent Monospot test.
+P-0143 | diagnosed_with | Infectious mononucleosis | Patient P-0143 was diagnosed with infectious mononucleosis after Monospot test.
+P-0143 | treated_with | Supportive care | Patient P-0143 is treated with supportive care.
+P-0143 | responding_to | Supportive care | Patient P-0143 is responding to supportive care at follow-up.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0277.
+P-0277 | presents_with | Daytime sleepiness | Patient P-0277 presents with daytime sleepiness.
+P-0277 | presents_with | Snoring | Patient P-0277 presents with snoring.
+P-0277 | presents_with | Recurrent fatigue | Patient P-0277 presents with recurrent fatigue.
+P-0277 | presents_with | Bloating | Patient P-0277 also reports bloating.
+P-0277 | underwent | Polysomnography | Patient P-0277 underwent Polysomnography.
+P-0277 | diagnosed_with | Obstructive sleep apnea | Patient P-0277 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0277 | treated_with | CPAP therapy | Patient P-0277 is treated with cpap therapy.

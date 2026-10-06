@@ -1,0 +1,9 @@
+# Synthetic patient P-0038.
+P-0038 | presents_with | Recurrent fatigue | Patient P-0038 presents with recurrent fatigue.
+P-0038 | presents_with | Low mood | Patient P-0038 presents with low mood.
+P-0038 | presents_with | Insomnia | Patient P-0038 presents with insomnia.
+P-0038 | presents_with | Weight change | Patient P-0038 presents with weight change.
+P-0038 | underwent | PHQ-9 screening | Patient P-0038 underwent PHQ-9 screening.
+P-0038 | diagnosed_with | Major depressive disorder | Patient P-0038 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0038 | treated_with | Psychotherapy | Patient P-0038 is treated with psychotherapy.
+P-0038 | responding_to | Psychotherapy | Patient P-0038 is responding to psychotherapy at follow-up.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0358.
+P-0358 | presents_with | Recurrent fatigue | Patient P-0358 presents with recurrent fatigue.
+P-0358 | presents_with | Pallor | Patient P-0358 presents with pallor.
+P-0358 | presents_with | Shortness of breath | Patient P-0358 presents with shortness of breath.
+P-0358 | presents_with | Brittle nails | Patient P-0358 presents with brittle nails.
+P-0358 | has_lab | Low serum ferritin | Patient P-0358 has low serum ferritin (ferritin 4 ng/mL).
+P-0358 | underwent | Complete blood count | Patient P-0358 underwent Complete blood count.
+P-0358 | diagnosed_with | Iron deficiency anemia | Patient P-0358 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0358 | treated_with | Oral iron supplementation | Patient P-0358 is treated with oral iron supplementation.
+P-0358 | responding_to | Oral iron supplementation | Patient P-0358 is responding to oral iron supplementation at follow-up.

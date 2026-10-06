@@ -1,0 +1,8 @@
+# Synthetic patient P-0313.
+P-0313 | presents_with | Recurrent fatigue | Patient P-0313 presents with recurrent fatigue.
+P-0313 | presents_with | Weight gain | Patient P-0313 presents with weight gain.
+P-0313 | presents_with | Cold intolerance | Patient P-0313 presents with cold intolerance.
+P-0313 | underwent | Thyroid function panel | Patient P-0313 underwent Thyroid function panel.
+P-0313 | diagnosed_with | Hypothyroidism | Patient P-0313 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0313 | treated_with | Levothyroxine | Patient P-0313 is treated with levothyroxine.
+P-0313 | responding_to | Levothyroxine | Patient P-0313 is responding to levothyroxine at follow-up.

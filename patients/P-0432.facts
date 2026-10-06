@@ -1,0 +1,9 @@
+# Synthetic patient P-0432.
+P-0432 | presents_with | Recurrent fatigue | Patient P-0432 presents with recurrent fatigue.
+P-0432 | presents_with | Leg swelling | Patient P-0432 presents with leg swelling.
+P-0432 | presents_with | Headache | Patient P-0432 also reports headache.
+P-0432 | has_lab | Elevated creatinine | Patient P-0432 has elevated creatinine (creatinine 3.1 mg/dL).
+P-0432 | underwent | Kidney function panel | Patient P-0432 underwent Kidney function panel.
+P-0432 | diagnosed_with | Chronic kidney disease | Patient P-0432 was diagnosed with chronic kidney disease after Kidney function panel.
+P-0432 | treated_with | Nephrology referral | Patient P-0432 is treated with nephrology referral.
+P-0432 | responding_to | Nephrology referral | Patient P-0432 is responding to nephrology referral at follow-up.

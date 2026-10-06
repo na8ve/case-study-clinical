@@ -1,0 +1,11 @@
+# Synthetic patient P-0127.
+P-0127 | presents_with | Recurrent fatigue | Patient P-0127 presents with recurrent fatigue.
+P-0127 | presents_with | Jaundice | Patient P-0127 presents with jaundice.
+P-0127 | presents_with | Pallor | Patient P-0127 presents with pallor.
+P-0127 | presents_with | Low mood | Patient P-0127 also reports low mood.
+P-0127 | has_lab | Low hemoglobin | Patient P-0127 has low hemoglobin (hemoglobin 8.1 g/dL).
+P-0127 | has_lab | Elevated bilirubin | Patient P-0127 has elevated bilirubin (bilirubin 2.6 mg/dL).
+P-0127 | underwent | Coombs test | Patient P-0127 underwent Coombs test.
+P-0127 | diagnosed_with | Hemolytic anemia | Patient P-0127 was diagnosed with hemolytic anemia after Coombs test.
+P-0127 | treated_with | Corticosteroids | Patient P-0127 is treated with corticosteroids.
+P-0127 | responding_to | Corticosteroids | Patient P-0127 is responding to corticosteroids at follow-up.

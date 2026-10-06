@@ -1,0 +1,9 @@
+# Synthetic patient P-0390.
+P-0390 | presents_with | Recurrent fatigue | Patient P-0390 presents with recurrent fatigue.
+P-0390 | presents_with | Low mood | Patient P-0390 presents with low mood.
+P-0390 | presents_with | Insomnia | Patient P-0390 presents with insomnia.
+P-0390 | presents_with | Weight change | Patient P-0390 presents with weight change.
+P-0390 | underwent | PHQ-9 screening | Patient P-0390 underwent PHQ-9 screening.
+P-0390 | diagnosed_with | Major depressive disorder | Patient P-0390 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0390 | treated_with | SSRI therapy | Patient P-0390 is treated with ssri therapy.
+P-0390 | responding_to | SSRI therapy | Patient P-0390 is responding to ssri therapy at follow-up.

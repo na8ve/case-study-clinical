@@ -1,0 +1,10 @@
+# Synthetic patient P-0116.
+P-0116 | presents_with | Frequent urination | Patient P-0116 presents with frequent urination.
+P-0116 | presents_with | Recurrent fatigue | Patient P-0116 presents with recurrent fatigue.
+P-0116 | presents_with | Blurred vision | Patient P-0116 presents with blurred vision.
+P-0116 | has_lab | High HbA1c | Patient P-0116 has high hba1c (HbA1c 9.1%).
+P-0116 | has_lab | High fasting glucose | Patient P-0116 has high fasting glucose (fasting glucose 222 mg/dL).
+P-0116 | has_risk | Obesity | Patient P-0116 has a risk factor: obesity.
+P-0116 | underwent | Oral glucose tolerance test | Patient P-0116 underwent Oral glucose tolerance test.
+P-0116 | diagnosed_with | Type 2 diabetes | Patient P-0116 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0116 | treated_with | Metformin | Patient P-0116 is treated with metformin.

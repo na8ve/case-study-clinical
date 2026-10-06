@@ -1,0 +1,7 @@
+# Synthetic patient P-0049.
+P-0049 | presents_with | Recurrent fatigue | Patient P-0049 presents with recurrent fatigue.
+P-0049 | presents_with | Low mood | Patient P-0049 presents with low mood.
+P-0049 | presents_with | Insomnia | Patient P-0049 presents with insomnia.
+P-0049 | underwent | PHQ-9 screening | Patient P-0049 underwent PHQ-9 screening.
+P-0049 | diagnosed_with | Major depressive disorder | Patient P-0049 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0049 | treated_with | Psychotherapy | Patient P-0049 is treated with psychotherapy.

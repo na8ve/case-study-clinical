@@ -1,0 +1,10 @@
+# Synthetic patient P-0378.
+P-0378 | presents_with | Joint pain | Patient P-0378 presents with joint pain.
+P-0378 | presents_with | Facial rash | Patient P-0378 presents with facial rash.
+P-0378 | presents_with | Recurrent fatigue | Patient P-0378 presents with recurrent fatigue.
+P-0378 | presents_with | Weight gain | Patient P-0378 also reports weight gain.
+P-0378 | has_lab | Positive ANA | Patient P-0378 has positive ana (ANA 1:640 homogeneous).
+P-0378 | underwent | Anti-dsDNA test | Patient P-0378 underwent Anti-dsDNA test.
+P-0378 | diagnosed_with | Systemic lupus erythematosus | Patient P-0378 was diagnosed with systemic lupus erythematosus after Anti-dsDNA test.
+P-0378 | treated_with | Hydroxychloroquine | Patient P-0378 is treated with hydroxychloroquine.
+P-0378 | responding_to | Hydroxychloroquine | Patient P-0378 is responding to hydroxychloroquine at follow-up.

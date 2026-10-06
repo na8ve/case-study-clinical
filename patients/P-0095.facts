@@ -1,0 +1,8 @@
+# Synthetic patient P-0095.
+P-0095 | presents_with | Recurrent fatigue | Patient P-0095 presents with recurrent fatigue.
+P-0095 | presents_with | Low mood | Patient P-0095 presents with low mood.
+P-0095 | presents_with | Insomnia | Patient P-0095 presents with insomnia.
+P-0095 | underwent | PHQ-9 screening | Patient P-0095 underwent PHQ-9 screening.
+P-0095 | diagnosed_with | Major depressive disorder | Patient P-0095 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0095 | treated_with | SSRI therapy | Patient P-0095 is treated with ssri therapy.
+P-0095 | responding_to | SSRI therapy | Patient P-0095 is responding to ssri therapy at follow-up.

@@ -1,0 +1,9 @@
+# Synthetic patient P-0121.
+P-0121 | presents_with | Recurrent fatigue | Patient P-0121 presents with recurrent fatigue.
+P-0121 | presents_with | Abdominal discomfort | Patient P-0121 presents with abdominal discomfort.
+P-0121 | presents_with | Palpitations | Patient P-0121 also reports palpitations.
+P-0121 | has_lab | Elevated liver enzymes | Patient P-0121 has elevated liver enzymes (ALT 134 U/L).
+P-0121 | has_lab | High serum ferritin | Patient P-0121 has high serum ferritin (ferritin 592 ng/mL).
+P-0121 | underwent | Liver ultrasound | Patient P-0121 underwent Liver ultrasound.
+P-0121 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0121 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0121 | treated_with | Lifestyle modification | Patient P-0121 is treated with lifestyle modification.

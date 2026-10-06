@@ -1,0 +1,10 @@
+# Synthetic patient P-0228.
+P-0228 | presents_with | Recurrent fatigue | Patient P-0228 presents with recurrent fatigue.
+P-0228 | presents_with | Abdominal discomfort | Patient P-0228 presents with abdominal discomfort.
+P-0228 | presents_with | Bloating | Patient P-0228 also reports bloating.
+P-0228 | has_lab | Elevated liver enzymes | Patient P-0228 has elevated liver enzymes (ALT 72 U/L).
+P-0228 | has_lab | High serum ferritin | Patient P-0228 has high serum ferritin (ferritin 549 ng/mL).
+P-0228 | has_risk | Obesity | Patient P-0228 has a risk factor: obesity.
+P-0228 | underwent | Liver ultrasound | Patient P-0228 underwent Liver ultrasound.
+P-0228 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0228 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0228 | treated_with | Lifestyle modification | Patient P-0228 is treated with lifestyle modification.

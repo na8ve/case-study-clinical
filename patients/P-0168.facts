@@ -1,0 +1,10 @@
+# Synthetic patient P-0168.
+P-0168 | presents_with | Diarrhea | Patient P-0168 presents with diarrhea.
+P-0168 | presents_with | Bloating | Patient P-0168 presents with bloating.
+P-0168 | presents_with | Recurrent fatigue | Patient P-0168 presents with recurrent fatigue.
+P-0168 | presents_with | Weight loss | Patient P-0168 presents with weight loss.
+P-0168 | has_lab | Low hemoglobin | Patient P-0168 has low hemoglobin (hemoglobin 10.8 g/dL).
+P-0168 | underwent | tTG antibody test | Patient P-0168 underwent tTG antibody test.
+P-0168 | diagnosed_with | Celiac disease | Patient P-0168 was diagnosed with celiac disease after tTG antibody test.
+P-0168 | treated_with | Gluten-free diet | Patient P-0168 is treated with gluten-free diet.
+P-0168 | responding_to | Gluten-free diet | Patient P-0168 is responding to gluten-free diet at follow-up.

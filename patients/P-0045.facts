@@ -1,0 +1,7 @@
+# Synthetic patient P-0045.
+P-0045 | presents_with | Joint pain | Patient P-0045 presents with joint pain.
+P-0045 | presents_with | Morning stiffness | Patient P-0045 presents with morning stiffness.
+P-0045 | has_lab | Positive rheumatoid factor | Patient P-0045 has positive rheumatoid factor (rheumatoid factor positive).
+P-0045 | underwent | Anti-CCP antibody test | Patient P-0045 underwent Anti-CCP antibody test.
+P-0045 | diagnosed_with | Rheumatoid arthritis | Patient P-0045 was diagnosed with rheumatoid arthritis after Anti-CCP antibody test.
+P-0045 | treated_with | Methotrexate | Patient P-0045 is treated with methotrexate.

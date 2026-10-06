@@ -1,0 +1,8 @@
+# Synthetic patient P-0373.
+P-0373 | presents_with | Recurrent fatigue | Patient P-0373 presents with recurrent fatigue.
+P-0373 | presents_with | Post-exertional malaise | Patient P-0373 presents with post-exertional malaise.
+P-0373 | presents_with | Unrefreshing sleep | Patient P-0373 presents with unrefreshing sleep.
+P-0373 | underwent | Exclusion workup | Patient P-0373 underwent Exclusion workup.
+P-0373 | diagnosed_with | Chronic fatigue syndrome | Patient P-0373 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0373 | treated_with | Activity pacing | Patient P-0373 is treated with activity pacing.
+P-0373 | responding_to | Activity pacing | Patient P-0373 is responding to activity pacing at follow-up.

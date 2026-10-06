@@ -1,0 +1,8 @@
+# Synthetic patient P-0310.
+P-0310 | presents_with | Recurrent fatigue | Patient P-0310 presents with recurrent fatigue.
+P-0310 | presents_with | Low mood | Patient P-0310 presents with low mood.
+P-0310 | presents_with | Weight change | Patient P-0310 presents with weight change.
+P-0310 | underwent | PHQ-9 screening | Patient P-0310 underwent PHQ-9 screening.
+P-0310 | diagnosed_with | Major depressive disorder | Patient P-0310 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0310 | treated_with | Psychotherapy | Patient P-0310 is treated with psychotherapy.
+P-0310 | responding_to | Psychotherapy | Patient P-0310 is responding to psychotherapy at follow-up.

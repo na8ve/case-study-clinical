@@ -1,0 +1,8 @@
+# Synthetic patient P-0283.
+P-0283 | presents_with | Fever | Patient P-0283 presents with fever.
+P-0283 | presents_with | Sore throat | Patient P-0283 presents with sore throat.
+P-0283 | presents_with | Recurrent fatigue | Patient P-0283 presents with recurrent fatigue.
+P-0283 | underwent | Monospot test | Patient P-0283 underwent Monospot test.
+P-0283 | diagnosed_with | Infectious mononucleosis | Patient P-0283 was diagnosed with infectious mononucleosis after Monospot test.
+P-0283 | treated_with | Supportive care | Patient P-0283 is treated with supportive care.
+P-0283 | responding_to | Supportive care | Patient P-0283 is responding to supportive care at follow-up.

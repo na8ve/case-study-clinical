@@ -1,0 +1,12 @@
+# Synthetic patient P-0454.
+P-0454 | presents_with | Recurrent fatigue | Patient P-0454 presents with recurrent fatigue.
+P-0454 | presents_with | Bronze skin | Patient P-0454 presents with bronze skin.
+P-0454 | presents_with | Joint pain | Patient P-0454 presents with joint pain.
+P-0454 | presents_with | Abdominal pain | Patient P-0454 presents with abdominal pain.
+P-0454 | presents_with | Bloating | Patient P-0454 also reports bloating.
+P-0454 | has_lab | High serum ferritin | Patient P-0454 has high serum ferritin (ferritin 1254 ng/mL).
+P-0454 | has_lab | High transferrin saturation | Patient P-0454 has high transferrin saturation (transferrin saturation 62%).
+P-0454 | underwent | HFE gene test | Patient P-0454 underwent HFE gene test.
+P-0454 | diagnosed_with | Hereditary hemochromatosis | Patient P-0454 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0454 | treated_with | Therapeutic phlebotomy | Patient P-0454 is treated with therapeutic phlebotomy.
+P-0454 | responding_to | Therapeutic phlebotomy | Patient P-0454 is responding to therapeutic phlebotomy at follow-up.

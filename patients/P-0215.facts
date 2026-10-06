@@ -1,0 +1,7 @@
+# Synthetic patient P-0215.
+P-0215 | presents_with | Widespread pain | Patient P-0215 presents with widespread pain.
+P-0215 | presents_with | Recurrent fatigue | Patient P-0215 presents with recurrent fatigue.
+P-0215 | presents_with | Unrefreshing sleep | Patient P-0215 presents with unrefreshing sleep.
+P-0215 | underwent | Clinical assessment | Patient P-0215 underwent Clinical assessment.
+P-0215 | diagnosed_with | Fibromyalgia | Patient P-0215 was diagnosed with fibromyalgia after Clinical assessment.
+P-0215 | treated_with | Graded exercise | Patient P-0215 is treated with graded exercise.

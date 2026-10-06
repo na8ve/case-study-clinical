@@ -1,0 +1,7 @@
+# Synthetic patient P-0101.
+P-0101 | presents_with | Shortness of breath | Patient P-0101 presents with shortness of breath.
+P-0101 | presents_with | Recurrent fatigue | Patient P-0101 presents with recurrent fatigue.
+P-0101 | has_lab | Elevated BNP | Patient P-0101 has elevated bnp (BNP 1117 pg/mL).
+P-0101 | underwent | Echocardiogram | Patient P-0101 underwent Echocardiogram.
+P-0101 | diagnosed_with | Heart failure | Patient P-0101 was diagnosed with heart failure after Echocardiogram.
+P-0101 | treated_with | ACE inhibitor therapy | Patient P-0101 is treated with ace inhibitor therapy.

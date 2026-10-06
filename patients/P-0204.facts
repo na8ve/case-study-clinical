@@ -1,0 +1,9 @@
+# Synthetic patient P-0204.
+P-0204 | presents_with | Shortness of breath | Patient P-0204 presents with shortness of breath.
+P-0204 | presents_with | Leg swelling | Patient P-0204 presents with leg swelling.
+P-0204 | presents_with | Recurrent fatigue | Patient P-0204 presents with recurrent fatigue.
+P-0204 | presents_with | Weight gain | Patient P-0204 also reports weight gain.
+P-0204 | has_lab | Elevated BNP | Patient P-0204 has elevated bnp (BNP 789 pg/mL).
+P-0204 | underwent | Echocardiogram | Patient P-0204 underwent Echocardiogram.
+P-0204 | diagnosed_with | Heart failure | Patient P-0204 was diagnosed with heart failure after Echocardiogram.
+P-0204 | treated_with | ACE inhibitor therapy | Patient P-0204 is treated with ace inhibitor therapy.

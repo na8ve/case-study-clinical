@@ -1,0 +1,10 @@
+# Synthetic patient P-0348.
+P-0348 | presents_with | Recurrent fatigue | Patient P-0348 presents with recurrent fatigue.
+P-0348 | presents_with | Weight gain | Patient P-0348 presents with weight gain.
+P-0348 | presents_with | Cold intolerance | Patient P-0348 presents with cold intolerance.
+P-0348 | presents_with | Dry skin | Patient P-0348 presents with dry skin.
+P-0348 | has_lab | High TSH | Patient P-0348 has high tsh (TSH 17.9 mIU/L).
+P-0348 | underwent | Thyroid function panel | Patient P-0348 underwent Thyroid function panel.
+P-0348 | diagnosed_with | Hypothyroidism | Patient P-0348 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0348 | treated_with | Levothyroxine | Patient P-0348 is treated with levothyroxine.
+P-0348 | responding_to | Levothyroxine | Patient P-0348 is responding to levothyroxine at follow-up.

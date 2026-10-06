@@ -1,0 +1,5 @@
+# Synthetic patient P-0435.
+P-0435 | presents_with | Recurrent fatigue | Patient P-0435 presents with recurrent fatigue.
+P-0435 | presents_with | Weight gain | Patient P-0435 presents with weight gain.
+P-0435 | presents_with | Dry skin | Patient P-0435 presents with dry skin.
+P-0435 | has_lab | High TSH | Patient P-0435 has high tsh (TSH 7.0 mIU/L).

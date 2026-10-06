@@ -1,0 +1,10 @@
+# Synthetic patient P-0079.
+P-0079 | presents_with | Recurrent fatigue | Patient P-0079 presents with recurrent fatigue.
+P-0079 | presents_with | Pallor | Patient P-0079 presents with pallor.
+P-0079 | presents_with | Bronze skin | Patient P-0079 presents with bronze skin.
+P-0079 | presents_with | Headache | Patient P-0079 also reports headache.
+P-0079 | has_lab | Low MCV | Patient P-0079 has low mcv (MCV 58 fL).
+P-0079 | has_lab | High serum ferritin | Patient P-0079 has high serum ferritin (ferritin 2497 ng/mL).
+P-0079 | underwent | Hemoglobin electrophoresis | Patient P-0079 underwent Hemoglobin electrophoresis.
+P-0079 | diagnosed_with | Beta thalassemia | Patient P-0079 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0079 | treated_with | Iron chelation therapy | Patient P-0079 is treated with iron chelation therapy.

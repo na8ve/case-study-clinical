@@ -1,0 +1,9 @@
+# Synthetic patient P-0067.
+P-0067 | presents_with | Recurrent fatigue | Patient P-0067 presents with recurrent fatigue.
+P-0067 | presents_with | Pallor | Patient P-0067 presents with pallor.
+P-0067 | presents_with | Bronze skin | Patient P-0067 presents with bronze skin.
+P-0067 | has_lab | Low MCV | Patient P-0067 has low mcv (MCV 70 fL).
+P-0067 | has_lab | High serum ferritin | Patient P-0067 has high serum ferritin (ferritin 1872 ng/mL).
+P-0067 | underwent | Hemoglobin electrophoresis | Patient P-0067 underwent Hemoglobin electrophoresis.
+P-0067 | diagnosed_with | Beta thalassemia | Patient P-0067 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0067 | treated_with | Iron chelation therapy | Patient P-0067 is treated with iron chelation therapy.

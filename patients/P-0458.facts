@@ -1,0 +1,6 @@
+# Synthetic patient P-0458.
+P-0458 | presents_with | Frequent urination | Patient P-0458 presents with frequent urination.
+P-0458 | underwent | Oral glucose tolerance test | Patient P-0458 underwent Oral glucose tolerance test.
+P-0458 | diagnosed_with | Type 2 diabetes | Patient P-0458 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0458 | treated_with | Metformin | Patient P-0458 is treated with metformin.
+P-0458 | responding_to | Metformin | Patient P-0458 is responding to metformin at follow-up.

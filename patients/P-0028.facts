@@ -1,0 +1,10 @@
+# Synthetic patient P-0028.
+P-0028 | presents_with | Frequent urination | Patient P-0028 presents with frequent urination.
+P-0028 | presents_with | Excessive thirst | Patient P-0028 presents with excessive thirst.
+P-0028 | presents_with | Blurred vision | Patient P-0028 presents with blurred vision.
+P-0028 | has_lab | High HbA1c | Patient P-0028 has high hba1c (HbA1c 7.5%).
+P-0028 | has_risk | Obesity | Patient P-0028 has a risk factor: obesity.
+P-0028 | underwent | Oral glucose tolerance test | Patient P-0028 underwent Oral glucose tolerance test.
+P-0028 | diagnosed_with | Type 2 diabetes | Patient P-0028 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0028 | treated_with | Metformin | Patient P-0028 is treated with metformin.
+P-0028 | responding_to | Metformin | Patient P-0028 is responding to metformin at follow-up.

@@ -1,0 +1,11 @@
+# Synthetic patient P-0203.
+P-0203 | presents_with | Recurrent fatigue | Patient P-0203 presents with recurrent fatigue.
+P-0203 | presents_with | Pallor | Patient P-0203 presents with pallor.
+P-0203 | presents_with | Dark urine | Patient P-0203 presents with dark urine.
+P-0203 | presents_with | Headache | Patient P-0203 also reports headache.
+P-0203 | has_lab | Low hemoglobin | Patient P-0203 has low hemoglobin (hemoglobin 9.1 g/dL).
+P-0203 | has_lab | Elevated bilirubin | Patient P-0203 has elevated bilirubin (bilirubin 2.0 mg/dL).
+P-0203 | underwent | Coombs test | Patient P-0203 underwent Coombs test.
+P-0203 | diagnosed_with | Hemolytic anemia | Patient P-0203 was diagnosed with hemolytic anemia after Coombs test.
+P-0203 | treated_with | Corticosteroids | Patient P-0203 is treated with corticosteroids.
+P-0203 | responding_to | Corticosteroids | Patient P-0203 is responding to corticosteroids at follow-up.

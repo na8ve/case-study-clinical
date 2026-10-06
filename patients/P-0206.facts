@@ -1,0 +1,8 @@
+# Synthetic patient P-0206.
+P-0206 | presents_with | Recurrent fatigue | Patient P-0206 presents with recurrent fatigue.
+P-0206 | presents_with | Weight loss | Patient P-0206 presents with weight loss.
+P-0206 | presents_with | Low blood pressure | Patient P-0206 presents with low blood pressure.
+P-0206 | has_lab | High potassium | Patient P-0206 has high potassium (potassium 6.0 mmol/L).
+P-0206 | underwent | ACTH stimulation test | Patient P-0206 underwent ACTH stimulation test.
+P-0206 | diagnosed_with | Addison's disease | Patient P-0206 was diagnosed with addison's disease after ACTH stimulation test.
+P-0206 | treated_with | Hydrocortisone replacement | Patient P-0206 is treated with hydrocortisone replacement.

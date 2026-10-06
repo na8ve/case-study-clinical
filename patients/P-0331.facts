@@ -1,0 +1,9 @@
+# Synthetic patient P-0331.
+P-0331 | presents_with | Recurrent fatigue | Patient P-0331 presents with recurrent fatigue.
+P-0331 | presents_with | Frequent urination | Patient P-0331 presents with frequent urination.
+P-0331 | presents_with | Headache | Patient P-0331 also reports headache.
+P-0331 | has_lab | Elevated creatinine | Patient P-0331 has elevated creatinine (creatinine 4.3 mg/dL).
+P-0331 | underwent | Kidney function panel | Patient P-0331 underwent Kidney function panel.
+P-0331 | diagnosed_with | Chronic kidney disease | Patient P-0331 was diagnosed with chronic kidney disease after Kidney function panel.
+P-0331 | treated_with | Nephrology referral | Patient P-0331 is treated with nephrology referral.
+P-0331 | responding_to | Nephrology referral | Patient P-0331 is responding to nephrology referral at follow-up.

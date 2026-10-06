@@ -1,0 +1,6 @@
+# Synthetic patient P-0242.
+P-0242 | presents_with | Recurrent fatigue | Patient P-0242 presents with recurrent fatigue.
+P-0242 | presents_with | Jaundice | Patient P-0242 presents with jaundice.
+P-0242 | presents_with | Abdominal pain | Patient P-0242 presents with abdominal pain.
+P-0242 | has_lab | High serum ferritin | Patient P-0242 has high serum ferritin (ferritin 590 ng/mL).
+P-0242 | has_lab | Elevated liver enzymes | Patient P-0242 has elevated liver enzymes (ALT 170 U/L).

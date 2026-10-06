@@ -1,0 +1,12 @@
+# Synthetic patient P-0411.
+P-0411 | presents_with | Recurrent fatigue | Patient P-0411 presents with recurrent fatigue.
+P-0411 | presents_with | Pallor | Patient P-0411 presents with pallor.
+P-0411 | presents_with | Shortness of breath | Patient P-0411 presents with shortness of breath.
+P-0411 | presents_with | Brittle nails | Patient P-0411 presents with brittle nails.
+P-0411 | presents_with | Headache | Patient P-0411 also reports headache.
+P-0411 | has_lab | Low serum ferritin | Patient P-0411 has low serum ferritin (ferritin 7 ng/mL).
+P-0411 | has_lab | Low hemoglobin | Patient P-0411 has low hemoglobin (hemoglobin 8.2 g/dL).
+P-0411 | underwent | Complete blood count | Patient P-0411 underwent Complete blood count.
+P-0411 | diagnosed_with | Iron deficiency anemia | Patient P-0411 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0411 | treated_with | Oral iron supplementation | Patient P-0411 is treated with oral iron supplementation.
+P-0411 | responding_to | Oral iron supplementation | Patient P-0411 is responding to oral iron supplementation at follow-up.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0349.
+P-0349 | presents_with | Recurrent fatigue | Patient P-0349 presents with recurrent fatigue.
+P-0349 | presents_with | Low mood | Patient P-0349 presents with low mood.
+P-0349 | presents_with | Weight change | Patient P-0349 presents with weight change.
+P-0349 | underwent | PHQ-9 screening | Patient P-0349 underwent PHQ-9 screening.
+P-0349 | diagnosed_with | Major depressive disorder | Patient P-0349 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0349 | treated_with | Psychotherapy | Patient P-0349 is treated with psychotherapy.
+P-0349 | responding_to | Psychotherapy | Patient P-0349 is responding to psychotherapy at follow-up.

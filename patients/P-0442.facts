@@ -1,0 +1,10 @@
+# Synthetic patient P-0442.
+P-0442 | presents_with | Jaundice | Patient P-0442 presents with jaundice.
+P-0442 | presents_with | Abdominal swelling | Patient P-0442 presents with abdominal swelling.
+P-0442 | presents_with | Recurrent fatigue | Patient P-0442 presents with recurrent fatigue.
+P-0442 | presents_with | Low mood | Patient P-0442 also reports low mood.
+P-0442 | has_lab | Low albumin | Patient P-0442 has low albumin (albumin 2.2 g/dL).
+P-0442 | has_risk | Heavy alcohol use | Patient P-0442 has a risk factor: heavy alcohol use.
+P-0442 | underwent | Liver elastography | Patient P-0442 underwent Liver elastography.
+P-0442 | diagnosed_with | Cirrhosis | Patient P-0442 was diagnosed with cirrhosis after Liver elastography.
+P-0442 | treated_with | Hepatology referral | Patient P-0442 is treated with hepatology referral.

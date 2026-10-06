@@ -1,0 +1,6 @@
+# Synthetic patient P-0156.
+P-0156 | presents_with | Daytime sleepiness | Patient P-0156 presents with daytime sleepiness.
+P-0156 | presents_with | Snoring | Patient P-0156 presents with snoring.
+P-0156 | presents_with | Recurrent fatigue | Patient P-0156 presents with recurrent fatigue.
+P-0156 | presents_with | Headache | Patient P-0156 also reports headache.
+P-0156 | has_risk | Obesity | Patient P-0156 has a risk factor: obesity.

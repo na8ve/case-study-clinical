@@ -1,0 +1,8 @@
+# Synthetic patient P-0085.
+P-0085 | presents_with | Fever | Patient P-0085 presents with fever.
+P-0085 | has_lab | High serum ferritin | Patient P-0085 has high serum ferritin (ferritin 587 ng/mL).
+P-0085 | has_lab | Elevated CRP | Patient P-0085 has elevated crp (CRP 54 mg/L).
+P-0085 | underwent | Blood culture | Patient P-0085 underwent Blood culture.
+P-0085 | diagnosed_with | Acute infection | Patient P-0085 was diagnosed with acute infection after Blood culture.
+P-0085 | treated_with | Antibiotic therapy | Patient P-0085 is treated with antibiotic therapy.
+P-0085 | responding_to | Antibiotic therapy | Patient P-0085 is responding to antibiotic therapy at follow-up.

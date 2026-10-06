@@ -1,0 +1,8 @@
+# Synthetic patient P-0040.
+P-0040 | presents_with | Recurrent fatigue | Patient P-0040 presents with recurrent fatigue.
+P-0040 | presents_with | Abdominal discomfort | Patient P-0040 presents with abdominal discomfort.
+P-0040 | has_lab | Elevated liver enzymes | Patient P-0040 has elevated liver enzymes (ALT 113 U/L).
+P-0040 | underwent | Liver ultrasound | Patient P-0040 underwent Liver ultrasound.
+P-0040 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0040 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0040 | treated_with | Lifestyle modification | Patient P-0040 is treated with lifestyle modification.
+P-0040 | responding_to | Lifestyle modification | Patient P-0040 is responding to lifestyle modification at follow-up.

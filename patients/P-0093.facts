@@ -1,0 +1,8 @@
+# Synthetic patient P-0093.
+P-0093 | presents_with | Fever | Patient P-0093 presents with fever.
+P-0093 | presents_with | Recurrent fatigue | Patient P-0093 presents with recurrent fatigue.
+P-0093 | has_lab | High serum ferritin | Patient P-0093 has high serum ferritin (ferritin 694 ng/mL).
+P-0093 | has_lab | Elevated CRP | Patient P-0093 has elevated crp (CRP 75 mg/L).
+P-0093 | underwent | Blood culture | Patient P-0093 underwent Blood culture.
+P-0093 | diagnosed_with | Acute infection | Patient P-0093 was diagnosed with acute infection after Blood culture.
+P-0093 | treated_with | Antibiotic therapy | Patient P-0093 is treated with antibiotic therapy.

@@ -1,0 +1,11 @@
+# Synthetic patient P-0081.
+P-0081 | presents_with | Recurrent fatigue | Patient P-0081 presents with recurrent fatigue.
+P-0081 | presents_with | Pallor | Patient P-0081 presents with pallor.
+P-0081 | presents_with | Shortness of breath | Patient P-0081 presents with shortness of breath.
+P-0081 | presents_with | Brittle nails | Patient P-0081 presents with brittle nails.
+P-0081 | has_lab | Low serum ferritin | Patient P-0081 has low serum ferritin (ferritin 14 ng/mL).
+P-0081 | has_lab | Low hemoglobin | Patient P-0081 has low hemoglobin (hemoglobin 9.1 g/dL).
+P-0081 | underwent | Complete blood count | Patient P-0081 underwent Complete blood count.
+P-0081 | diagnosed_with | Iron deficiency anemia | Patient P-0081 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0081 | treated_with | Oral iron supplementation | Patient P-0081 is treated with oral iron supplementation.
+P-0081 | responding_to | Oral iron supplementation | Patient P-0081 is responding to oral iron supplementation at follow-up.

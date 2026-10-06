@@ -1,0 +1,8 @@
+# Synthetic patient P-0333.
+P-0333 | presents_with | Recurrent fatigue | Patient P-0333 presents with recurrent fatigue.
+P-0333 | presents_with | Abdominal discomfort | Patient P-0333 presents with abdominal discomfort.
+P-0333 | has_lab | Elevated liver enzymes | Patient P-0333 has elevated liver enzymes (ALT 115 U/L).
+P-0333 | has_lab | High serum ferritin | Patient P-0333 has high serum ferritin (ferritin 592 ng/mL).
+P-0333 | underwent | Liver ultrasound | Patient P-0333 underwent Liver ultrasound.
+P-0333 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0333 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0333 | treated_with | Lifestyle modification | Patient P-0333 is treated with lifestyle modification.

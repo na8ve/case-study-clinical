@@ -1,0 +1,9 @@
+# Synthetic patient P-0069.
+P-0069 | presents_with | Frequent urination | Patient P-0069 presents with frequent urination.
+P-0069 | presents_with | Recurrent fatigue | Patient P-0069 presents with recurrent fatigue.
+P-0069 | presents_with | Blurred vision | Patient P-0069 presents with blurred vision.
+P-0069 | has_lab | High HbA1c | Patient P-0069 has high hba1c (HbA1c 6.9%).
+P-0069 | has_lab | High fasting glucose | Patient P-0069 has high fasting glucose (fasting glucose 229 mg/dL).
+P-0069 | underwent | Oral glucose tolerance test | Patient P-0069 underwent Oral glucose tolerance test.
+P-0069 | diagnosed_with | Type 2 diabetes | Patient P-0069 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0069 | treated_with | Metformin | Patient P-0069 is treated with metformin.

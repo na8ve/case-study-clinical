@@ -1,0 +1,7 @@
+# Synthetic patient P-0452.
+P-0452 | presents_with | Bone pain | Patient P-0452 presents with bone pain.
+P-0452 | has_lab | Low hemoglobin | Patient P-0452 has low hemoglobin (hemoglobin 9.7 g/dL).
+P-0452 | has_lab | High calcium | Patient P-0452 has high calcium (calcium 10.8 mg/dL).
+P-0452 | underwent | Serum protein electrophoresis | Patient P-0452 underwent Serum protein electrophoresis.
+P-0452 | diagnosed_with | Multiple myeloma | Patient P-0452 was diagnosed with multiple myeloma after Serum protein electrophoresis.
+P-0452 | treated_with | Oncology referral | Patient P-0452 is treated with oncology referral.

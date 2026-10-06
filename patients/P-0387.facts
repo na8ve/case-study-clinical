@@ -1,0 +1,8 @@
+# Synthetic patient P-0387.
+P-0387 | presents_with | Recurrent fatigue | Patient P-0387 presents with recurrent fatigue.
+P-0387 | presents_with | Bronze skin | Patient P-0387 presents with bronze skin.
+P-0387 | has_lab | Low MCV | Patient P-0387 has low mcv (MCV 70 fL).
+P-0387 | has_lab | High serum ferritin | Patient P-0387 has high serum ferritin (ferritin 1870 ng/mL).
+P-0387 | underwent | Hemoglobin electrophoresis | Patient P-0387 underwent Hemoglobin electrophoresis.
+P-0387 | diagnosed_with | Beta thalassemia | Patient P-0387 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0387 | treated_with | Iron chelation therapy | Patient P-0387 is treated with iron chelation therapy.

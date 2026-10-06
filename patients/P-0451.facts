@@ -1,0 +1,7 @@
+# Synthetic patient P-0451.
+P-0451 | presents_with | Joint pain | Patient P-0451 presents with joint pain.
+P-0451 | presents_with | Morning stiffness | Patient P-0451 presents with morning stiffness.
+P-0451 | underwent | Joint X-ray | Patient P-0451 underwent Joint X-ray.
+P-0451 | diagnosed_with | Osteoarthritis | Patient P-0451 was diagnosed with osteoarthritis after Joint X-ray.
+P-0451 | treated_with | Physical therapy | Patient P-0451 is treated with physical therapy.
+P-0451 | responding_to | Physical therapy | Patient P-0451 is responding to physical therapy at follow-up.

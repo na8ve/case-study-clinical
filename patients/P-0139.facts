@@ -1,0 +1,7 @@
+# Synthetic patient P-0139.
+P-0139 | presents_with | Daytime sleepiness | Patient P-0139 presents with daytime sleepiness.
+P-0139 | presents_with | Recurrent fatigue | Patient P-0139 presents with recurrent fatigue.
+P-0139 | underwent | Polysomnography | Patient P-0139 underwent Polysomnography.
+P-0139 | diagnosed_with | Obstructive sleep apnea | Patient P-0139 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0139 | treated_with | CPAP therapy | Patient P-0139 is treated with cpap therapy.
+P-0139 | responding_to | CPAP therapy | Patient P-0139 is responding to cpap therapy at follow-up.

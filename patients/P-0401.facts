@@ -1,0 +1,10 @@
+# Synthetic patient P-0401.
+P-0401 | presents_with | Recurrent fatigue | Patient P-0401 presents with recurrent fatigue.
+P-0401 | presents_with | Bronze skin | Patient P-0401 presents with bronze skin.
+P-0401 | presents_with | Joint pain | Patient P-0401 presents with joint pain.
+P-0401 | has_lab | High serum ferritin | Patient P-0401 has high serum ferritin (ferritin 1219 ng/mL).
+P-0401 | has_lab | High transferrin saturation | Patient P-0401 has high transferrin saturation (transferrin saturation 73%).
+P-0401 | underwent | Liver MRI iron quantification | Patient P-0401 underwent Liver MRI iron quantification.
+P-0401 | diagnosed_with | Hereditary hemochromatosis | Patient P-0401 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0401 | treated_with | Therapeutic phlebotomy | Patient P-0401 is treated with therapeutic phlebotomy.
+P-0401 | responding_to | Therapeutic phlebotomy | Patient P-0401 is responding to therapeutic phlebotomy at follow-up.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0422.
+P-0422 | presents_with | Recurrent fatigue | Patient P-0422 presents with recurrent fatigue.
+P-0422 | presents_with | Jaundice | Patient P-0422 presents with jaundice.
+P-0422 | presents_with | Dark urine | Patient P-0422 presents with dark urine.
+P-0422 | has_lab | Low hemoglobin | Patient P-0422 has low hemoglobin (hemoglobin 9.3 g/dL).
+P-0422 | has_lab | Elevated bilirubin | Patient P-0422 has elevated bilirubin (bilirubin 3.2 mg/dL).
+P-0422 | underwent | Coombs test | Patient P-0422 underwent Coombs test.
+P-0422 | diagnosed_with | Hemolytic anemia | Patient P-0422 was diagnosed with hemolytic anemia after Coombs test.
+P-0422 | treated_with | Corticosteroids | Patient P-0422 is treated with corticosteroids.
+P-0422 | responding_to | Corticosteroids | Patient P-0422 is responding to corticosteroids at follow-up.

@@ -1,0 +1,12 @@
+# Synthetic patient P-0031.
+P-0031 | presents_with | Recurrent fatigue | Patient P-0031 presents with recurrent fatigue.
+P-0031 | presents_with | Bronze skin | Patient P-0031 presents with bronze skin.
+P-0031 | presents_with | Joint pain | Patient P-0031 presents with joint pain.
+P-0031 | presents_with | Abdominal pain | Patient P-0031 presents with abdominal pain.
+P-0031 | presents_with | Insomnia | Patient P-0031 also reports insomnia.
+P-0031 | has_lab | High serum ferritin | Patient P-0031 has high serum ferritin (ferritin 1372 ng/mL).
+P-0031 | has_lab | High transferrin saturation | Patient P-0031 has high transferrin saturation (transferrin saturation 71%).
+P-0031 | underwent | HFE gene test | Patient P-0031 underwent HFE gene test.
+P-0031 | diagnosed_with | Hereditary hemochromatosis | Patient P-0031 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0031 | treated_with | Therapeutic phlebotomy | Patient P-0031 is treated with therapeutic phlebotomy.
+P-0031 | responding_to | Therapeutic phlebotomy | Patient P-0031 is responding to therapeutic phlebotomy at follow-up.

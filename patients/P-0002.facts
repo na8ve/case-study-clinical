@@ -1,0 +1,6 @@
+# Synthetic patient P-0002.
+P-0002 | presents_with | Joint pain | Patient P-0002 presents with joint pain.
+P-0002 | underwent | Joint X-ray | Patient P-0002 underwent Joint X-ray.
+P-0002 | diagnosed_with | Osteoarthritis | Patient P-0002 was diagnosed with osteoarthritis after Joint X-ray.
+P-0002 | treated_with | Physical therapy | Patient P-0002 is treated with physical therapy.
+P-0002 | responding_to | Physical therapy | Patient P-0002 is responding to physical therapy at follow-up.

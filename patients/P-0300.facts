@@ -1,0 +1,8 @@
+# Synthetic patient P-0300.
+P-0300 | presents_with | Fever | Patient P-0300 presents with fever.
+P-0300 | presents_with | Recurrent fatigue | Patient P-0300 presents with recurrent fatigue.
+P-0300 | has_lab | High serum ferritin | Patient P-0300 has high serum ferritin (ferritin 537 ng/mL).
+P-0300 | has_lab | Elevated CRP | Patient P-0300 has elevated crp (CRP 86 mg/L).
+P-0300 | underwent | Blood culture | Patient P-0300 underwent Blood culture.
+P-0300 | diagnosed_with | Acute infection | Patient P-0300 was diagnosed with acute infection after Blood culture.
+P-0300 | treated_with | Antibiotic therapy | Patient P-0300 is treated with antibiotic therapy.

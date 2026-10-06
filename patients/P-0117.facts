@@ -1,0 +1,7 @@
+# Synthetic patient P-0117.
+P-0117 | presents_with | Daytime sleepiness | Patient P-0117 presents with daytime sleepiness.
+P-0117 | presents_with | Recurrent fatigue | Patient P-0117 presents with recurrent fatigue.
+P-0117 | has_risk | Obesity | Patient P-0117 has a risk factor: obesity.
+P-0117 | underwent | Polysomnography | Patient P-0117 underwent Polysomnography.
+P-0117 | diagnosed_with | Obstructive sleep apnea | Patient P-0117 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0117 | treated_with | CPAP therapy | Patient P-0117 is treated with cpap therapy.

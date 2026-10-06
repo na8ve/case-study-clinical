@@ -1,0 +1,11 @@
+# Synthetic patient P-0229.
+P-0229 | presents_with | Recurrent fatigue | Patient P-0229 presents with recurrent fatigue.
+P-0229 | presents_with | Numbness | Patient P-0229 presents with numbness.
+P-0229 | presents_with | Pallor | Patient P-0229 presents with pallor.
+P-0229 | presents_with | Dry skin | Patient P-0229 also reports dry skin.
+P-0229 | has_lab | Low vitamin B12 | Patient P-0229 has low vitamin b12 (B12 187 pg/mL).
+P-0229 | has_lab | Low hemoglobin | Patient P-0229 has low hemoglobin (hemoglobin 9.5 g/dL).
+P-0229 | underwent | Serum B12 test | Patient P-0229 underwent Serum B12 test.
+P-0229 | diagnosed_with | Vitamin B12 deficiency | Patient P-0229 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0229 | treated_with | B12 injections | Patient P-0229 is treated with b12 injections.
+P-0229 | responding_to | B12 injections | Patient P-0229 is responding to b12 injections at follow-up.

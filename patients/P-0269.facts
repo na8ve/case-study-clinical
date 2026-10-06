@@ -1,0 +1,10 @@
+# Synthetic patient P-0269.
+P-0269 | presents_with | Recurrent fatigue | Patient P-0269 presents with recurrent fatigue.
+P-0269 | presents_with | Bronze skin | Patient P-0269 presents with bronze skin.
+P-0269 | presents_with | Joint pain | Patient P-0269 presents with joint pain.
+P-0269 | presents_with | Abdominal pain | Patient P-0269 presents with abdominal pain.
+P-0269 | presents_with | Weight gain | Patient P-0269 also reports weight gain.
+P-0269 | has_lab | High transferrin saturation | Patient P-0269 has high transferrin saturation (transferrin saturation 62%).
+P-0269 | underwent | HFE gene test | Patient P-0269 underwent HFE gene test.
+P-0269 | diagnosed_with | Hereditary hemochromatosis | Patient P-0269 was diagnosed with hereditary hemochromatosis after HFE gene test.
+P-0269 | treated_with | Therapeutic phlebotomy | Patient P-0269 is treated with therapeutic phlebotomy.

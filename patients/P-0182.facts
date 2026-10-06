@@ -1,0 +1,10 @@
+# Synthetic patient P-0182.
+P-0182 | presents_with | Recurrent fatigue | Patient P-0182 presents with recurrent fatigue.
+P-0182 | presents_with | Jaundice | Patient P-0182 presents with jaundice.
+P-0182 | presents_with | Pallor | Patient P-0182 presents with pallor.
+P-0182 | presents_with | Bloating | Patient P-0182 also reports bloating.
+P-0182 | has_lab | Low hemoglobin | Patient P-0182 has low hemoglobin (hemoglobin 9.6 g/dL).
+P-0182 | underwent | Coombs test | Patient P-0182 underwent Coombs test.
+P-0182 | diagnosed_with | Hemolytic anemia | Patient P-0182 was diagnosed with hemolytic anemia after Coombs test.
+P-0182 | treated_with | Corticosteroids | Patient P-0182 is treated with corticosteroids.
+P-0182 | responding_to | Corticosteroids | Patient P-0182 is responding to corticosteroids at follow-up.

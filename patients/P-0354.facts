@@ -1,0 +1,9 @@
+# Synthetic patient P-0354.
+P-0354 | presents_with | Diarrhea | Patient P-0354 presents with diarrhea.
+P-0354 | presents_with | Recurrent fatigue | Patient P-0354 presents with recurrent fatigue.
+P-0354 | presents_with | Weight loss | Patient P-0354 presents with weight loss.
+P-0354 | has_lab | Low hemoglobin | Patient P-0354 has low hemoglobin (hemoglobin 9.7 g/dL).
+P-0354 | underwent | tTG antibody test | Patient P-0354 underwent tTG antibody test.
+P-0354 | diagnosed_with | Celiac disease | Patient P-0354 was diagnosed with celiac disease after tTG antibody test.
+P-0354 | treated_with | Gluten-free diet | Patient P-0354 is treated with gluten-free diet.
+P-0354 | responding_to | Gluten-free diet | Patient P-0354 is responding to gluten-free diet at follow-up.

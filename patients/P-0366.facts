@@ -1,0 +1,5 @@
+# Synthetic patient P-0366.
+P-0366 | presents_with | Blistering skin | Patient P-0366 presents with blistering skin.
+P-0366 | presents_with | Weight gain | Patient P-0366 also reports weight gain.
+P-0366 | has_lab | High serum ferritin | Patient P-0366 has high serum ferritin (ferritin 480 ng/mL).
+P-0366 | has_lab | Elevated urine porphyrins | Patient P-0366 has elevated urine porphyrins (uroporphyrin 2670 µg/24h).

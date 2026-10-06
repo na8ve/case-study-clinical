@@ -1,0 +1,8 @@
+# Synthetic patient P-0262.
+P-0262 | presents_with | Tremor | Patient P-0262 presents with tremor.
+P-0262 | presents_with | Jaundice | Patient P-0262 presents with jaundice.
+P-0262 | presents_with | Dry skin | Patient P-0262 also reports dry skin.
+P-0262 | has_lab | Low ceruloplasmin | Patient P-0262 has low ceruloplasmin (ceruloplasmin 6 mg/dL).
+P-0262 | underwent | 24-hour urine copper | Patient P-0262 underwent 24-hour urine copper.
+P-0262 | diagnosed_with | Wilson disease | Patient P-0262 was diagnosed with wilson disease after 24-hour urine copper.
+P-0262 | treated_with | Chelation therapy | Patient P-0262 is treated with chelation therapy.

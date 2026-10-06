@@ -1,0 +1,8 @@
+# Synthetic patient P-0138.
+P-0138 | presents_with | Recurrent fatigue | Patient P-0138 presents with recurrent fatigue.
+P-0138 | presents_with | Low mood | Patient P-0138 presents with low mood.
+P-0138 | presents_with | Insomnia | Patient P-0138 presents with insomnia.
+P-0138 | underwent | PHQ-9 screening | Patient P-0138 underwent PHQ-9 screening.
+P-0138 | diagnosed_with | Major depressive disorder | Patient P-0138 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0138 | treated_with | SSRI therapy | Patient P-0138 is treated with ssri therapy.
+P-0138 | responding_to | SSRI therapy | Patient P-0138 is responding to ssri therapy at follow-up.

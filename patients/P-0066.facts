@@ -1,0 +1,9 @@
+# Synthetic patient P-0066.
+P-0066 | presents_with | Recurrent fatigue | Patient P-0066 presents with recurrent fatigue.
+P-0066 | presents_with | Abdominal discomfort | Patient P-0066 presents with abdominal discomfort.
+P-0066 | has_lab | Elevated liver enzymes | Patient P-0066 has elevated liver enzymes (ALT 112 U/L).
+P-0066 | has_lab | High serum ferritin | Patient P-0066 has high serum ferritin (ferritin 506 ng/mL).
+P-0066 | underwent | Liver ultrasound | Patient P-0066 underwent Liver ultrasound.
+P-0066 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0066 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0066 | treated_with | Lifestyle modification | Patient P-0066 is treated with lifestyle modification.
+P-0066 | responding_to | Lifestyle modification | Patient P-0066 is responding to lifestyle modification at follow-up.

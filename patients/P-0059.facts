@@ -1,0 +1,10 @@
+# Synthetic patient P-0059.
+P-0059 | presents_with | Frequent urination | Patient P-0059 presents with frequent urination.
+P-0059 | presents_with | Excessive thirst | Patient P-0059 presents with excessive thirst.
+P-0059 | presents_with | Recurrent fatigue | Patient P-0059 presents with recurrent fatigue.
+P-0059 | presents_with | Blurred vision | Patient P-0059 presents with blurred vision.
+P-0059 | has_lab | High fasting glucose | Patient P-0059 has high fasting glucose (fasting glucose 148 mg/dL).
+P-0059 | underwent | Oral glucose tolerance test | Patient P-0059 underwent Oral glucose tolerance test.
+P-0059 | diagnosed_with | Type 2 diabetes | Patient P-0059 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0059 | treated_with | Metformin | Patient P-0059 is treated with metformin.
+P-0059 | responding_to | Metformin | Patient P-0059 is responding to metformin at follow-up.

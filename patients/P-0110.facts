@@ -1,0 +1,8 @@
+# Synthetic patient P-0110.
+P-0110 | presents_with | Tremor | Patient P-0110 presents with tremor.
+P-0110 | presents_with | Jaundice | Patient P-0110 presents with jaundice.
+P-0110 | presents_with | Back pain | Patient P-0110 also reports back pain.
+P-0110 | has_lab | Low ceruloplasmin | Patient P-0110 has low ceruloplasmin (ceruloplasmin 9 mg/dL).
+P-0110 | underwent | 24-hour urine copper | Patient P-0110 underwent 24-hour urine copper.
+P-0110 | diagnosed_with | Wilson disease | Patient P-0110 was diagnosed with wilson disease after 24-hour urine copper.
+P-0110 | treated_with | Chelation therapy | Patient P-0110 is treated with chelation therapy.

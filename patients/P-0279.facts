@@ -1,0 +1,8 @@
+# Synthetic patient P-0279.
+P-0279 | presents_with | Recurrent fatigue | Patient P-0279 presents with recurrent fatigue.
+P-0279 | presents_with | Joint pain | Patient P-0279 presents with joint pain.
+P-0279 | presents_with | Expanding rash | Patient P-0279 presents with expanding rash.
+P-0279 | underwent | Lyme serology | Patient P-0279 underwent Lyme serology.
+P-0279 | diagnosed_with | Lyme disease | Patient P-0279 was diagnosed with lyme disease after Lyme serology.
+P-0279 | treated_with | Doxycycline | Patient P-0279 is treated with doxycycline.
+P-0279 | responding_to | Doxycycline | Patient P-0279 is responding to doxycycline at follow-up.

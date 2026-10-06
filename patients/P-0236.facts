@@ -1,0 +1,7 @@
+# Synthetic patient P-0236.
+P-0236 | presents_with | Widespread pain | Patient P-0236 presents with widespread pain.
+P-0236 | presents_with | Recurrent fatigue | Patient P-0236 presents with recurrent fatigue.
+P-0236 | presents_with | Unrefreshing sleep | Patient P-0236 presents with unrefreshing sleep.
+P-0236 | underwent | Clinical assessment | Patient P-0236 underwent Clinical assessment.
+P-0236 | diagnosed_with | Fibromyalgia | Patient P-0236 was diagnosed with fibromyalgia after Clinical assessment.
+P-0236 | treated_with | Graded exercise | Patient P-0236 is treated with graded exercise.

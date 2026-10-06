@@ -1,0 +1,9 @@
+# Synthetic patient P-0147.
+P-0147 | presents_with | Diarrhea | Patient P-0147 presents with diarrhea.
+P-0147 | presents_with | Recurrent fatigue | Patient P-0147 presents with recurrent fatigue.
+P-0147 | presents_with | Weight loss | Patient P-0147 presents with weight loss.
+P-0147 | has_lab | Low hemoglobin | Patient P-0147 has low hemoglobin (hemoglobin 11.3 g/dL).
+P-0147 | underwent | tTG antibody test | Patient P-0147 underwent tTG antibody test.
+P-0147 | diagnosed_with | Celiac disease | Patient P-0147 was diagnosed with celiac disease after tTG antibody test.
+P-0147 | treated_with | Gluten-free diet | Patient P-0147 is treated with gluten-free diet.
+P-0147 | responding_to | Gluten-free diet | Patient P-0147 is responding to gluten-free diet at follow-up.

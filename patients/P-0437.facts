@@ -1,0 +1,9 @@
+# Synthetic patient P-0437.
+P-0437 | presents_with | Recurrent fatigue | Patient P-0437 presents with recurrent fatigue.
+P-0437 | presents_with | Abdominal discomfort | Patient P-0437 presents with abdominal discomfort.
+P-0437 | presents_with | Low mood | Patient P-0437 also reports low mood.
+P-0437 | has_lab | Elevated liver enzymes | Patient P-0437 has elevated liver enzymes (ALT 85 U/L).
+P-0437 | has_risk | Obesity | Patient P-0437 has a risk factor: obesity.
+P-0437 | underwent | Liver ultrasound | Patient P-0437 underwent Liver ultrasound.
+P-0437 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0437 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0437 | treated_with | Lifestyle modification | Patient P-0437 is treated with lifestyle modification.

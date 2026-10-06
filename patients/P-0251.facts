@@ -1,0 +1,9 @@
+# Synthetic patient P-0251.
+P-0251 | presents_with | Widespread pain | Patient P-0251 presents with widespread pain.
+P-0251 | presents_with | Recurrent fatigue | Patient P-0251 presents with recurrent fatigue.
+P-0251 | presents_with | Unrefreshing sleep | Patient P-0251 presents with unrefreshing sleep.
+P-0251 | presents_with | Insomnia | Patient P-0251 also reports insomnia.
+P-0251 | underwent | Clinical assessment | Patient P-0251 underwent Clinical assessment.
+P-0251 | diagnosed_with | Fibromyalgia | Patient P-0251 was diagnosed with fibromyalgia after Clinical assessment.
+P-0251 | treated_with | Graded exercise | Patient P-0251 is treated with graded exercise.
+P-0251 | responding_to | Graded exercise | Patient P-0251 is responding to graded exercise at follow-up.

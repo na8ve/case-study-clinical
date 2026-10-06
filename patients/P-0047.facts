@@ -1,0 +1,10 @@
+# Synthetic patient P-0047.
+P-0047 | presents_with | Recurrent fatigue | Patient P-0047 presents with recurrent fatigue.
+P-0047 | presents_with | Abdominal discomfort | Patient P-0047 presents with abdominal discomfort.
+P-0047 | has_lab | Elevated liver enzymes | Patient P-0047 has elevated liver enzymes (ALT 77 U/L).
+P-0047 | has_lab | High serum ferritin | Patient P-0047 has high serum ferritin (ferritin 422 ng/mL).
+P-0047 | has_risk | Obesity | Patient P-0047 has a risk factor: obesity.
+P-0047 | underwent | Liver ultrasound | Patient P-0047 underwent Liver ultrasound.
+P-0047 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0047 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0047 | treated_with | Lifestyle modification | Patient P-0047 is treated with lifestyle modification.
+P-0047 | responding_to | Lifestyle modification | Patient P-0047 is responding to lifestyle modification at follow-up.

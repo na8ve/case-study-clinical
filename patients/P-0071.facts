@@ -1,0 +1,9 @@
+# Synthetic patient P-0071.
+P-0071 | presents_with | Recurrent fatigue | Patient P-0071 presents with recurrent fatigue.
+P-0071 | presents_with | Jaundice | Patient P-0071 presents with jaundice.
+P-0071 | has_lab | High serum ferritin | Patient P-0071 has high serum ferritin (ferritin 616 ng/mL).
+P-0071 | has_lab | Elevated liver enzymes | Patient P-0071 has elevated liver enzymes (ALT 109 U/L).
+P-0071 | has_risk | Heavy alcohol use | Patient P-0071 has a risk factor: heavy alcohol use.
+P-0071 | underwent | Liver ultrasound | Patient P-0071 underwent Liver ultrasound.
+P-0071 | diagnosed_with | Alcoholic liver disease | Patient P-0071 was diagnosed with alcoholic liver disease after Liver ultrasound.
+P-0071 | treated_with | Alcohol cessation | Patient P-0071 is treated with alcohol cessation.

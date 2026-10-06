@@ -1,0 +1,6 @@
+# Synthetic patient P-0292.
+P-0292 | presents_with | Recurrent fatigue | Patient P-0292 presents with recurrent fatigue.
+P-0292 | presents_with | Jaundice | Patient P-0292 presents with jaundice.
+P-0292 | presents_with | Abdominal pain | Patient P-0292 presents with abdominal pain.
+P-0292 | has_lab | High serum ferritin | Patient P-0292 has high serum ferritin (ferritin 832 ng/mL).
+P-0292 | has_lab | Elevated liver enzymes | Patient P-0292 has elevated liver enzymes (ALT 189 U/L).

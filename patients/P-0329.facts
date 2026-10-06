@@ -1,0 +1,7 @@
+# Synthetic patient P-0329.
+P-0329 | presents_with | Joint pain | Patient P-0329 presents with joint pain.
+P-0329 | presents_with | Morning stiffness | Patient P-0329 presents with morning stiffness.
+P-0329 | underwent | Joint X-ray | Patient P-0329 underwent Joint X-ray.
+P-0329 | diagnosed_with | Osteoarthritis | Patient P-0329 was diagnosed with osteoarthritis after Joint X-ray.
+P-0329 | treated_with | Physical therapy | Patient P-0329 is treated with physical therapy.
+P-0329 | responding_to | Physical therapy | Patient P-0329 is responding to physical therapy at follow-up.

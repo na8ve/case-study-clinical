@@ -1,0 +1,11 @@
+# Synthetic patient P-0104.
+P-0104 | presents_with | Recurrent fatigue | Patient P-0104 presents with recurrent fatigue.
+P-0104 | presents_with | Pallor | Patient P-0104 presents with pallor.
+P-0104 | presents_with | Shortness of breath | Patient P-0104 presents with shortness of breath.
+P-0104 | presents_with | Brittle nails | Patient P-0104 presents with brittle nails.
+P-0104 | has_lab | Low serum ferritin | Patient P-0104 has low serum ferritin (ferritin 5 ng/mL).
+P-0104 | has_lab | Low hemoglobin | Patient P-0104 has low hemoglobin (hemoglobin 10.1 g/dL).
+P-0104 | underwent | Complete blood count | Patient P-0104 underwent Complete blood count.
+P-0104 | diagnosed_with | Iron deficiency anemia | Patient P-0104 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0104 | treated_with | Oral iron supplementation | Patient P-0104 is treated with oral iron supplementation.
+P-0104 | responding_to | Oral iron supplementation | Patient P-0104 is responding to oral iron supplementation at follow-up.

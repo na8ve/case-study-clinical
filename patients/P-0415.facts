@@ -1,0 +1,5 @@
+# Synthetic patient P-0415.
+P-0415 | presents_with | Recurrent fatigue | Patient P-0415 presents with recurrent fatigue.
+P-0415 | presents_with | Jaundice | Patient P-0415 presents with jaundice.
+P-0415 | presents_with | Abdominal pain | Patient P-0415 presents with abdominal pain.
+P-0415 | has_lab | Elevated liver enzymes | Patient P-0415 has elevated liver enzymes (ALT 173 U/L).

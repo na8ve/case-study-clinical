@@ -1,0 +1,10 @@
+# Synthetic patient P-0214.
+P-0214 | presents_with | Recurrent fatigue | Patient P-0214 presents with recurrent fatigue.
+P-0214 | presents_with | Pallor | Patient P-0214 presents with pallor.
+P-0214 | presents_with | Shortness of breath | Patient P-0214 presents with shortness of breath.
+P-0214 | presents_with | Insomnia | Patient P-0214 also reports insomnia.
+P-0214 | has_lab | Low serum ferritin | Patient P-0214 has low serum ferritin (ferritin 3 ng/mL).
+P-0214 | has_lab | Low hemoglobin | Patient P-0214 has low hemoglobin (hemoglobin 8.5 g/dL).
+P-0214 | underwent | Complete blood count | Patient P-0214 underwent Complete blood count.
+P-0214 | diagnosed_with | Iron deficiency anemia | Patient P-0214 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0214 | treated_with | Oral iron supplementation | Patient P-0214 is treated with oral iron supplementation.

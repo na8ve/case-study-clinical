@@ -1,0 +1,5 @@
+# Synthetic patient P-0119.
+P-0119 | presents_with | Recurrent fatigue | Patient P-0119 presents with recurrent fatigue.
+P-0119 | presents_with | Cold intolerance | Patient P-0119 presents with cold intolerance.
+P-0119 | presents_with | Headache | Patient P-0119 also reports headache.
+P-0119 | has_lab | High TSH | Patient P-0119 has high tsh (TSH 17.3 mIU/L).

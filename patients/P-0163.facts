@@ -1,0 +1,10 @@
+# Synthetic patient P-0163.
+P-0163 | presents_with | Recurrent fatigue | Patient P-0163 presents with recurrent fatigue.
+P-0163 | presents_with | Joint pain | Patient P-0163 presents with joint pain.
+P-0163 | presents_with | Expanding rash | Patient P-0163 presents with expanding rash.
+P-0163 | presents_with | Fever | Patient P-0163 presents with fever.
+P-0163 | presents_with | Weight gain | Patient P-0163 also reports weight gain.
+P-0163 | underwent | Lyme serology | Patient P-0163 underwent Lyme serology.
+P-0163 | diagnosed_with | Lyme disease | Patient P-0163 was diagnosed with lyme disease after Lyme serology.
+P-0163 | treated_with | Doxycycline | Patient P-0163 is treated with doxycycline.
+P-0163 | responding_to | Doxycycline | Patient P-0163 is responding to doxycycline at follow-up.

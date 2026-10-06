@@ -1,0 +1,9 @@
+# Synthetic patient P-0016.
+P-0016 | presents_with | Recurrent fatigue | Patient P-0016 presents with recurrent fatigue.
+P-0016 | presents_with | Cold intolerance | Patient P-0016 presents with cold intolerance.
+P-0016 | presents_with | Dry skin | Patient P-0016 presents with dry skin.
+P-0016 | presents_with | Weight gain | Patient P-0016 also reports weight gain.
+P-0016 | has_lab | High TSH | Patient P-0016 has high tsh (TSH 8.4 mIU/L).
+P-0016 | underwent | Thyroid function panel | Patient P-0016 underwent Thyroid function panel.
+P-0016 | diagnosed_with | Hypothyroidism | Patient P-0016 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0016 | treated_with | Levothyroxine | Patient P-0016 is treated with levothyroxine.

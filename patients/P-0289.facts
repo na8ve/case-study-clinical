@@ -1,0 +1,12 @@
+# Synthetic patient P-0289.
+P-0289 | presents_with | Frequent urination | Patient P-0289 presents with frequent urination.
+P-0289 | presents_with | Excessive thirst | Patient P-0289 presents with excessive thirst.
+P-0289 | presents_with | Recurrent fatigue | Patient P-0289 presents with recurrent fatigue.
+P-0289 | presents_with | Blurred vision | Patient P-0289 presents with blurred vision.
+P-0289 | has_lab | High HbA1c | Patient P-0289 has high hba1c (HbA1c 7.8%).
+P-0289 | has_lab | High fasting glucose | Patient P-0289 has high fasting glucose (fasting glucose 186 mg/dL).
+P-0289 | has_risk | Obesity | Patient P-0289 has a risk factor: obesity.
+P-0289 | underwent | Oral glucose tolerance test | Patient P-0289 underwent Oral glucose tolerance test.
+P-0289 | diagnosed_with | Type 2 diabetes | Patient P-0289 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0289 | treated_with | Metformin | Patient P-0289 is treated with metformin.
+P-0289 | responding_to | Metformin | Patient P-0289 is responding to metformin at follow-up.

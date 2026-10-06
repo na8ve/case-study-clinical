@@ -1,0 +1,8 @@
+# Synthetic patient P-0276.
+P-0276 | presents_with | Recurrent fatigue | Patient P-0276 presents with recurrent fatigue.
+P-0276 | presents_with | Abdominal discomfort | Patient P-0276 presents with abdominal discomfort.
+P-0276 | has_lab | Elevated liver enzymes | Patient P-0276 has elevated liver enzymes (ALT 132 U/L).
+P-0276 | underwent | Liver ultrasound | Patient P-0276 underwent Liver ultrasound.
+P-0276 | diagnosed_with | Nonalcoholic fatty liver disease | Patient P-0276 was diagnosed with nonalcoholic fatty liver disease after Liver ultrasound.
+P-0276 | treated_with | Lifestyle modification | Patient P-0276 is treated with lifestyle modification.
+P-0276 | responding_to | Lifestyle modification | Patient P-0276 is responding to lifestyle modification at follow-up.

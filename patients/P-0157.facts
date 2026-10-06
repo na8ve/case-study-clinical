@@ -1,0 +1,7 @@
+# Synthetic patient P-0157.
+P-0157 | presents_with | Recurrent fatigue | Patient P-0157 presents with recurrent fatigue.
+P-0157 | has_lab | Low serum ferritin | Patient P-0157 has low serum ferritin (ferritin 12 ng/mL).
+P-0157 | has_lab | Low hemoglobin | Patient P-0157 has low hemoglobin (hemoglobin 8.4 g/dL).
+P-0157 | underwent | Complete blood count | Patient P-0157 underwent Complete blood count.
+P-0157 | diagnosed_with | Iron deficiency anemia | Patient P-0157 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0157 | treated_with | Oral iron supplementation | Patient P-0157 is treated with oral iron supplementation.

@@ -1,0 +1,8 @@
+# Synthetic patient P-0080.
+P-0080 | presents_with | Recurrent fatigue | Patient P-0080 presents with recurrent fatigue.
+P-0080 | presents_with | Post-exertional malaise | Patient P-0080 presents with post-exertional malaise.
+P-0080 | presents_with | Unrefreshing sleep | Patient P-0080 presents with unrefreshing sleep.
+P-0080 | presents_with | Bloating | Patient P-0080 also reports bloating.
+P-0080 | underwent | Exclusion workup | Patient P-0080 underwent Exclusion workup.
+P-0080 | diagnosed_with | Chronic fatigue syndrome | Patient P-0080 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0080 | treated_with | Activity pacing | Patient P-0080 is treated with activity pacing.

@@ -1,0 +1,7 @@
+# Synthetic patient P-0202.
+P-0202 | presents_with | Shortness of breath | Patient P-0202 presents with shortness of breath.
+P-0202 | presents_with | Recurrent fatigue | Patient P-0202 presents with recurrent fatigue.
+P-0202 | presents_with | Skin lesions | Patient P-0202 presents with skin lesions.
+P-0202 | underwent | Chest CT | Patient P-0202 underwent Chest CT.
+P-0202 | diagnosed_with | Sarcoidosis | Patient P-0202 was diagnosed with sarcoidosis after Chest CT.
+P-0202 | treated_with | Corticosteroids | Patient P-0202 is treated with corticosteroids.

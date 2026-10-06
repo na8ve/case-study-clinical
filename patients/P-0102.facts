@@ -1,0 +1,8 @@
+# Synthetic patient P-0102.
+P-0102 | presents_with | Daytime sleepiness | Patient P-0102 presents with daytime sleepiness.
+P-0102 | presents_with | Snoring | Patient P-0102 presents with snoring.
+P-0102 | presents_with | Recurrent fatigue | Patient P-0102 presents with recurrent fatigue.
+P-0102 | has_risk | Obesity | Patient P-0102 has a risk factor: obesity.
+P-0102 | underwent | Polysomnography | Patient P-0102 underwent Polysomnography.
+P-0102 | diagnosed_with | Obstructive sleep apnea | Patient P-0102 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0102 | treated_with | CPAP therapy | Patient P-0102 is treated with cpap therapy.

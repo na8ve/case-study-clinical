@@ -1,0 +1,7 @@
+# Synthetic patient P-0408.
+P-0408 | presents_with | Recurrent fatigue | Patient P-0408 presents with recurrent fatigue.
+P-0408 | presents_with | Jaundice | Patient P-0408 presents with jaundice.
+P-0408 | presents_with | Pallor | Patient P-0408 presents with pallor.
+P-0408 | presents_with | Dark urine | Patient P-0408 presents with dark urine.
+P-0408 | has_lab | Low hemoglobin | Patient P-0408 has low hemoglobin (hemoglobin 9.5 g/dL).
+P-0408 | has_lab | Elevated bilirubin | Patient P-0408 has elevated bilirubin (bilirubin 2.5 mg/dL).

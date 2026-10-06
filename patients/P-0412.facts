@@ -1,0 +1,9 @@
+# Synthetic patient P-0412.
+P-0412 | presents_with | Recurrent fatigue | Patient P-0412 presents with recurrent fatigue.
+P-0412 | presents_with | Jaundice | Patient P-0412 presents with jaundice.
+P-0412 | presents_with | Abdominal pain | Patient P-0412 presents with abdominal pain.
+P-0412 | has_lab | Elevated liver enzymes | Patient P-0412 has elevated liver enzymes (ALT 232 U/L).
+P-0412 | underwent | Liver ultrasound | Patient P-0412 underwent Liver ultrasound.
+P-0412 | diagnosed_with | Alcoholic liver disease | Patient P-0412 was diagnosed with alcoholic liver disease after Liver ultrasound.
+P-0412 | treated_with | Alcohol cessation | Patient P-0412 is treated with alcohol cessation.
+P-0412 | responding_to | Alcohol cessation | Patient P-0412 is responding to alcohol cessation at follow-up.

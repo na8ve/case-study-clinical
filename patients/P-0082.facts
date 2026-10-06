@@ -1,0 +1,6 @@
+# Synthetic patient P-0082.
+P-0082 | presents_with | Recurrent fatigue | Patient P-0082 presents with recurrent fatigue.
+P-0082 | presents_with | Post-exertional malaise | Patient P-0082 presents with post-exertional malaise.
+P-0082 | underwent | Exclusion workup | Patient P-0082 underwent Exclusion workup.
+P-0082 | diagnosed_with | Chronic fatigue syndrome | Patient P-0082 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0082 | treated_with | Activity pacing | Patient P-0082 is treated with activity pacing.

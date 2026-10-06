@@ -1,0 +1,9 @@
+# Synthetic patient P-0320.
+P-0320 | presents_with | Daytime sleepiness | Patient P-0320 presents with daytime sleepiness.
+P-0320 | presents_with | Snoring | Patient P-0320 presents with snoring.
+P-0320 | presents_with | Recurrent fatigue | Patient P-0320 presents with recurrent fatigue.
+P-0320 | presents_with | Dry skin | Patient P-0320 also reports dry skin.
+P-0320 | underwent | Polysomnography | Patient P-0320 underwent Polysomnography.
+P-0320 | diagnosed_with | Obstructive sleep apnea | Patient P-0320 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0320 | treated_with | CPAP therapy | Patient P-0320 is treated with cpap therapy.
+P-0320 | responding_to | CPAP therapy | Patient P-0320 is responding to cpap therapy at follow-up.

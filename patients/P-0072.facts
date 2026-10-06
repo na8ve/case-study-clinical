@@ -1,0 +1,6 @@
+# Synthetic patient P-0072.
+P-0072 | presents_with | Joint pain | Patient P-0072 presents with joint pain.
+P-0072 | presents_with | Morning stiffness | Patient P-0072 presents with morning stiffness.
+P-0072 | presents_with | Dry skin | Patient P-0072 also reports dry skin.
+P-0072 | has_lab | Elevated CRP | Patient P-0072 has elevated crp (CRP 17 mg/L).
+P-0072 | has_lab | Positive rheumatoid factor | Patient P-0072 has positive rheumatoid factor (rheumatoid factor positive).

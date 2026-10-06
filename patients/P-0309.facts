@@ -1,0 +1,7 @@
+# Synthetic patient P-0309.
+P-0309 | presents_with | Recurrent fatigue | Patient P-0309 presents with recurrent fatigue.
+P-0309 | presents_with | Weight gain | Patient P-0309 presents with weight gain.
+P-0309 | presents_with | Dry skin | Patient P-0309 presents with dry skin.
+P-0309 | underwent | Thyroid function panel | Patient P-0309 underwent Thyroid function panel.
+P-0309 | diagnosed_with | Hypothyroidism | Patient P-0309 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0309 | treated_with | Levothyroxine | Patient P-0309 is treated with levothyroxine.

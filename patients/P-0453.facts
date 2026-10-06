@@ -1,0 +1,9 @@
+# Synthetic patient P-0453.
+P-0453 | presents_with | Joint pain | Patient P-0453 presents with joint pain.
+P-0453 | presents_with | Facial rash | Patient P-0453 presents with facial rash.
+P-0453 | presents_with | Fever | Patient P-0453 presents with fever.
+P-0453 | has_lab | Positive ANA | Patient P-0453 has positive ana (ANA 1:640 homogeneous).
+P-0453 | underwent | Anti-dsDNA test | Patient P-0453 underwent Anti-dsDNA test.
+P-0453 | diagnosed_with | Systemic lupus erythematosus | Patient P-0453 was diagnosed with systemic lupus erythematosus after Anti-dsDNA test.
+P-0453 | treated_with | Hydroxychloroquine | Patient P-0453 is treated with hydroxychloroquine.
+P-0453 | responding_to | Hydroxychloroquine | Patient P-0453 is responding to hydroxychloroquine at follow-up.

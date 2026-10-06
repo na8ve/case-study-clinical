@@ -1,0 +1,8 @@
+# Synthetic patient P-0001.
+P-0001 | presents_with | Fever | Patient P-0001 presents with fever.
+P-0001 | presents_with | Sore throat | Patient P-0001 presents with sore throat.
+P-0001 | presents_with | Dry skin | Patient P-0001 also reports dry skin.
+P-0001 | underwent | Monospot test | Patient P-0001 underwent Monospot test.
+P-0001 | diagnosed_with | Infectious mononucleosis | Patient P-0001 was diagnosed with infectious mononucleosis after Monospot test.
+P-0001 | treated_with | Supportive care | Patient P-0001 is treated with supportive care.
+P-0001 | responding_to | Supportive care | Patient P-0001 is responding to supportive care at follow-up.

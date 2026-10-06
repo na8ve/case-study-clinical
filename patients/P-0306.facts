@@ -1,0 +1,9 @@
+# Synthetic patient P-0306.
+P-0306 | presents_with | Recurrent fatigue | Patient P-0306 presents with recurrent fatigue.
+P-0306 | presents_with | Bronze skin | Patient P-0306 presents with bronze skin.
+P-0306 | presents_with | Abdominal pain | Patient P-0306 presents with abdominal pain.
+P-0306 | has_lab | High transferrin saturation | Patient P-0306 has high transferrin saturation (transferrin saturation 74%).
+P-0306 | has_risk | Family history of hemochromatosis | Patient P-0306 has a risk factor: family history of hemochromatosis.
+P-0306 | underwent | Liver MRI iron quantification | Patient P-0306 underwent Liver MRI iron quantification.
+P-0306 | diagnosed_with | Hereditary hemochromatosis | Patient P-0306 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0306 | treated_with | Therapeutic phlebotomy | Patient P-0306 is treated with therapeutic phlebotomy.

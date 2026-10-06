@@ -1,0 +1,9 @@
+# Synthetic patient P-0223.
+P-0223 | presents_with | Recurrent fatigue | Patient P-0223 presents with recurrent fatigue.
+P-0223 | presents_with | Leg swelling | Patient P-0223 presents with leg swelling.
+P-0223 | presents_with | Frequent urination | Patient P-0223 presents with frequent urination.
+P-0223 | has_lab | Elevated creatinine | Patient P-0223 has elevated creatinine (creatinine 2.1 mg/dL).
+P-0223 | underwent | Kidney function panel | Patient P-0223 underwent Kidney function panel.
+P-0223 | diagnosed_with | Chronic kidney disease | Patient P-0223 was diagnosed with chronic kidney disease after Kidney function panel.
+P-0223 | treated_with | Nephrology referral | Patient P-0223 is treated with nephrology referral.
+P-0223 | responding_to | Nephrology referral | Patient P-0223 is responding to nephrology referral at follow-up.

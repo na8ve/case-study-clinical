@@ -1,0 +1,9 @@
+# Synthetic patient P-0402.
+P-0402 | presents_with | Jaundice | Patient P-0402 presents with jaundice.
+P-0402 | presents_with | Recurrent fatigue | Patient P-0402 presents with recurrent fatigue.
+P-0402 | has_lab | Elevated liver enzymes | Patient P-0402 has elevated liver enzymes (AST 82 U/L).
+P-0402 | has_lab | Low albumin | Patient P-0402 has low albumin (albumin 3.3 g/dL).
+P-0402 | has_risk | Heavy alcohol use | Patient P-0402 has a risk factor: heavy alcohol use.
+P-0402 | underwent | Liver elastography | Patient P-0402 underwent Liver elastography.
+P-0402 | diagnosed_with | Cirrhosis | Patient P-0402 was diagnosed with cirrhosis after Liver elastography.
+P-0402 | treated_with | Hepatology referral | Patient P-0402 is treated with hepatology referral.

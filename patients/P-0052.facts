@@ -1,0 +1,10 @@
+# Synthetic patient P-0052.
+P-0052 | presents_with | Recurrent fatigue | Patient P-0052 presents with recurrent fatigue.
+P-0052 | presents_with | Joint pain | Patient P-0052 presents with joint pain.
+P-0052 | presents_with | Expanding rash | Patient P-0052 presents with expanding rash.
+P-0052 | presents_with | Fever | Patient P-0052 presents with fever.
+P-0052 | presents_with | Low mood | Patient P-0052 also reports low mood.
+P-0052 | underwent | Lyme serology | Patient P-0052 underwent Lyme serology.
+P-0052 | diagnosed_with | Lyme disease | Patient P-0052 was diagnosed with lyme disease after Lyme serology.
+P-0052 | treated_with | Doxycycline | Patient P-0052 is treated with doxycycline.
+P-0052 | responding_to | Doxycycline | Patient P-0052 is responding to doxycycline at follow-up.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0051.
+P-0051 | presents_with | Recurrent fatigue | Patient P-0051 presents with recurrent fatigue.
+P-0051 | presents_with | Weight gain | Patient P-0051 presents with weight gain.
+P-0051 | presents_with | Cold intolerance | Patient P-0051 presents with cold intolerance.
+P-0051 | presents_with | Dry skin | Patient P-0051 presents with dry skin.
+P-0051 | has_lab | High TSH | Patient P-0051 has high tsh (TSH 6.8 mIU/L).
+P-0051 | underwent | Thyroid function panel | Patient P-0051 underwent Thyroid function panel.
+P-0051 | diagnosed_with | Hypothyroidism | Patient P-0051 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0051 | treated_with | Levothyroxine | Patient P-0051 is treated with levothyroxine.
+P-0051 | responding_to | Levothyroxine | Patient P-0051 is responding to levothyroxine at follow-up.

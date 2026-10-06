@@ -1,0 +1,7 @@
+# Synthetic patient P-0097.
+P-0097 | presents_with | Joint pain | Patient P-0097 presents with joint pain.
+P-0097 | presents_with | Morning stiffness | Patient P-0097 presents with morning stiffness.
+P-0097 | presents_with | Bloating | Patient P-0097 also reports bloating.
+P-0097 | underwent | Joint X-ray | Patient P-0097 underwent Joint X-ray.
+P-0097 | diagnosed_with | Osteoarthritis | Patient P-0097 was diagnosed with osteoarthritis after Joint X-ray.
+P-0097 | treated_with | Physical therapy | Patient P-0097 is treated with physical therapy.

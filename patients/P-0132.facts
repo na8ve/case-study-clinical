@@ -1,0 +1,11 @@
+# Synthetic patient P-0132.
+P-0132 | presents_with | Recurrent fatigue | Patient P-0132 presents with recurrent fatigue.
+P-0132 | presents_with | Weight gain | Patient P-0132 presents with weight gain.
+P-0132 | presents_with | Cold intolerance | Patient P-0132 presents with cold intolerance.
+P-0132 | presents_with | Dry skin | Patient P-0132 presents with dry skin.
+P-0132 | presents_with | Back pain | Patient P-0132 also reports back pain.
+P-0132 | has_lab | High TSH | Patient P-0132 has high tsh (TSH 9.7 mIU/L).
+P-0132 | underwent | Thyroid function panel | Patient P-0132 underwent Thyroid function panel.
+P-0132 | diagnosed_with | Hypothyroidism | Patient P-0132 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0132 | treated_with | Levothyroxine | Patient P-0132 is treated with levothyroxine.
+P-0132 | responding_to | Levothyroxine | Patient P-0132 is responding to levothyroxine at follow-up.

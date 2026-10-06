@@ -1,0 +1,9 @@
+# Synthetic patient P-0338.
+P-0338 | presents_with | Joint pain | Patient P-0338 presents with joint pain.
+P-0338 | presents_with | Morning stiffness | Patient P-0338 presents with morning stiffness.
+P-0338 | presents_with | Recurrent fatigue | Patient P-0338 presents with recurrent fatigue.
+P-0338 | presents_with | Headache | Patient P-0338 also reports headache.
+P-0338 | has_lab | Elevated CRP | Patient P-0338 has elevated crp (CRP 30 mg/L).
+P-0338 | underwent | Anti-CCP antibody test | Patient P-0338 underwent Anti-CCP antibody test.
+P-0338 | diagnosed_with | Rheumatoid arthritis | Patient P-0338 was diagnosed with rheumatoid arthritis after Anti-CCP antibody test.
+P-0338 | treated_with | Methotrexate | Patient P-0338 is treated with methotrexate.

@@ -1,0 +1,7 @@
+# Synthetic patient P-0186.
+P-0186 | presents_with | Recurrent fatigue | Patient P-0186 presents with recurrent fatigue.
+P-0186 | presents_with | Low mood | Patient P-0186 presents with low mood.
+P-0186 | presents_with | Insomnia | Patient P-0186 presents with insomnia.
+P-0186 | underwent | PHQ-9 screening | Patient P-0186 underwent PHQ-9 screening.
+P-0186 | diagnosed_with | Major depressive disorder | Patient P-0186 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0186 | treated_with | SSRI therapy | Patient P-0186 is treated with ssri therapy.

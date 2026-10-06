@@ -1,0 +1,9 @@
+# Synthetic patient P-0375.
+P-0375 | presents_with | Shortness of breath | Patient P-0375 presents with shortness of breath.
+P-0375 | presents_with | Leg swelling | Patient P-0375 presents with leg swelling.
+P-0375 | presents_with | Recurrent fatigue | Patient P-0375 presents with recurrent fatigue.
+P-0375 | has_lab | Elevated BNP | Patient P-0375 has elevated bnp (BNP 767 pg/mL).
+P-0375 | underwent | Echocardiogram | Patient P-0375 underwent Echocardiogram.
+P-0375 | diagnosed_with | Heart failure | Patient P-0375 was diagnosed with heart failure after Echocardiogram.
+P-0375 | treated_with | ACE inhibitor therapy | Patient P-0375 is treated with ace inhibitor therapy.
+P-0375 | responding_to | ACE inhibitor therapy | Patient P-0375 is responding to ace inhibitor therapy at follow-up.

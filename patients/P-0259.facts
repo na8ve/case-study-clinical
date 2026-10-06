@@ -1,0 +1,9 @@
+# Synthetic patient P-0259.
+P-0259 | presents_with | Recurrent fatigue | Patient P-0259 presents with recurrent fatigue.
+P-0259 | presents_with | Headache | Patient P-0259 also reports headache.
+P-0259 | has_lab | Low serum ferritin | Patient P-0259 has low serum ferritin (ferritin 11 ng/mL).
+P-0259 | has_lab | Low hemoglobin | Patient P-0259 has low hemoglobin (hemoglobin 8.2 g/dL).
+P-0259 | underwent | Complete blood count | Patient P-0259 underwent Complete blood count.
+P-0259 | diagnosed_with | Iron deficiency anemia | Patient P-0259 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0259 | treated_with | Oral iron supplementation | Patient P-0259 is treated with oral iron supplementation.
+P-0259 | responding_to | Oral iron supplementation | Patient P-0259 is responding to oral iron supplementation at follow-up.

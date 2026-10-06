@@ -1,0 +1,8 @@
+# Synthetic patient P-0211.
+P-0211 | presents_with | Fever | Patient P-0211 presents with fever.
+P-0211 | has_lab | High serum ferritin | Patient P-0211 has high serum ferritin (ferritin 775 ng/mL).
+P-0211 | has_lab | Elevated CRP | Patient P-0211 has elevated crp (CRP 132 mg/L).
+P-0211 | underwent | Blood culture | Patient P-0211 underwent Blood culture.
+P-0211 | diagnosed_with | Acute infection | Patient P-0211 was diagnosed with acute infection after Blood culture.
+P-0211 | treated_with | Antibiotic therapy | Patient P-0211 is treated with antibiotic therapy.
+P-0211 | responding_to | Antibiotic therapy | Patient P-0211 is responding to antibiotic therapy at follow-up.

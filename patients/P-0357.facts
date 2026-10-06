@@ -1,0 +1,8 @@
+# Synthetic patient P-0357.
+P-0357 | presents_with | Shortness of breath | Patient P-0357 presents with shortness of breath.
+P-0357 | presents_with | Recurrent fatigue | Patient P-0357 presents with recurrent fatigue.
+P-0357 | presents_with | Bloating | Patient P-0357 also reports bloating.
+P-0357 | has_lab | Elevated BNP | Patient P-0357 has elevated bnp (BNP 746 pg/mL).
+P-0357 | underwent | Echocardiogram | Patient P-0357 underwent Echocardiogram.
+P-0357 | diagnosed_with | Heart failure | Patient P-0357 was diagnosed with heart failure after Echocardiogram.
+P-0357 | treated_with | ACE inhibitor therapy | Patient P-0357 is treated with ace inhibitor therapy.

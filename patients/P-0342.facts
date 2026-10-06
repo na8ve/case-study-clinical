@@ -1,0 +1,7 @@
+# Synthetic patient P-0342.
+P-0342 | presents_with | Recurrent fatigue | Patient P-0342 presents with recurrent fatigue.
+P-0342 | presents_with | Insomnia | Patient P-0342 presents with insomnia.
+P-0342 | presents_with | Weight change | Patient P-0342 presents with weight change.
+P-0342 | underwent | PHQ-9 screening | Patient P-0342 underwent PHQ-9 screening.
+P-0342 | diagnosed_with | Major depressive disorder | Patient P-0342 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0342 | treated_with | SSRI therapy | Patient P-0342 is treated with ssri therapy.

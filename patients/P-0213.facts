@@ -1,0 +1,9 @@
+# Synthetic patient P-0213.
+P-0213 | presents_with | Recurrent fatigue | Patient P-0213 presents with recurrent fatigue.
+P-0213 | presents_with | Weight gain | Patient P-0213 presents with weight gain.
+P-0213 | presents_with | Cold intolerance | Patient P-0213 presents with cold intolerance.
+P-0213 | presents_with | Dry skin | Patient P-0213 presents with dry skin.
+P-0213 | has_lab | High TSH | Patient P-0213 has high tsh (TSH 15.6 mIU/L).
+P-0213 | underwent | Thyroid function panel | Patient P-0213 underwent Thyroid function panel.
+P-0213 | diagnosed_with | Hypothyroidism | Patient P-0213 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0213 | treated_with | Levothyroxine | Patient P-0213 is treated with levothyroxine.

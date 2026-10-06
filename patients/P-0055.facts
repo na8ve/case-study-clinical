@@ -1,0 +1,8 @@
+# Synthetic patient P-0055.
+P-0055 | presents_with | Weight loss | Patient P-0055 presents with weight loss.
+P-0055 | presents_with | Palpitations | Patient P-0055 presents with palpitations.
+P-0055 | has_lab | Low TSH | Patient P-0055 has low tsh (TSH 0.02 mIU/L).
+P-0055 | underwent | Thyroid function panel | Patient P-0055 underwent Thyroid function panel.
+P-0055 | diagnosed_with | Hyperthyroidism | Patient P-0055 was diagnosed with hyperthyroidism after Thyroid function panel.
+P-0055 | treated_with | Methimazole | Patient P-0055 is treated with methimazole.
+P-0055 | responding_to | Methimazole | Patient P-0055 is responding to methimazole at follow-up.

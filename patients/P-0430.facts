@@ -1,0 +1,7 @@
+# Synthetic patient P-0430.
+P-0430 | presents_with | Recurrent fatigue | Patient P-0430 presents with recurrent fatigue.
+P-0430 | presents_with | Unrefreshing sleep | Patient P-0430 presents with unrefreshing sleep.
+P-0430 | presents_with | Low mood | Patient P-0430 also reports low mood.
+P-0430 | underwent | Exclusion workup | Patient P-0430 underwent Exclusion workup.
+P-0430 | diagnosed_with | Chronic fatigue syndrome | Patient P-0430 was diagnosed with chronic fatigue syndrome after Exclusion workup.
+P-0430 | treated_with | Activity pacing | Patient P-0430 is treated with activity pacing.

@@ -1,0 +1,10 @@
+# Synthetic patient P-0282.
+P-0282 | presents_with | Recurrent fatigue | Patient P-0282 presents with recurrent fatigue.
+P-0282 | presents_with | Pallor | Patient P-0282 presents with pallor.
+P-0282 | presents_with | Shortness of breath | Patient P-0282 presents with shortness of breath.
+P-0282 | presents_with | Brittle nails | Patient P-0282 presents with brittle nails.
+P-0282 | has_lab | Low serum ferritin | Patient P-0282 has low serum ferritin (ferritin 9 ng/mL).
+P-0282 | has_lab | Low hemoglobin | Patient P-0282 has low hemoglobin (hemoglobin 9.5 g/dL).
+P-0282 | underwent | Complete blood count | Patient P-0282 underwent Complete blood count.
+P-0282 | diagnosed_with | Iron deficiency anemia | Patient P-0282 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0282 | treated_with | Oral iron supplementation | Patient P-0282 is treated with oral iron supplementation.

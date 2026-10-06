@@ -1,0 +1,8 @@
+# Synthetic patient P-0219.
+P-0219 | presents_with | Fever | Patient P-0219 presents with fever.
+P-0219 | presents_with | Sore throat | Patient P-0219 presents with sore throat.
+P-0219 | presents_with | Recurrent fatigue | Patient P-0219 presents with recurrent fatigue.
+P-0219 | presents_with | Low mood | Patient P-0219 also reports low mood.
+P-0219 | underwent | Monospot test | Patient P-0219 underwent Monospot test.
+P-0219 | diagnosed_with | Infectious mononucleosis | Patient P-0219 was diagnosed with infectious mononucleosis after Monospot test.
+P-0219 | treated_with | Supportive care | Patient P-0219 is treated with supportive care.

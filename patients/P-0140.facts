@@ -1,0 +1,10 @@
+# Synthetic patient P-0140.
+P-0140 | presents_with | Jaundice | Patient P-0140 presents with jaundice.
+P-0140 | presents_with | Abdominal swelling | Patient P-0140 presents with abdominal swelling.
+P-0140 | presents_with | Recurrent fatigue | Patient P-0140 presents with recurrent fatigue.
+P-0140 | has_lab | Elevated liver enzymes | Patient P-0140 has elevated liver enzymes (AST 88 U/L).
+P-0140 | has_risk | Heavy alcohol use | Patient P-0140 has a risk factor: heavy alcohol use.
+P-0140 | underwent | Liver elastography | Patient P-0140 underwent Liver elastography.
+P-0140 | diagnosed_with | Cirrhosis | Patient P-0140 was diagnosed with cirrhosis after Liver elastography.
+P-0140 | treated_with | Hepatology referral | Patient P-0140 is treated with hepatology referral.
+P-0140 | responding_to | Hepatology referral | Patient P-0140 is responding to hepatology referral at follow-up.

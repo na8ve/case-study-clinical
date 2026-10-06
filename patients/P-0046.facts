@@ -1,0 +1,9 @@
+# Synthetic patient P-0046.
+P-0046 | presents_with | Shortness of breath | Patient P-0046 presents with shortness of breath.
+P-0046 | presents_with | Leg swelling | Patient P-0046 presents with leg swelling.
+P-0046 | presents_with | Recurrent fatigue | Patient P-0046 presents with recurrent fatigue.
+P-0046 | presents_with | Headache | Patient P-0046 also reports headache.
+P-0046 | underwent | Echocardiogram | Patient P-0046 underwent Echocardiogram.
+P-0046 | diagnosed_with | Heart failure | Patient P-0046 was diagnosed with heart failure after Echocardiogram.
+P-0046 | treated_with | ACE inhibitor therapy | Patient P-0046 is treated with ace inhibitor therapy.
+P-0046 | responding_to | ACE inhibitor therapy | Patient P-0046 is responding to ace inhibitor therapy at follow-up.

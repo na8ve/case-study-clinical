@@ -1,0 +1,9 @@
+# Synthetic patient P-0056.
+P-0056 | presents_with | Recurrent fatigue | Patient P-0056 presents with recurrent fatigue.
+P-0056 | presents_with | Jaundice | Patient P-0056 presents with jaundice.
+P-0056 | presents_with | Abdominal pain | Patient P-0056 presents with abdominal pain.
+P-0056 | presents_with | Weight gain | Patient P-0056 also reports weight gain.
+P-0056 | underwent | HCV RNA test | Patient P-0056 underwent HCV RNA test.
+P-0056 | diagnosed_with | Hepatitis C | Patient P-0056 was diagnosed with hepatitis c after HCV RNA test.
+P-0056 | treated_with | Direct-acting antivirals | Patient P-0056 is treated with direct-acting antivirals.
+P-0056 | responding_to | Direct-acting antivirals | Patient P-0056 is responding to direct-acting antivirals at follow-up.

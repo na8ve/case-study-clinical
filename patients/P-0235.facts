@@ -1,0 +1,10 @@
+# Synthetic patient P-0235.
+P-0235 | presents_with | Recurrent fatigue | Patient P-0235 presents with recurrent fatigue.
+P-0235 | presents_with | Pallor | Patient P-0235 presents with pallor.
+P-0235 | presents_with | Bronze skin | Patient P-0235 presents with bronze skin.
+P-0235 | presents_with | Back pain | Patient P-0235 also reports back pain.
+P-0235 | has_lab | Low MCV | Patient P-0235 has low mcv (MCV 60 fL).
+P-0235 | has_lab | High serum ferritin | Patient P-0235 has high serum ferritin (ferritin 2130 ng/mL).
+P-0235 | underwent | Hemoglobin electrophoresis | Patient P-0235 underwent Hemoglobin electrophoresis.
+P-0235 | diagnosed_with | Beta thalassemia | Patient P-0235 was diagnosed with beta thalassemia after Hemoglobin electrophoresis.
+P-0235 | treated_with | Iron chelation therapy | Patient P-0235 is treated with iron chelation therapy.

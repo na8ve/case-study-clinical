@@ -1,0 +1,9 @@
+# Synthetic patient P-0190.
+P-0190 | presents_with | Frequent urination | Patient P-0190 presents with frequent urination.
+P-0190 | presents_with | Excessive thirst | Patient P-0190 presents with excessive thirst.
+P-0190 | presents_with | Insomnia | Patient P-0190 also reports insomnia.
+P-0190 | has_lab | High HbA1c | Patient P-0190 has high hba1c (HbA1c 9.0%).
+P-0190 | has_lab | High fasting glucose | Patient P-0190 has high fasting glucose (fasting glucose 163 mg/dL).
+P-0190 | underwent | Oral glucose tolerance test | Patient P-0190 underwent Oral glucose tolerance test.
+P-0190 | diagnosed_with | Type 2 diabetes | Patient P-0190 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0190 | treated_with | Metformin | Patient P-0190 is treated with metformin.

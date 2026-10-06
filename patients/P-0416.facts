@@ -1,0 +1,9 @@
+# Synthetic patient P-0416.
+P-0416 | presents_with | Recurrent fatigue | Patient P-0416 presents with recurrent fatigue.
+P-0416 | presents_with | Abdominal pain | Patient P-0416 presents with abdominal pain.
+P-0416 | has_lab | High serum ferritin | Patient P-0416 has high serum ferritin (ferritin 566 ng/mL).
+P-0416 | has_lab | Elevated liver enzymes | Patient P-0416 has elevated liver enzymes (ALT 144 U/L).
+P-0416 | has_risk | Heavy alcohol use | Patient P-0416 has a risk factor: heavy alcohol use.
+P-0416 | underwent | Liver ultrasound | Patient P-0416 underwent Liver ultrasound.
+P-0416 | diagnosed_with | Alcoholic liver disease | Patient P-0416 was diagnosed with alcoholic liver disease after Liver ultrasound.
+P-0416 | treated_with | Alcohol cessation | Patient P-0416 is treated with alcohol cessation.

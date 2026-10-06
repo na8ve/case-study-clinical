@@ -1,0 +1,8 @@
+# Synthetic patient P-0418.
+P-0418 | presents_with | Daytime sleepiness | Patient P-0418 presents with daytime sleepiness.
+P-0418 | presents_with | Snoring | Patient P-0418 presents with snoring.
+P-0418 | presents_with | Recurrent fatigue | Patient P-0418 presents with recurrent fatigue.
+P-0418 | presents_with | Insomnia | Patient P-0418 also reports insomnia.
+P-0418 | underwent | Polysomnography | Patient P-0418 underwent Polysomnography.
+P-0418 | diagnosed_with | Obstructive sleep apnea | Patient P-0418 was diagnosed with obstructive sleep apnea after Polysomnography.
+P-0418 | treated_with | CPAP therapy | Patient P-0418 is treated with cpap therapy.

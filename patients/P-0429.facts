@@ -1,0 +1,6 @@
+# Synthetic patient P-0429.
+P-0429 | presents_with | Joint pain | Patient P-0429 presents with joint pain.
+P-0429 | presents_with | Morning stiffness | Patient P-0429 presents with morning stiffness.
+P-0429 | underwent | Joint X-ray | Patient P-0429 underwent Joint X-ray.
+P-0429 | diagnosed_with | Osteoarthritis | Patient P-0429 was diagnosed with osteoarthritis after Joint X-ray.
+P-0429 | treated_with | Physical therapy | Patient P-0429 is treated with physical therapy.

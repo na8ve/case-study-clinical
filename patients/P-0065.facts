@@ -1,0 +1,9 @@
+# Synthetic patient P-0065.
+P-0065 | presents_with | Joint pain | Patient P-0065 presents with joint pain.
+P-0065 | presents_with | Facial rash | Patient P-0065 presents with facial rash.
+P-0065 | presents_with | Recurrent fatigue | Patient P-0065 presents with recurrent fatigue.
+P-0065 | has_lab | Positive ANA | Patient P-0065 has positive ana (ANA 1:640 homogeneous).
+P-0065 | underwent | Anti-dsDNA test | Patient P-0065 underwent Anti-dsDNA test.
+P-0065 | diagnosed_with | Systemic lupus erythematosus | Patient P-0065 was diagnosed with systemic lupus erythematosus after Anti-dsDNA test.
+P-0065 | treated_with | Hydroxychloroquine | Patient P-0065 is treated with hydroxychloroquine.
+P-0065 | responding_to | Hydroxychloroquine | Patient P-0065 is responding to hydroxychloroquine at follow-up.

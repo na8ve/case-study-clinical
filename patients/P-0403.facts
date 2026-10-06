@@ -1,0 +1,10 @@
+# Synthetic patient P-0403.
+P-0403 | presents_with | Frequent urination | Patient P-0403 presents with frequent urination.
+P-0403 | presents_with | Excessive thirst | Patient P-0403 presents with excessive thirst.
+P-0403 | presents_with | Recurrent fatigue | Patient P-0403 presents with recurrent fatigue.
+P-0403 | presents_with | Blurred vision | Patient P-0403 presents with blurred vision.
+P-0403 | has_lab | High HbA1c | Patient P-0403 has high hba1c (HbA1c 9.3%).
+P-0403 | has_lab | High fasting glucose | Patient P-0403 has high fasting glucose (fasting glucose 227 mg/dL).
+P-0403 | underwent | Oral glucose tolerance test | Patient P-0403 underwent Oral glucose tolerance test.
+P-0403 | diagnosed_with | Type 2 diabetes | Patient P-0403 was diagnosed with type 2 diabetes after Oral glucose tolerance test.
+P-0403 | treated_with | Metformin | Patient P-0403 is treated with metformin.

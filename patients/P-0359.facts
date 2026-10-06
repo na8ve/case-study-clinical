@@ -1,0 +1,10 @@
+# Synthetic patient P-0359.
+P-0359 | presents_with | Recurrent fatigue | Patient P-0359 presents with recurrent fatigue.
+P-0359 | presents_with | Bronze skin | Patient P-0359 presents with bronze skin.
+P-0359 | presents_with | Joint pain | Patient P-0359 presents with joint pain.
+P-0359 | presents_with | Abdominal pain | Patient P-0359 presents with abdominal pain.
+P-0359 | has_lab | High serum ferritin | Patient P-0359 has high serum ferritin (ferritin 634 ng/mL).
+P-0359 | has_lab | High transferrin saturation | Patient P-0359 has high transferrin saturation (transferrin saturation 77%).
+P-0359 | underwent | Liver MRI iron quantification | Patient P-0359 underwent Liver MRI iron quantification.
+P-0359 | diagnosed_with | Hereditary hemochromatosis | Patient P-0359 was diagnosed with hereditary hemochromatosis after Liver MRI iron quantification.
+P-0359 | treated_with | Therapeutic phlebotomy | Patient P-0359 is treated with therapeutic phlebotomy.

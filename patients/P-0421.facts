@@ -1,0 +1,9 @@
+# Synthetic patient P-0421.
+P-0421 | presents_with | Fever | Patient P-0421 presents with fever.
+P-0421 | presents_with | Sore throat | Patient P-0421 presents with sore throat.
+P-0421 | presents_with | Recurrent fatigue | Patient P-0421 presents with recurrent fatigue.
+P-0421 | presents_with | Swollen lymph nodes | Patient P-0421 presents with swollen lymph nodes.
+P-0421 | underwent | Monospot test | Patient P-0421 underwent Monospot test.
+P-0421 | diagnosed_with | Infectious mononucleosis | Patient P-0421 was diagnosed with infectious mononucleosis after Monospot test.
+P-0421 | treated_with | Supportive care | Patient P-0421 is treated with supportive care.
+P-0421 | responding_to | Supportive care | Patient P-0421 is responding to supportive care at follow-up.

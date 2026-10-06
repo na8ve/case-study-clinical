@@ -1,0 +1,10 @@
+# Synthetic patient P-0216.
+P-0216 | presents_with | Recurrent fatigue | Patient P-0216 presents with recurrent fatigue.
+P-0216 | presents_with | Low mood | Patient P-0216 presents with low mood.
+P-0216 | presents_with | Insomnia | Patient P-0216 presents with insomnia.
+P-0216 | presents_with | Weight change | Patient P-0216 presents with weight change.
+P-0216 | presents_with | Dry skin | Patient P-0216 also reports dry skin.
+P-0216 | underwent | PHQ-9 screening | Patient P-0216 underwent PHQ-9 screening.
+P-0216 | diagnosed_with | Major depressive disorder | Patient P-0216 was diagnosed with major depressive disorder after PHQ-9 screening.
+P-0216 | treated_with | SSRI therapy | Patient P-0216 is treated with ssri therapy.
+P-0216 | responding_to | SSRI therapy | Patient P-0216 is responding to ssri therapy at follow-up.

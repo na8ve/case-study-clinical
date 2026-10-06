@@ -1,0 +1,8 @@
+# Synthetic patient P-0166.
+P-0166 | presents_with | Shortness of breath | Patient P-0166 presents with shortness of breath.
+P-0166 | presents_with | Leg swelling | Patient P-0166 presents with leg swelling.
+P-0166 | presents_with | Recurrent fatigue | Patient P-0166 presents with recurrent fatigue.
+P-0166 | presents_with | Bloating | Patient P-0166 also reports bloating.
+P-0166 | underwent | Echocardiogram | Patient P-0166 underwent Echocardiogram.
+P-0166 | diagnosed_with | Heart failure | Patient P-0166 was diagnosed with heart failure after Echocardiogram.
+P-0166 | treated_with | ACE inhibitor therapy | Patient P-0166 is treated with ace inhibitor therapy.

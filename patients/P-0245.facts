@@ -1,0 +1,9 @@
+# Synthetic patient P-0245.
+P-0245 | presents_with | Recurrent fatigue | Patient P-0245 presents with recurrent fatigue.
+P-0245 | presents_with | Jaundice | Patient P-0245 presents with jaundice.
+P-0245 | presents_with | Abdominal pain | Patient P-0245 presents with abdominal pain.
+P-0245 | has_lab | Elevated liver enzymes | Patient P-0245 has elevated liver enzymes (ALT 124 U/L).
+P-0245 | underwent | HCV RNA test | Patient P-0245 underwent HCV RNA test.
+P-0245 | diagnosed_with | Hepatitis C | Patient P-0245 was diagnosed with hepatitis c after HCV RNA test.
+P-0245 | treated_with | Direct-acting antivirals | Patient P-0245 is treated with direct-acting antivirals.
+P-0245 | responding_to | Direct-acting antivirals | Patient P-0245 is responding to direct-acting antivirals at follow-up.

@@ -1,0 +1,9 @@
+# Synthetic patient P-0345.
+P-0345 | presents_with | Diarrhea | Patient P-0345 presents with diarrhea.
+P-0345 | presents_with | Bloating | Patient P-0345 presents with bloating.
+P-0345 | presents_with | Recurrent fatigue | Patient P-0345 presents with recurrent fatigue.
+P-0345 | has_lab | Low hemoglobin | Patient P-0345 has low hemoglobin (hemoglobin 11.4 g/dL).
+P-0345 | underwent | tTG antibody test | Patient P-0345 underwent tTG antibody test.
+P-0345 | diagnosed_with | Celiac disease | Patient P-0345 was diagnosed with celiac disease after tTG antibody test.
+P-0345 | treated_with | Gluten-free diet | Patient P-0345 is treated with gluten-free diet.
+P-0345 | responding_to | Gluten-free diet | Patient P-0345 is responding to gluten-free diet at follow-up.

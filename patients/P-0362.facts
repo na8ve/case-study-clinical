@@ -1,0 +1,12 @@
+# Synthetic patient P-0362.
+P-0362 | presents_with | Recurrent fatigue | Patient P-0362 presents with recurrent fatigue.
+P-0362 | presents_with | Pallor | Patient P-0362 presents with pallor.
+P-0362 | presents_with | Shortness of breath | Patient P-0362 presents with shortness of breath.
+P-0362 | presents_with | Brittle nails | Patient P-0362 presents with brittle nails.
+P-0362 | presents_with | Weight gain | Patient P-0362 also reports weight gain.
+P-0362 | has_lab | Low serum ferritin | Patient P-0362 has low serum ferritin (ferritin 13 ng/mL).
+P-0362 | has_lab | Low hemoglobin | Patient P-0362 has low hemoglobin (hemoglobin 10.2 g/dL).
+P-0362 | underwent | Complete blood count | Patient P-0362 underwent Complete blood count.
+P-0362 | diagnosed_with | Iron deficiency anemia | Patient P-0362 was diagnosed with iron deficiency anemia after Complete blood count.
+P-0362 | treated_with | Oral iron supplementation | Patient P-0362 is treated with oral iron supplementation.
+P-0362 | responding_to | Oral iron supplementation | Patient P-0362 is responding to oral iron supplementation at follow-up.

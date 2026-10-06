@@ -1,0 +1,8 @@
+# Synthetic patient P-0090.
+P-0090 | presents_with | Diarrhea | Patient P-0090 presents with diarrhea.
+P-0090 | presents_with | Recurrent fatigue | Patient P-0090 presents with recurrent fatigue.
+P-0090 | presents_with | Weight loss | Patient P-0090 presents with weight loss.
+P-0090 | has_lab | Low hemoglobin | Patient P-0090 has low hemoglobin (hemoglobin 10.6 g/dL).
+P-0090 | underwent | tTG antibody test | Patient P-0090 underwent tTG antibody test.
+P-0090 | diagnosed_with | Celiac disease | Patient P-0090 was diagnosed with celiac disease after tTG antibody test.
+P-0090 | treated_with | Gluten-free diet | Patient P-0090 is treated with gluten-free diet.

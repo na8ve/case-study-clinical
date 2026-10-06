@@ -1,0 +1,9 @@
+# Synthetic patient P-0240.
+P-0240 | presents_with | Recurrent fatigue | Patient P-0240 presents with recurrent fatigue.
+P-0240 | presents_with | Numbness | Patient P-0240 presents with numbness.
+P-0240 | presents_with | Pallor | Patient P-0240 presents with pallor.
+P-0240 | has_lab | Low vitamin B12 | Patient P-0240 has low vitamin b12 (B12 147 pg/mL).
+P-0240 | has_lab | Low hemoglobin | Patient P-0240 has low hemoglobin (hemoglobin 9.9 g/dL).
+P-0240 | underwent | Serum B12 test | Patient P-0240 underwent Serum B12 test.
+P-0240 | diagnosed_with | Vitamin B12 deficiency | Patient P-0240 was diagnosed with vitamin b12 deficiency after Serum B12 test.
+P-0240 | treated_with | B12 injections | Patient P-0240 is treated with b12 injections.

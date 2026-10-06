@@ -1,0 +1,9 @@
+# Synthetic patient P-0222.
+P-0222 | presents_with | Recurrent fatigue | Patient P-0222 presents with recurrent fatigue.
+P-0222 | presents_with | Weight gain | Patient P-0222 presents with weight gain.
+P-0222 | presents_with | Cold intolerance | Patient P-0222 presents with cold intolerance.
+P-0222 | presents_with | Dry skin | Patient P-0222 presents with dry skin.
+P-0222 | has_lab | High TSH | Patient P-0222 has high tsh (TSH 15.9 mIU/L).
+P-0222 | underwent | Thyroid function panel | Patient P-0222 underwent Thyroid function panel.
+P-0222 | diagnosed_with | Hypothyroidism | Patient P-0222 was diagnosed with hypothyroidism after Thyroid function panel.
+P-0222 | treated_with | Levothyroxine | Patient P-0222 is treated with levothyroxine.

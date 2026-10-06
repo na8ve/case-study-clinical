@@ -1,0 +1,8 @@
+# Synthetic patient P-0232.
+P-0232 | presents_with | Recurrent fatigue | Patient P-0232 presents with recurrent fatigue.
+P-0232 | presents_with | Frequent urination | Patient P-0232 presents with frequent urination.
+P-0232 | presents_with | Weight gain | Patient P-0232 also reports weight gain.
+P-0232 | underwent | Kidney function panel | Patient P-0232 underwent Kidney function panel.
+P-0232 | diagnosed_with | Chronic kidney disease | Patient P-0232 was diagnosed with chronic kidney disease after Kidney function panel.
+P-0232 | treated_with | Nephrology referral | Patient P-0232 is treated with nephrology referral.
+P-0232 | responding_to | Nephrology referral | Patient P-0232 is responding to nephrology referral at follow-up.

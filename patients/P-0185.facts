@@ -1,0 +1,11 @@
+# Synthetic patient P-0185.
+P-0185 | presents_with | Recurrent fatigue | Patient P-0185 presents with recurrent fatigue.
+P-0185 | presents_with | Jaundice | Patient P-0185 presents with jaundice.
+P-0185 | presents_with | Insomnia | Patient P-0185 also reports insomnia.
+P-0185 | has_lab | High serum ferritin | Patient P-0185 has high serum ferritin (ferritin 650 ng/mL).
+P-0185 | has_lab | Elevated liver enzymes | Patient P-0185 has elevated liver enzymes (ALT 199 U/L).
+P-0185 | has_risk | Heavy alcohol use | Patient P-0185 has a risk factor: heavy alcohol use.
+P-0185 | underwent | Liver ultrasound | Patient P-0185 underwent Liver ultrasound.
+P-0185 | diagnosed_with | Alcoholic liver disease | Patient P-0185 was diagnosed with alcoholic liver disease after Liver ultrasound.
+P-0185 | treated_with | Alcohol cessation | Patient P-0185 is treated with alcohol cessation.
+P-0185 | responding_to | Alcohol cessation | Patient P-0185 is responding to alcohol cessation at follow-up.

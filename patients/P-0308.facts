@@ -1,0 +1,6 @@
+# Synthetic patient P-0308.
+P-0308 | presents_with | Fever | Patient P-0308 presents with fever.
+P-0308 | has_lab | Elevated CRP | Patient P-0308 has elevated crp (CRP 100 mg/L).
+P-0308 | underwent | Blood culture | Patient P-0308 underwent Blood culture.
+P-0308 | diagnosed_with | Acute infection | Patient P-0308 was diagnosed with acute infection after Blood culture.
+P-0308 | treated_with | Antibiotic therapy | Patient P-0308 is treated with antibiotic therapy.
